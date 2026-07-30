@@ -1,0 +1,45 @@
+cd "c:/Users/LoïcMARCADET/Documents/Python/thesis/IO" && python -c "
+from io_pipeline import load_io_system, load_extension, compute_S
+from shock_analysis import run_green_deal_scenario, plot_shock_impact
+import pandas as pd
+
+CO2 = [
+    'CO2 - combustion - air',
+    'CO2 - non combustion - Cement production - air',
+    'CO2 - non combustion - Lime production - air',
+    'CO2_bio - combustion - air',
+]
+
+print('Chargement donnees...')
+io  = load_io_system(2019, 'pxp')
+ext = load_extension(2019, 'air_emissions', 'pxp')
+Z, x, Y = io['Z'], io['x'], io['Y']
+F, F_Y  = ext['F'], ext['F_Y']
+S        = compute_S(F.loc[F.index.intersection(CO2)], x)
+F_Y_filt = F_Y.loc[F_Y.index.intersection(CO2)]
+
+results = run_green_deal_scenario(
+    Z=Z, x=x, Y=Y, S=S, F_Y=F_Y_filt,
+    shock_pct=0.50,
+    stressor_agg=CO2,
+    demand_categories=["Gross fixed capital formation"],
+)
+
+print()
+print('=== RESULTATS GREEN NEW DEAL (10% fossile -> renouvelable, GFCF) ===')
+comp = pd.DataFrame({
+    'Baseline (kg CO2)': results['fp_baseline'],
+    'Shocked  (kg CO2)': results['fp_shocked'],
+    'Delta    (kg CO2)': results['delta'],
+    'Delta %'          : results['delta_pct'].round(4),
+}).fillna(0)
+print(comp.to_string())
+print()
+print(f'Total redirige  : {results[\"info\"][\"total_redirected_M€\"]:.0f} M€')
+print(f'Delta CO2 total : {results[\"delta\"].sum():.3e} kg CO2')
+print(f'Delta x total   : {results[\"info\"][\"delta_x_total_M€\"]:.0f} M€')
+
+plot_shock_impact(results, stressor_label='CO2 total', unit='kg CO2',
+                  save_path='Figs/shock_green_deal_GFCF.html')
+print('Graphique sauvegarde : Figs/shock_green_deal.html')
+" 2>&1

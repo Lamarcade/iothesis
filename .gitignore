@@ -15,12 +15,11 @@ __pycache__/
 *.swp
 *.tmp
 
-# Large/generated assets
-Data/
-Figs/
+# Large assets
+#Data/
+#Figs/
 EXIOBASE_data/
-*.xlsx
+#*.xlsx
 *.zip
-*.parquet
 *.html
-*.png
+#*.png

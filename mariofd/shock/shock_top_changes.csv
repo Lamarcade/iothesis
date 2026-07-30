@@ -1,0 +1,101 @@
+Region,Level,Item,Item,0
+US,Sector,Production of electricity by coal,Distribution and trade of electricity,2.5970595813993516
+US,Sector,Real estate activities (70),Other business activities (74),0.6584516494719486
+US,Sector,Other business activities (74),Production of electricity by coal,0.198003025363505
+US,Sector,Other land transport,Production of electricity by coal,0.10018731566310635
+US,Sector,Public administration and defence; compulsory social security (75),Production of electricity by coal,0.08925024598170239
+US,Sector,Mining of coal and lignite; extraction of peat (10),Production of electricity by coal,0.08811004687413515
+US,Sector,Supporting and auxiliary transport activities; activities of travel agencies (63),Production of electricity by coal,0.08015580509595566
+US,Sector,Other business activities (74),Real estate activities (70),0.05750524275936186
+US,Sector,Petroleum Refinery,Production of electricity by coal,0.048314348268831964
+US,Sector,Other business activities (74),Other business activities (74),0.04807400674326345
+US,Sector,"Financial intermediation, except insurance and pension funding (65)",Production of electricity by coal,0.04467430290583252
+US,Sector,"Financial intermediation, except insurance and pension funding (65)",Real estate activities (70),0.043262246617814526
+US,Sector,Construction (45),Production of electricity by coal,0.03329306218824968
+US,Sector,Real estate activities (70),Real estate activities (70),0.02821229034452699
+US,Sector,Construction (45),Real estate activities (70),0.025528466343530454
+US,Sector,Real estate activities (70),Production of electricity by coal,0.02429147240582097
+US,Sector,Computer and related activities (72),Production of electricity by coal,0.02250908885082481
+WL,Sector,Mining of coal and lignite; extraction of peat (10),Production of electricity by coal,0.018837120083446734
+US,Sector,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",Petroleum Refinery,0.01715663433424197
+US,Sector,"Financial intermediation, except insurance and pension funding (65)","Financial intermediation, except insurance and pension funding (65)",0.01508369855582714
+US,Sector,Hotels and restaurants (55),Production of electricity by coal,0.01507484099334988
+US,Sector,"Collection, purification and distribution of water (41)",Production of electricity by coal,0.013826402615563893
+US,Sector,"Insurance and pension funding, except compulsory social security (66)",Real estate activities (70),0.013625993931782432
+US,Sector,Computer and related activities (72),Other business activities (74),0.011406116973375902
+US,Sector,Other business activities (74),"Financial intermediation, except insurance and pension funding (65)",0.011263338092248887
+US,Sector,"Recreational, cultural and sporting activities (92)",Production of electricity by coal,0.011012597870774243
+US,Sector,Chemicals nec,Production of electricity by coal,0.009908562545547284
+US,Sector,"Financial intermediation, except insurance and pension funding (65)",Other business activities (74),0.00989899224077817
+US,Sector,Post and telecommunications (64),Production of electricity by coal,0.009773144204842765
+US,Sector,Hotels and restaurants (55),Real estate activities (70),0.009546634144498967
+US,Sector,Post and telecommunications (64),Other business activities (74),0.008468870830256492
+US,Sector,Activities auxiliary to financial intermediation (67),Activities auxiliary to financial intermediation (67),0.007865545572713017
+US,Sector,Distribution and trade of electricity,Real estate activities (70),0.007803832952049561
+CA,Sector,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",Petroleum Refinery,0.007359019233263098
+US,Sector,Other business activities (74),Computer and related activities (72),0.0071401303721359
+US,Sector,Post and telecommunications (64),Real estate activities (70),0.0070417643582914025
+US,Sector,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",Mining of coal and lignite; extraction of peat (10),0.006973305440169497
+US,Sector,Other business activities (74),Public administration and defence; compulsory social security (75),0.006346550188027322
+US,Sector,Hotels and restaurants (55),Other business activities (74),0.005998512911901344
+US,Sector,Renting of machinery and equipment without operator and of personal and household goods (71),Production of electricity by coal,0.00539953420316408
+US,Sector,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying","Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",0.005356204914278351
+US,Sector,Post and telecommunications (64),Other land transport,0.005263323455437785
+US,Sector,Real estate activities (70),"Financial intermediation, except insurance and pension funding (65)",0.005188875526073389
+CA,Sector,Petroleum Refinery,Production of electricity by coal,0.005014658465881894
+US,Sector,Supporting and auxiliary transport activities; activities of travel agencies (63),Supporting and auxiliary transport activities; activities of travel agencies (63),0.00495635908737313
+US,Sector,Renting of machinery and equipment without operator and of personal and household goods (71),Other business activities (74),0.0049519340973347425
+US,Sector,Activities auxiliary to financial intermediation (67),"Insurance and pension funding, except compulsory social security (66)",0.0049470676749479026
+US,Sector,Supporting and auxiliary transport activities; activities of travel agencies (63),Other land transport,0.004511231614742428
+US,Sector,"Biogasification of sewage slugde, incl. land application",Production of electricity by coal,0.004380647904838497
+US,Sector,Public administration and defence; compulsory social security (75),Real estate activities (70),0.004291624361940194
+US,Sector,Manufacture of gas; distribution of gaseous fuels through mains,Real estate activities (70),0.004287974083126755
+US,Sector,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",Other business activities (74),0.00422425071883481
+US,Sector,"Publishing, printing and reproduction of recorded media (22)",Production of electricity by coal,0.004132140723513089
+US,Sector,"Recreational, cultural and sporting activities (92)","Recreational, cultural and sporting activities (92)",0.004008442265330814
+US,Sector,"Waste water treatment, food",Production of electricity by coal,0.003958444765942204
+US,Sector,Other business activities (74),Mining of coal and lignite; extraction of peat (10),0.003892581256423
+US,Sector,Other land transport,Petroleum Refinery,0.0038553915692318697
+US,Sector,Production of electricity by gas,Real estate activities (70),0.0038543017362826504
+US,Sector,Air transport (62),Production of electricity by coal,0.003749265542261071
+US,Sector,Other business activities (74),Hotels and restaurants (55),0.0037398802378447726
+US,Sector,"Publishing, printing and reproduction of recorded media (22)",Other business activities (74),0.0036911860734107904
+US,Sector,"Recreational, cultural and sporting activities (92)",Real estate activities (70),0.0035989060324936872
+US,Sector,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",Construction (45),0.0035633862717077136
+US,Sector,Other business activities (74),"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",0.003544243227224797
+US,Sector,"Financial intermediation, except insurance and pension funding (65)",Mining of coal and lignite; extraction of peat (10),0.003529284460682902
+US,Sector,"Recreational, cultural and sporting activities (92)",Other business activities (74),0.0034129845516872592
+US,Sector,Petroleum Refinery,Mining of coal and lignite; extraction of peat (10),0.0032049888553729033
+US,Sector,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",Chemicals nec,0.003186526650097221
+US,Sector,Air transport (62),Real estate activities (70),0.003046480214834446
+US,Sector,"Financial intermediation, except insurance and pension funding (65)","Insurance and pension funding, except compulsory social security (66)",0.0030016204400453717
+US,Sector,Supporting and auxiliary transport activities; activities of travel agencies (63),Other business activities (74),0.002951468555693282
+US,Sector,Computer and related activities (72),Public administration and defence; compulsory social security (75),0.0028970752464374527
+US,Sector,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",Construction (45),0.002891542506404221
+US,Sector,Production of electricity by biomass and waste,Production of electricity by coal,0.0028846166960718733
+US,Sector,Mining of coal and lignite; extraction of peat (10),Mining of coal and lignite; extraction of peat (10),0.002858384382875556
+US,Sector,Other business activities (74),Supporting and auxiliary transport activities; activities of travel agencies (63),0.0028382419150148053
+US,Sector,Other business activities (74),Construction (45),0.0027915854880120605
+US,Sector,Computer and related activities (72),Real estate activities (70),0.002786423843645025
+US,Sector,Other business activities (74),"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",0.0027319786458974704
+US,Sector,Other business activities (74),Petroleum Refinery,0.0026928611878247466
+US,Sector,Construction (45),Public administration and defence; compulsory social security (75),0.0026865772088058293
+US,Sector,"Insurance and pension funding, except compulsory social security (66)",Public administration and defence; compulsory social security (75),0.002638838777784258
+US,Sector,"Manufacture of fabricated metal products, except machinery and equipment (28)",Construction (45),0.0025712909482535906
+US,Sector,Real estate activities (70),Hotels and restaurants (55),0.0025531792198307812
+US,Sector,Precious metals production,Production of electricity by coal,0.002510602339874879
+US,Sector,Manufacture of machinery and equipment n.e.c. (29),Mining of coal and lignite; extraction of peat (10),0.002468404346927855
+US,Sector,Real estate activities (70),Supporting and auxiliary transport activities; activities of travel agencies (63),0.002410069611869403
+US,Sector,Post and telecommunications (64),"Financial intermediation, except insurance and pension funding (65)",0.0024072464075288735
+US,Sector,Other land transport,Other business activities (74),0.0024005093800951727
+US,Sector,Production of electricity by coal,Real estate activities (70),0.0023781531781423837
+US,Sector,Other land transport,Real estate activities (70),0.0023268600289156893
+US,Sector,Air transport (62),Other business activities (74),0.002298997318575857
+CA,Sector,Chemicals nec,Production of electricity by coal,0.0022924942881275
+US,Sector,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",Mining of coal and lignite; extraction of peat (10),0.0022827586163884916
+US,Sector,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",Public administration and defence; compulsory social security (75),0.002248214885185007
+US,Sector,Post and telecommunications (64),Public administration and defence; compulsory social security (75),0.0022268785323831253
+WL,Sector,Petroleum Refinery,Production of electricity by coal,0.0022251894364302416
+US,Sector,Landfill of waste: Inert/metal/hazardous,Production of electricity by coal,0.0021983339499982435
+US,Sector,"Insurance and pension funding, except compulsory social security (66)",Mining of coal and lignite; extraction of peat (10),0.0021621068892727635
+US,Sector,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",Real estate activities (70),0.0021449276591738453

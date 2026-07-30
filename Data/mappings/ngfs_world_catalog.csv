@@ -1,0 +1,1169 @@
+source,Variable,Unit,n_models,n_scenarios,n_regions
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Aerosols|Direct Effect|BC|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Aerosols|Direct Effect|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Aerosols|Direct Effect|OC|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Aerosols|Direct Effect|Sulfur|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Aerosols|Indirect Effect|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Aerosols|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Basket|Anthropogenic|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Basket|Greenhouse Gases|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Basket|Non-CO2 Anthropogenic|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Basket|Non-CO2 Greenhouse Gases|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|C2F6|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|C6F14|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|CF4|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|CFC11|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|CFC12|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|CH4|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|CO2|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|F-Gases|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HCFC22|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC125|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC134a|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC143a|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC227ea|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC23|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC245fa|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC32|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|HFC4310mee|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Montreal Protocol Halogen Gases|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|N2O|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|Ozone|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Effective Radiative Forcing|SF6|MAGICCv7.5.3|50.0th Percentile,W/m^2,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|BC,Mt BC/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|CH4,Mt CH4/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|CO,Mt CO/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|CO2|AFOLU,Mt CO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|HFC|HFC125,kt HFC125/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|HFC|HFC134a,kt HFC134a/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|HFC|HFC143a,kt HFC143a/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|HFC|HFC23,kt HFC23/yr,3,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|HFC|HFC32,kt HFC32/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|HFC|HFC43-10,kt HFC4310/yr,3,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|N2O,kt N2O/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|NH3,Mt NH3/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|NOx,Mt NO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|OC,Mt OC/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|SF6,kt SF6/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|Sulfur,Mt SO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Harmonized|Emissions|VOC,Mt VOC/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|BC,Mt BC/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CCl4,kt CCl4/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CFC11,kt CFC11/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CFC113,kt CFC113/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CFC114,kt CFC114/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CFC115,kt CFC115/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CFC12,kt CFC12/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CH2Cl2,kt CH2Cl2/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CH3Br,kt CH3Br/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CH3CCl3,kt CH3CCl3/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CH3Cl,kt CH3Cl/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CH4,Mt CH4/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CHCl3,kt CHCl3/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CO,Mt CO/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CO2|AFOLU,Mt CO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HCFC141b,kt HCFC141b/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HCFC142b,kt HCFC142b/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HCFC22,kt HCFC22/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC125,kt HFC125/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC134a,kt HFC134a/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC143a,kt HFC143a/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC152a,kt HFC152a/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC227ea,kt HFC227ea/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC23,kt HFC23/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC236fa,kt HFC236fa/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC245ca,kt HFC245ca/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC32,kt HFC32/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC365mfc,kt HFC365mfc/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|HFC|HFC43-10,kt HFC43-10/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|Halon1202,kt Halon1202/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|Halon1211,kt Halon1211/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|Halon1301,kt Halon1301/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|Halon2402,kt Halon2402/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|N2O,kt N2O/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|NF3,kt NF3/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|NH3,Mt NH3/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|NOx,Mt NO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|OC,Mt OC/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C2F6,kt C2F6/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C3F8,kt C3F8/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C4F10,kt C4F10/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C5F12,kt C5F12/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C6F14,kt C6F14/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C7F16,kt C7F16/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|C8F18,kt C8F18/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|CF4,kt CF4/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|PFC|cC4F8,kt cC4F8/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|SF6,kt SF6/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|SO2F2,kt SO2F2/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|Sulfur,Mt SO2/yr,4,7,1
+IAM,AR6 climate diagnostics|Infilled|Emissions|VOC,Mt VOC/yr,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|10.0th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|16.7th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|17.0th Percentile,K,1,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|25.0th Percentile,K,1,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|33.0th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|66.0th Percentile,K,1,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|67.0th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|75.0th Percentile,K,1,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|83.0th Percentile,K,1,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|83.3th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|90.0th Percentile,K,4,7,1
+IAM,AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,K,4,7,1
+IAM,Agricultural Demand,million t DM/yr,4,7,1
+IAM,Agricultural Demand|Crops,million t DM/yr,3,7,1
+IAM,Agricultural Demand|Crops|Energy,million t DM/yr,3,7,1
+IAM,Agricultural Demand|Crops|Energy|1st generation,million t DM/yr,2,7,1
+IAM,Agricultural Demand|Crops|Energy|2nd generation,million t DM/yr,2,7,1
+IAM,Agricultural Demand|Crops|Feed,million t DM/yr,3,7,1
+IAM,Agricultural Demand|Crops|Food,million t DM/yr,4,7,1
+IAM,Agricultural Demand|Crops|Other,million t DM/yr,3,7,1
+IAM,Agricultural Demand|Livestock,million t DM/yr,3,7,1
+IAM,Agricultural Demand|Livestock|Food,million t DM/yr,3,7,1
+IAM,Agricultural Demand|Livestock|Other,million t DM/yr,2,7,1
+IAM,Agricultural Production,million t DM/yr,3,7,1
+IAM,Agricultural Production|Energy,million t DM/yr,3,7,1
+IAM,Agricultural Production|Energy|Crops,million t DM/yr,3,7,1
+IAM,Agricultural Production|Energy|Residues,million t DM/yr,2,7,1
+IAM,Agricultural Production|Non-Energy,million t DM/yr,3,7,1
+IAM,Agricultural Production|Non-Energy|Crops,million t DM/yr,3,7,1
+IAM,Agricultural Production|Non-Energy|Livestock,million t DM/yr,3,7,1
+IAM,Capacity Additions|Electricity|Biomass,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Biomass|w/ CCS,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Biomass|w/o CCS,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Coal,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Coal|w/ CCS,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Coal|w/o CCS,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Gas,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Gas|w/ CCS,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Gas|w/o CCS,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Geothermal,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Hydro,GW/yr,3,7,1
+IAM,Capacity Additions|Electricity|Nuclear,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Oil,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Oil|w/ CCS,GW/yr,1,7,1
+IAM,Capacity Additions|Electricity|Oil|w/o CCS,GW/yr,2,7,1
+IAM,Capacity Additions|Electricity|Solar,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Solar|CSP,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Solar|PV,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Storage Capacity,GWh/yr,3,7,1
+IAM,Capacity Additions|Electricity|Wind,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Wind|Offshore,GW/yr,4,7,1
+IAM,Capacity Additions|Electricity|Wind|Onshore,GW/yr,4,7,1
+IAM,Capacity|Electricity,GW,4,7,1
+IAM,Capacity|Electricity|Biomass,GW,4,7,1
+IAM,Capacity|Electricity|Biomass|w/ CCS,GW,4,7,1
+IAM,Capacity|Electricity|Biomass|w/o CCS,GW,4,7,1
+IAM,Capacity|Electricity|Coal,GW,4,7,1
+IAM,Capacity|Electricity|Coal|w/ CCS,GW,4,7,1
+IAM,Capacity|Electricity|Coal|w/o CCS,GW,4,7,1
+IAM,Capacity|Electricity|Gas,GW,4,7,1
+IAM,Capacity|Electricity|Gas|w/ CCS,GW,4,7,1
+IAM,Capacity|Electricity|Gas|w/o CCS,GW,4,7,1
+IAM,Capacity|Electricity|Geothermal,GW,4,7,1
+IAM,Capacity|Electricity|Hydro,GW,4,7,1
+IAM,Capacity|Electricity|Nuclear,GW,4,7,1
+IAM,Capacity|Electricity|Oil,GW,4,7,1
+IAM,Capacity|Electricity|Oil|w/ CCS,GW,1,7,1
+IAM,Capacity|Electricity|Oil|w/o CCS,GW,4,7,1
+IAM,Capacity|Electricity|Other,GW,2,7,1
+IAM,Capacity|Electricity|Solar,GW,4,7,1
+IAM,Capacity|Electricity|Solar|CSP,GW,4,7,1
+IAM,Capacity|Electricity|Solar|PV,GW,4,7,1
+IAM,Capacity|Electricity|Storage,GW,3,7,1
+IAM,Capacity|Electricity|Wind,GW,4,7,1
+IAM,Capacity|Electricity|Wind|Offshore,GW,4,7,1
+IAM,Capacity|Electricity|Wind|Onshore,GW,4,7,1
+IAM,Capacity|Gases,GW,3,7,1
+IAM,Capacity|Gases|Biomass,GW,3,7,1
+IAM,Capacity|Gases|Biomass|w/o CCS,GW,1,7,1
+IAM,Capacity|Gases|Coal,GW,3,7,1
+IAM,Capacity|Gases|Coal|w/o CCS,GW,1,7,1
+IAM,Capacity|Hydrogen,GW,3,7,1
+IAM,Capacity|Hydrogen|Biomass,GW,3,7,1
+IAM,Capacity|Hydrogen|Biomass|w/ CCS,GW,3,7,1
+IAM,Capacity|Hydrogen|Biomass|w/o CCS,GW,3,7,1
+IAM,Capacity|Hydrogen|Coal,GW,3,7,1
+IAM,Capacity|Hydrogen|Coal|w/ CCS,GW,3,7,1
+IAM,Capacity|Hydrogen|Coal|w/o CCS,GW,3,7,1
+IAM,Capacity|Hydrogen|Electricity,GW,3,7,1
+IAM,Capacity|Hydrogen|Gas,GW,3,7,1
+IAM,Capacity|Hydrogen|Gas|w/ CCS,GW,3,7,1
+IAM,Capacity|Hydrogen|Gas|w/o CCS,GW,3,7,1
+IAM,Capacity|Liquids,GW,3,7,1
+IAM,Capacity|Liquids|Biomass,GW,3,7,1
+IAM,Capacity|Liquids|Biomass|w/ CCS,GW,1,7,1
+IAM,Capacity|Liquids|Biomass|w/o CCS,GW,1,7,1
+IAM,Capacity|Liquids|Coal,GW,3,7,1
+IAM,Capacity|Liquids|Coal|w/ CCS,GW,1,7,1
+IAM,Capacity|Liquids|Coal|w/o CCS,GW,1,7,1
+IAM,Capacity|Liquids|Gas,GW,1,7,1
+IAM,Capacity|Liquids|Gas|w/ CCS,GW,1,7,1
+IAM,Capacity|Liquids|Gas|w/o CCS,GW,1,7,1
+IAM,Capacity|Liquids|Oil,GW,3,7,1
+IAM,Capital Cost|Electricity|Biomass|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Biomass|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Coal|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Coal|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Gas|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Gas|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Geothermal,US$2010/kW,4,7,1
+IAM,Capital Cost|Electricity|Hydro,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Nuclear,US$2010/kW,4,7,1
+IAM,Capital Cost|Electricity|Solar|CSP,US$2010/kW,3,7,1
+IAM,Capital Cost|Electricity|Solar|PV,US$2010/kW,4,7,1
+IAM,Capital Cost|Electricity|Wind|Offshore,US$2010/kW,4,7,1
+IAM,Capital Cost|Electricity|Wind|Onshore,US$2010/kW,4,7,1
+IAM,Capital Cost|Gases|Biomass|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Gases|Coal|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Biomass|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Biomass|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Coal|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Coal|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Electricity,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Gas|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Hydrogen|Gas|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Liquids|Biomass|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Liquids|Biomass|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Liquids|Coal|w/ CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Liquids|Coal|w/o CCS,US$2010/kW,3,7,1
+IAM,Capital Cost|Liquids|Gas|w/ CCS,US$2010/kW,1,7,1
+IAM,Capital Cost|Liquids|Gas|w/o CCS,US$2010/kW,1,7,1
+IAM,Capital Cost|Liquids|Oil,US$2010/kW,2,7,1
+IAM,Carbon Sequestration|CCS,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Biomass|Energy|Demand|Industry,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Biomass|Energy|Supply,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Biomass|Energy|Supply|Electricity,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Biomass|Energy|Supply|Hydrogen,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Biomass|Energy|Supply|Liquids,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Fossil,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Fossil|Energy|Demand|Industry,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Fossil|Energy|Supply,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Fossil|Energy|Supply|Electricity,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Fossil|Energy|Supply|Hydrogen,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|CCS|Fossil|Energy|Supply|Liquids,Mt CO2/yr,3,7,1
+IAM,Carbon Sequestration|CCS|Industrial Processes,Mt CO2/yr,4,7,1
+IAM,Carbon Sequestration|Land Use,Mt CO2/yr,3,7,1
+IAM,Carbon Sequestration|Land Use|Afforestation,Mt CO2/yr,3,7,1
+NiGEM,Coal price ; US$ per barrel (equiv),US$ per barrel (equiv),3,1,1
+NiGEM,Coal price ; US$ per barrel (equiv)(combined(no bus)),% difference,3,2,1
+NiGEM,Coal price ; US$ per barrel (equiv)(combined),% difference,3,5,1
+NiGEM,Coal price ; US$ per barrel (equiv)(physical),% difference,3,6,1
+NiGEM,Coal price ; US$ per barrel (equiv)(transition),% difference,3,5,1
+IAM,Consumption,billion US$2010/yr,3,7,1
+IAM,Emissions|BC,Mt BC/yr,4,7,1
+IAM,Emissions|BC|AFOLU,Mt BC/yr,4,7,1
+IAM,Emissions|BC|Energy,Mt BC/yr,4,7,1
+IAM,Emissions|BC|Energy|Demand|Industry,Mt BC/yr,4,7,1
+IAM,Emissions|BC|Energy|Demand|Residential and Commercial,Mt BC/yr,4,7,1
+IAM,Emissions|BC|Energy|Demand|Transportation,Mt BC/yr,4,7,1
+IAM,Emissions|BC|Energy|Supply,Mt BC/yr,4,7,1
+IAM,Emissions|BC|Energy|Supply|Gases|Extraction,Mt BC/yr,1,2,1
+IAM,Emissions|BC|Energy|Supply|Liquids|Extraction,Mt BC/yr,1,2,1
+IAM,Emissions|BC|Energy|Supply|Solids|Extraction,Mt BC/yr,1,2,1
+IAM,Emissions|BC|Other,Mt BC/yr,2,7,1
+IAM,Emissions|BC|Waste,Mt BC/yr,3,7,1
+IAM,Emissions|C2F6,kt C2F6/yr,3,7,1
+IAM,Emissions|C6F14,kt C6F14/yr,2,7,1
+IAM,Emissions|CF4,kt CF4/yr,4,7,1
+IAM,Emissions|CH4,Mt CH4/yr,4,7,1
+IAM,Emissions|CH4|AFOLU,Mt CH4/yr,4,7,1
+IAM,Emissions|CH4|Energy,Mt CH4/yr,4,7,1
+IAM,Emissions|CH4|Energy|Demand|Industry,Mt CH4/yr,2,7,1
+IAM,Emissions|CH4|Energy|Demand|Residential and Commercial,Mt CH4/yr,2,7,1
+IAM,Emissions|CH4|Energy|Demand|Transportation,Mt CH4/yr,2,7,1
+IAM,Emissions|CH4|Energy|Supply,Mt CH4/yr,4,7,1
+IAM,Emissions|CH4|Energy|Supply|Gases|Extraction,Mt CH4/yr,1,2,1
+IAM,Emissions|CH4|Energy|Supply|Liquids|Extraction,Mt CH4/yr,1,2,1
+IAM,Emissions|CH4|Energy|Supply|Solids|Extraction,Mt CH4/yr,1,2,1
+IAM,Emissions|CH4|Other,Mt CH4/yr,1,7,1
+IAM,Emissions|CH4|Waste,Mt CH4/yr,3,7,1
+IAM,Emissions|CO,Mt CO/yr,4,7,1
+IAM,Emissions|CO2,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|AFOLU,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|AFOFI,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Cement,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Chemicals,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Chemicals|Ammonia,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Chemicals|High value chemicals,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Non-ferrous metals,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Other,Mt CO2/yr,3,7,1
+IAM,Emissions|CO2|Energy|Demand|Industry|Steel,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|Residential and Commercial,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|Residential and Commercial|Commercial,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Residential and Commercial|Residential,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Aviation,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Aviation|Passenger,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Freight,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Maritime|Freight,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Passenger,Mt CO2/yr,1,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Rail,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Rail|Freight,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Rail|Passenger,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Road,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Road|Freight,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger|Bus,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger|LDV,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Supply,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Supply|Extraction,Mt CO2/yr,2,7,1
+IAM,Emissions|CO2|Energy|Supply|Gases,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Supply|Gases|Extraction,Mt CO2/yr,1,2,1
+IAM,Emissions|CO2|Energy|Supply|Heat,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Supply|Liquids,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Supply|Liquids|Extraction,Mt CO2/yr,1,2,1
+IAM,Emissions|CO2|Energy|Supply|Other Sector,Mt CO2/yr,3,7,1
+IAM,Emissions|CO2|Energy|Supply|Solids,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Energy|Supply|Solids|Extraction,Mt CO2/yr,1,2,1
+IAM,Emissions|CO2|Industrial Processes,Mt CO2/yr,4,7,1
+IAM,Emissions|CO2|Industrial Processes|Cement,Mt CO2/yr,3,7,1
+IAM,Emissions|CO2|Industrial Processes|Chemicals,Mt CO2/yr,2,7,1
+IAM,Emissions|CO|AFOLU,Mt CO/yr,4,7,1
+IAM,Emissions|CO|Energy,Mt CO/yr,4,7,1
+IAM,Emissions|CO|Energy|Demand|Industry,Mt CO/yr,4,7,1
+IAM,Emissions|CO|Energy|Demand|Residential and Commercial,Mt CO/yr,4,7,1
+IAM,Emissions|CO|Energy|Demand|Transportation,Mt CO/yr,4,7,1
+IAM,Emissions|CO|Energy|Supply,Mt CO/yr,4,7,1
+IAM,Emissions|CO|Energy|Supply|Gases|Extraction,Mt CO/yr,1,2,1
+IAM,Emissions|CO|Energy|Supply|Liquids|Extraction,Mt CO/yr,1,2,1
+IAM,Emissions|CO|Energy|Supply|Solids|Extraction,Mt CO/yr,1,2,1
+IAM,Emissions|F-Gases,Mt CO2-equiv/yr,4,7,1
+IAM,Emissions|HFC,kt HFC134a-equiv/yr,4,7,1
+IAM,Emissions|HFC|HFC125,kt HFC125/yr,4,7,1
+IAM,Emissions|HFC|HFC134a,kt HFC134a/yr,4,7,1
+IAM,Emissions|HFC|HFC143a,kt HFC143a/yr,4,7,1
+IAM,Emissions|HFC|HFC227ea,kt HFC227ea/yr,4,7,1
+IAM,Emissions|HFC|HFC23,kt HFC23/yr,4,7,1
+IAM,Emissions|HFC|HFC245fa,kt HFC245fa/yr,4,7,1
+IAM,Emissions|HFC|HFC32,kt HFC32/yr,4,7,1
+IAM,Emissions|HFC|HFC43-10,kt HFC43-10/yr,3,7,1
+IAM,Emissions|Kyoto Gases,Mt CO2-equiv/yr,4,7,1
+IAM,Emissions|Kyoto Gases|AFOLU,Mt CO2-equiv/yr,3,7,1
+IAM,Emissions|Kyoto Gases|Cement,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Chemicals,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Electricity,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Industry,Mt CO2-equiv/yr,3,7,1
+IAM,Emissions|Kyoto Gases|Other,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Other Energy Supply,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Other Industry,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Residential and Commercial,Mt CO2-equiv/yr,2,7,1
+IAM,Emissions|Kyoto Gases|Steel,Mt CO2-equiv/yr,1,7,1
+IAM,Emissions|Kyoto Gases|Supply,Mt CO2-equiv/yr,3,7,1
+IAM,Emissions|Kyoto Gases|Transportation,Mt CO2-equiv/yr,3,7,1
+IAM,Emissions|N2O,kt N2O/yr,4,7,1
+IAM,Emissions|N2O|AFOLU,kt N2O/yr,4,7,1
+IAM,Emissions|N2O|Energy,kt N2O/yr,4,7,1
+IAM,Emissions|N2O|Energy|Supply|Gases|Extraction,kt N2O/yr,1,2,1
+IAM,Emissions|N2O|Energy|Supply|Liquids|Extraction,kt N2O/yr,1,2,1
+IAM,Emissions|N2O|Energy|Supply|Solids|Extraction,kt N2O/yr,1,2,1
+IAM,Emissions|N2O|Industrial Processes,kt N2O/yr,3,7,1
+IAM,Emissions|N2O|Other,kt N2O/yr,1,7,1
+IAM,Emissions|N2O|Waste,kt N2O/yr,3,7,1
+IAM,Emissions|NH3,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|AFOLU,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|Energy,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|Energy|Demand|Industry,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|Energy|Demand|Residential and Commercial,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|Energy|Demand|Transportation,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|Energy|Supply,Mt NH3/yr,4,7,1
+IAM,Emissions|NH3|Energy|Supply|Gases|Extraction,Mt NH3/yr,1,2,1
+IAM,Emissions|NH3|Energy|Supply|Liquids|Extraction,Mt NH3/yr,1,2,1
+IAM,Emissions|NH3|Energy|Supply|Solids|Extraction,Mt NH3/yr,1,2,1
+IAM,Emissions|NH3|Other,Mt NH3/yr,2,7,1
+IAM,Emissions|NH3|Waste,Mt NH3/yr,3,7,1
+IAM,Emissions|NOx,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|AFOLU,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|Energy,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|Energy|Demand|Industry,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|Energy|Demand|Residential and Commercial,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|Energy|Demand|Transportation,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|Energy|Supply,Mt NO2/yr,4,7,1
+IAM,Emissions|NOx|Energy|Supply|Gases|Extraction,Mt NO2/yr,1,2,1
+IAM,Emissions|NOx|Energy|Supply|Liquids|Extraction,Mt NO2/yr,1,2,1
+IAM,Emissions|NOx|Energy|Supply|Solids|Extraction,Mt NO2/yr,1,2,1
+IAM,Emissions|NOx|Other,Mt NO2/yr,2,7,1
+IAM,Emissions|NOx|Waste,Mt NO2/yr,3,7,1
+IAM,Emissions|OC,Mt OC/yr,4,7,1
+IAM,Emissions|OC|AFOLU,Mt OC/yr,4,7,1
+IAM,Emissions|OC|Energy,Mt OC/yr,4,7,1
+IAM,Emissions|OC|Energy|Demand|Industry,Mt OC/yr,4,7,1
+IAM,Emissions|OC|Energy|Demand|Residential and Commercial,Mt OC/yr,4,7,1
+IAM,Emissions|OC|Energy|Demand|Transportation,Mt OC/yr,4,7,1
+IAM,Emissions|OC|Energy|Supply,Mt OC/yr,4,7,1
+IAM,Emissions|OC|Energy|Supply|Gases|Extraction,Mt OC/yr,1,2,1
+IAM,Emissions|OC|Energy|Supply|Liquids|Extraction,Mt OC/yr,1,2,1
+IAM,Emissions|OC|Energy|Supply|Solids|Extraction,Mt OC/yr,1,2,1
+IAM,Emissions|OC|Other,Mt OC/yr,2,7,1
+IAM,Emissions|OC|Waste,Mt OC/yr,3,7,1
+IAM,Emissions|PFC,kt CF4-equiv/yr,3,7,1
+IAM,Emissions|SF6,kt SF6/yr,4,7,1
+IAM,Emissions|Sulfur,Mt SO2/yr,4,7,1
+IAM,Emissions|Sulfur|AFOLU,Mt SO2/yr,2,7,1
+IAM,Emissions|Sulfur|Energy,Mt SO2/yr,2,7,1
+IAM,Emissions|Sulfur|Energy|Demand|Industry,Mt SO2/yr,2,7,1
+IAM,Emissions|Sulfur|Energy|Demand|Residential and Commercial,Mt SO2/yr,2,7,1
+IAM,Emissions|Sulfur|Energy|Demand|Transportation,Mt SO2/yr,2,7,1
+IAM,Emissions|Sulfur|Energy|Supply,Mt SO2/yr,2,7,1
+IAM,Emissions|Sulfur|Energy|Supply|Gases|Extraction,Mt SO2/yr,1,2,1
+IAM,Emissions|Sulfur|Energy|Supply|Liquids|Extraction,Mt SO2/yr,1,2,1
+IAM,Emissions|Sulfur|Energy|Supply|Solids|Extraction,Mt SO2/yr,1,2,1
+IAM,Emissions|Sulfur|Waste,Mt SO2/yr,1,7,1
+IAM,Emissions|VOC,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|AFOLU,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|Energy,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|Energy|Demand|Industry,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|Energy|Demand|Residential and Commercial,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|Energy|Demand|Transportation,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|Energy|Supply,Mt VOC/yr,4,7,1
+IAM,Emissions|VOC|Energy|Supply|Gases|Extraction,Mt VOC/yr,1,2,1
+IAM,Emissions|VOC|Energy|Supply|Liquids|Extraction,Mt VOC/yr,1,2,1
+IAM,Emissions|VOC|Energy|Supply|Solids|Extraction,Mt VOC/yr,1,2,1
+IAM,Emissions|VOC|Other,Mt VOC/yr,2,7,1
+IAM,Emissions|VOC|Waste,Mt VOC/yr,3,7,1
+IAM,Energy Service|Residential and Commercial|Floor Space,billion m2,3,7,1
+IAM,Energy Service|Residential and Commercial|Residential|Floor Space,billion m2,1,7,1
+IAM,Energy Service|Transportation|Aviation,billion vkm/yr,3,7,1
+IAM,Energy Service|Transportation|Freight,billion tkm/yr,3,7,1
+IAM,Energy Service|Transportation|Freight|International Shipping,billion tkm/yr,3,7,1
+IAM,Energy Service|Transportation|Freight|Navigation,billion tkm/yr,2,7,1
+IAM,Energy Service|Transportation|Freight|Railways,billion tkm/yr,2,7,1
+IAM,Energy Service|Transportation|Freight|Road,billion tkm/yr,3,7,1
+IAM,Energy Service|Transportation|Navigation,billion vkm/yr,2,7,1
+IAM,Energy Service|Transportation|Passenger,billion pkm/yr,3,7,1
+IAM,Energy Service|Transportation|Passenger|Aviation,billion pkm/yr,3,7,1
+IAM,Energy Service|Transportation|Passenger|Bicycling and Walking,billion pkm/yr,3,7,1
+IAM,Energy Service|Transportation|Passenger|Railways,billion pkm/yr,2,7,1
+IAM,Energy Service|Transportation|Passenger|Road,billion pkm/yr,2,7,1
+IAM,Energy Service|Transportation|Passenger|Road|Bus,billion pkm/yr,2,7,1
+IAM,Energy Service|Transportation|Passenger|Road|LDV,billion pkm/yr,2,7,1
+IAM,Energy Service|Transportation|Rail,billion vkm/yr,3,7,1
+IAM,Energy Service|Transportation|Road,billion vkm/yr,3,7,1
+NiGEM,Energy consumption (total) ; MnToe,MnToe,3,1,1
+NiGEM,Energy consumption (total) ; MnToe(combined(no bus)),% difference,3,2,1
+NiGEM,Energy consumption (total) ; MnToe(combined),% difference,3,5,1
+NiGEM,Energy consumption (total) ; MnToe(physical),% difference,3,6,1
+NiGEM,Energy consumption (total) ; MnToe(transition),% difference,3,5,1
+IAM,Fertilizer Use|Nitrogen,Tg N/yr,3,7,1
+IAM,Fertilizer Use|Phosphorus,Tg P/yr,1,7,1
+IAM,Final Energy,EJ/yr,4,7,1
+IAM,Final Energy|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Gases,EJ/yr,4,7,1
+IAM,Final Energy|Geothermal,EJ/yr,1,7,1
+IAM,Final Energy|Heat,EJ/yr,4,7,1
+IAM,Final Energy|Hydrogen,EJ/yr,4,7,1
+IAM,Final Energy|Industry,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Cement,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Cement|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Cement|Gases,EJ/yr,3,7,1
+IAM,Final Energy|Industry|Cement|Hydrogen,EJ/yr,3,7,1
+IAM,Final Energy|Industry|Cement|Liquids,EJ/yr,3,7,1
+IAM,Final Energy|Industry|Cement|Solids,EJ/yr,3,7,1
+IAM,Final Energy|Industry|Chemicals,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Chemicals|Ammonia,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Ammonia|Gases,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Ammonia|Hydrogen,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Ammonia|Liquids,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Ammonia|Solids,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Ammonia|Solids|Fossil,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Chemicals|Gases,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Chemicals|Heat,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals|Electricity,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals|Gases,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals|Heat,EJ/yr,1,6,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals|Hydrogen,EJ/yr,1,6,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals|Liquids,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|High value chemicals|Solids,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Hydrogen,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Chemicals|Liquids,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Chemicals|Solids,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Chemicals|Solids|Bioenergy,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Chemicals|Solids|Fossil,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Electricity|Share,%,2,7,1
+IAM,Final Energy|Industry|Gases,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Gases|Bioenergy,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Gases|Fossil,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Gases|Hydrogen synfuel,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Heat,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Hydrogen,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Liquids,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Liquids|Biomass,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Liquids|Coal,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Liquids|Oil,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Non-ferrous metals,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Non-ferrous metals|Electricity,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Non-ferrous metals|Gases,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Non-ferrous metals|Heat,EJ/yr,1,6,1
+IAM,Final Energy|Industry|Non-ferrous metals|Hydrogen,EJ/yr,1,6,1
+IAM,Final Energy|Industry|Non-ferrous metals|Liquids,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Non-ferrous metals|Solids,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Non-ferrous metals|Solids|Bioenergy,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Non-ferrous metals|Solids|Fossil,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Other,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Other|Electricity,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Other|Gases,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Other|Heat,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Other|Hydrogen,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Other|Liquids,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Other|Solids,EJ/yr,2,7,1
+IAM,Final Energy|Industry|Solids,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Solids|Biomass,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Solids|Coal,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel|Gases,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel|Heat,EJ/yr,1,6,1
+IAM,Final Energy|Industry|Steel|Hydrogen,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel|Liquids,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel|Solids,EJ/yr,4,7,1
+IAM,Final Energy|Industry|Steel|Solids|Bioenergy,EJ/yr,1,7,1
+IAM,Final Energy|Industry|Steel|Solids|Fossil,EJ/yr,1,7,1
+IAM,Final Energy|Liquids,EJ/yr,4,7,1
+IAM,Final Energy|Non-Energy Use,EJ/yr,2,7,1
+IAM,Final Energy|Non-Energy Use|Biomass,EJ/yr,2,7,1
+IAM,Final Energy|Non-Energy Use|Coal,EJ/yr,2,7,1
+IAM,Final Energy|Non-Energy Use|Gas,EJ/yr,2,7,1
+IAM,Final Energy|Non-Energy Use|Oil,EJ/yr,2,7,1
+IAM,Final Energy|Other Sector,EJ/yr,2,7,1
+IAM,Final Energy|Other Sector|Electricity,EJ/yr,2,7,1
+IAM,Final Energy|Other Sector|Gases,EJ/yr,2,7,1
+IAM,Final Energy|Other Sector|Heat,EJ/yr,2,7,1
+IAM,Final Energy|Other Sector|Hydrogen,EJ/yr,2,7,1
+IAM,Final Energy|Other Sector|Liquids,EJ/yr,2,7,1
+IAM,Final Energy|Residential and Commercial,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Cooling,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Electricity,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Gases,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Heat,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Heating|Space,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Hydrogen,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Liquids,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Solids,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Solids|Biomass,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Commercial|Solids|Coal,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Cooling,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Gases,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Gases|Biomass,EJ/yr,2,7,1
+IAM,Final Energy|Residential and Commercial|Gases|Natural Gas,EJ/yr,2,7,1
+IAM,Final Energy|Residential and Commercial|Heat,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Heating,EJ/yr,2,7,1
+IAM,Final Energy|Residential and Commercial|Heating|Space,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Hydrogen,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Liquids,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Liquids|Biomass,EJ/yr,3,7,1
+IAM,Final Energy|Residential and Commercial|Liquids|Coal,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Liquids|Oil,EJ/yr,3,7,1
+IAM,Final Energy|Residential and Commercial|Other,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Cooling,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Electricity,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Gases,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Heat,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Heating|Space,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Hydrogen,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Residential|Liquids,EJ/yr,1,7,1
+IAM,Final Energy|Residential and Commercial|Solids,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Solids|Biomass,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Solids|Biomass|Traditional,EJ/yr,4,7,1
+IAM,Final Energy|Residential and Commercial|Solids|Coal,EJ/yr,4,7,1
+IAM,Final Energy|Solar,EJ/yr,1,7,1
+IAM,Final Energy|Solids,EJ/yr,4,7,1
+IAM,Final Energy|Solids|Biomass,EJ/yr,4,7,1
+IAM,Final Energy|Solids|Biomass|Traditional,EJ/yr,4,7,1
+IAM,Final Energy|Solids|Coal,EJ/yr,4,7,1
+IAM,Final Energy|Transportation,EJ/yr,4,7,1
+IAM,Final Energy|Transportation|Aviation,EJ/yr,1,7,1
+IAM,Final Energy|Transportation|Aviation|Passenger,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Electricity,EJ/yr,4,7,1
+IAM,Final Energy|Transportation|Freight,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Freight|Electricity,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Freight|Gases,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Freight|Hydrogen,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Freight|Liquids,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Freight|Other,EJ/yr,1,7,1
+IAM,Final Energy|Transportation|Gases,EJ/yr,4,7,1
+IAM,Final Energy|Transportation|Gases|Bioenergy,EJ/yr,2,7,1
+IAM,Final Energy|Transportation|Gases|Fossil,EJ/yr,2,7,1
+IAM,Final Energy|Transportation|Hydrogen,EJ/yr,4,7,1
+IAM,Final Energy|Transportation|Liquids,EJ/yr,4,7,1
+IAM,Final Energy|Transportation|Liquids|Bioenergy,EJ/yr,2,7,1
+IAM,Final Energy|Transportation|Liquids|Coal,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Liquids|Natural Gas,EJ/yr,2,7,1
+IAM,Final Energy|Transportation|Liquids|Oil,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Maritime,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Maritime|Freight,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Other,EJ/yr,2,7,1
+IAM,Final Energy|Transportation|Passenger,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Passenger|Electricity,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Passenger|Gases,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Passenger|Hydrogen,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Passenger|Liquids,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Rail,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Rail|Freight,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Rail|Passenger,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Freight,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Freight|Electric,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Freight|FC,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Freight|ICE,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Passenger,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Passenger|2W&3W,EJ/yr,1,7,1
+IAM,Final Energy|Transportation|Road|Passenger|Bus,EJ/yr,3,7,1
+IAM,Final Energy|Transportation|Road|Passenger|LDV,EJ/yr,3,7,1
+IAM,Food Demand,kcal/cap/day,3,7,1
+IAM,Food Demand|Crops,kcal/cap/day,3,7,1
+IAM,Food Demand|Livestock,kcal/cap/day,3,7,1
+IAM,Forcing,W/m2,1,7,1
+IAM,Forestry Demand|Roundwood,million m3/yr,1,7,1
+IAM,Forestry Demand|Roundwood|Industrial Roundwood,million m3/yr,1,7,1
+IAM,Forestry Demand|Roundwood|Wood Fuel,million m3/yr,1,7,1
+IAM,Forestry Production|Roundwood,million m3/yr,1,7,1
+IAM,Forestry Production|Roundwood|Industrial Roundwood,million m3/yr,1,7,1
+IAM,Forestry Production|Roundwood|Wood Fuel,million m3/yr,1,7,1
+IAM,GDP|MER|Counterfactual without damage,billion US$2010/yr,3,7,1
+IAM,GDP|MER|including medium chronic physical risk damage estimate,billion US$2010/yr,1,7,1
+IAM,GDP|PPP|Counterfactual without damage,billion US$2010/yr,3,7,1
+IAM,GDP|PPP|including medium chronic physical risk damage estimate,billion US$2010/yr,1,7,1
+NiGEM,Gas price ; US$ per barrel (equiv),US$ per barrel (equiv),3,1,1
+NiGEM,Gas price ; US$ per barrel (equiv)(combined(no bus)),% difference,3,2,1
+NiGEM,Gas price ; US$ per barrel (equiv)(combined),% difference,3,5,1
+NiGEM,Gas price ; US$ per barrel (equiv)(physical),% difference,3,6,1
+NiGEM,Gas price ; US$ per barrel (equiv)(transition),% difference,3,5,1
+NiGEM,Gross Domestic Product (GDP),2017 PPP; US$ Bn,3,1,1
+NiGEM,Gross Domestic Product (GDP)(combined(no bus)),"% difference,  2017 PPP; US$ Bn",3,2,1
+NiGEM,Gross Domestic Product (GDP)(combined),"% difference,  2017 PPP; US$ Bn",3,5,1
+NiGEM,Gross Domestic Product (GDP)(physical),"% difference,  2017 PPP; US$ Bn",3,6,1
+NiGEM,Gross Domestic Product (GDP)(transition),"% difference,  2017 PPP; US$ Bn",3,5,1
+NiGEM,Inflation rate ; %,%,3,1,1
+NiGEM,Inflation rate ; %(combined(no bus)),Abs. difference,3,2,1
+NiGEM,Inflation rate ; %(combined),Abs. difference,3,5,1
+NiGEM,Inflation rate ; %(physical),Abs. difference,3,6,1
+NiGEM,Inflation rate ; %(transition),Abs. difference,3,5,1
+IAM,Investment,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|CO2 Transport and Storage,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Biomass,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Biomass|w/ CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Biomass|w/o CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Coal,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Coal|w/ CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Coal|w/o CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Electricity Storage,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Electricity|Fossil,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Electricity|Gas,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Gas|w/ CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Gas|w/o CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Geothermal,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Hydro,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Non-Biomass Renewables,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Non-fossil,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Electricity|Nuclear,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Oil,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Oil|w/ CCS,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Electricity|Oil|w/o CCS,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Other,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Electricity|Solar,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Transmission and Distribution,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Electricity|Wind,billion US$2010/yr,4,7,1
+IAM,Investment|Energy Supply|Extraction|Coal,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Extraction|Fossil,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Extraction|Gas,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Extraction|Oil,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Extraction|Uranium,billion US$2010/yr,1,7,1
+IAM,Investment|Energy Supply|Heat,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Hydrogen,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Hydrogen|Biomass,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Hydrogen|Electricity,billion US$2010/yr,2,7,1
+IAM,Investment|Energy Supply|Hydrogen|Fossil,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Hydrogen|Other,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Hydrogen|Renewable,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Liquids,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Liquids|Biomass,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Liquids|Coal and Gas,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Liquids|Oil,billion US$2010/yr,3,7,1
+IAM,Investment|Energy Supply|Other,billion US$2010/yr,3,7,1
+IAM,Land Cover,million ha,4,7,1
+IAM,Land Cover|Built-up Area,million ha,3,7,1
+IAM,Land Cover|Cropland,million ha,4,7,1
+IAM,Land Cover|Cropland|Cereals,million ha,2,7,1
+IAM,Land Cover|Cropland|Energy Crops,million ha,3,7,1
+IAM,Land Cover|Cropland|Irrigated,million ha,3,7,1
+IAM,Land Cover|Forest,million ha,4,7,1
+IAM,Land Cover|Forest|Afforestation and Reforestation,million ha,3,7,1
+IAM,Land Cover|Forest|Managed,million ha,4,7,1
+IAM,Land Cover|Forest|Natural Forest,million ha,4,7,1
+IAM,Land Cover|Forest|Secondary,million ha,2,7,1
+IAM,Land Cover|Other Land,million ha,4,7,1
+IAM,Land Cover|Pasture,million ha,4,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,billion US$2010/yr,1,7,1
+GCAM_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+MESSAGE_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+REMIND_ds,Net GDP|PPP|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,billion US$2010/yr,1,7,1
+NiGEM,Oil price ; US$ per barrel,US$ per barrel,3,1,1
+NiGEM,Oil price ; US$ per barrel(combined(no bus)),% difference,3,2,1
+NiGEM,Oil price ; US$ per barrel(combined),% difference,3,5,1
+NiGEM,Oil price ; US$ per barrel(physical),% difference,3,6,1
+NiGEM,Oil price ; US$ per barrel(transition),% difference,3,5,1
+IAM,Policy Cost|Additional Total Energy System Cost,billion US$2010/yr,3,7,1
+IAM,Policy Cost|Consumption Loss,billion US$2010/yr,3,7,1
+IAM,Policy Cost|GDP Loss,billion US$2010/yr,4,7,1
+IAM,Population,million,4,7,1
+IAM,Population|Rural,million,1,7,1
+IAM,Population|Urban,million,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 50th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 5th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|5.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|50.0th Percentile,%,1,7,1
+GCAM_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+MESSAGE_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+REMIND_ds,Post-processed|GDP change|Kotz-Wenz 95th Percentile|GMT AR6 climate diagnostics|Surface Temperature (GSAT)|MAGICCv7.5.3|95.0th Percentile,%,1,7,1
+IAM,Post-processed|Investment|Energy Efficiency,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Efficiency|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Efficiency|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Biomass,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Biomass|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Biomass|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|CO2 Transport and Storage,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|CO2 Transport and Storage|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|CO2 Transport and Storage|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|w/ CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|w/ CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|w/ CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|w/o CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|w/o CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Biomass|w/o CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|w/ CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|w/ CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|w/ CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|w/o CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|w/o CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Coal|w/o CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Electricity Storage,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Electricity Storage|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Electricity Storage|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Fossil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Fossil w/o CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Fossil w/o CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Fossil w/o CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Fossil|Average 2016-2030,billion US$2010/yr,2,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Fossil|Average 2016-2050,billion US$2010/yr,2,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|w/ CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|w/ CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|w/ CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|w/o CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|w/o CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Gas|w/o CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Geothermal,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Geothermal|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Geothermal|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Hydro,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Hydro|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Hydro|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Low Carbon,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Low Carbon|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Low Carbon|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Non-Biomass Renewables,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Non-Biomass Renewables|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Non-Biomass Renewables|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Non-fossil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Non-fossil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Non-fossil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Nuclear,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Nuclear|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Nuclear|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Ocean,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|w/ CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|w/ CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|w/ CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|w/o CCS,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|w/o CCS|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Oil|w/o CCS|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Other,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Other|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Other|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Solar,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Solar|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Solar|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|T&D and Storage,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|T&D and Storage|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|T&D and Storage|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Transmission and Distribution,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Transmission and Distribution|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Transmission and Distribution|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Wind,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Wind|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Electricity|Wind|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Bioenergy,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Bioenergy|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Bioenergy|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Coal,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Coal|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Coal|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Fossil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Fossil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Fossil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Gas,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Gas|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Gas|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Oil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Oil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Oil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Uranium,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Uranium|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Extraction|Uranium|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Fossil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Fossil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Fossil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Heat,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Heat|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Heat|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Fossil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Fossil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Fossil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Non-fossil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Non-fossil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Non-fossil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Other,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Other|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Other|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Renewable,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Renewable|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Hydrogen|Renewable|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids,billion US$2010/yr,2,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Average 2016-2030,billion US$2010/yr,2,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Average 2016-2050,billion US$2010/yr,2,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Biomass,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Biomass T&D,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Biomass T&D|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Biomass T&D|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Biomass|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Biomass|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Coal and Gas,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Coal and Gas|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Coal and Gas|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Fossil T&D,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Fossil T&D|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Fossil T&D|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Oil,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Oil|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Liquids|Oil|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Low Carbon,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Low Carbon|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Low Carbon|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Nuclear,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Nuclear|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Nuclear|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Other,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Other|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Energy Supply|Other|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Low Carbon,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Low Carbon|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Low Carbon|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Total,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Total|Average 2016-2030,billion US$2010/yr,3,7,1
+IAM,Post-processed|Investment|Total|Average 2016-2050,billion US$2010/yr,3,7,1
+IAM,Price|Agriculture|Corn|Index,Index (2005 = 1),3,7,1
+IAM,Price|Agriculture|Non-Energy Crops and Livestock|Index,Index (2005 = 1),3,7,1
+IAM,Price|Agriculture|Non-Energy Crops|Index,Index (2005 = 1),4,7,1
+IAM,Price|Agriculture|Soybean|Index,Index (2005 = 1),3,7,1
+IAM,Price|Agriculture|Wheat|Index,Index (2005 = 1),3,7,1
+IAM,Price|Carbon,US$2010/t CO2,4,7,1
+IAM,Price|Carbon|Demand|Industry,US$2010/t CO2,3,7,1
+IAM,Price|Carbon|Demand|Residential and Commercial,US$2010/t CO2,3,7,1
+IAM,Price|Carbon|Demand|Transportation,US$2010/t CO2,3,7,1
+IAM,Price|Carbon|Supply,US$2010/t CO2,3,7,1
+IAM,Price|Final Energy|Industry|Electricity,US$2010/GJ,3,7,1
+IAM,Price|Final Energy|Industry|Gases,US$2010/GJ,3,7,1
+IAM,Price|Final Energy|Industry|Gases|Bioenergy,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Industry|Gases|Fossil,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Industry|Hydrogen,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Industry|Liquids,US$2010/GJ,3,7,1
+IAM,Price|Final Energy|Industry|Liquids|Bioenergy,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Industry|Liquids|Fossil synfuel,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Industry|Solids|Biomass,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Industry|Solids|Coal,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Electricity,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Electricity|Index,Index (2020 = 1),2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Gases|Natural Gas,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Gases|Natural Gas|Index,Index (2020 = 1),2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Liquids|Biomass,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Liquids|Biomass|Index,Index (2020 = 1),2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Liquids|Oil,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Liquids|Oil|Index,Index (2020 = 1),2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Solids|Biomass,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Solids|Biomass|Index,Index (2020 = 1),2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Solids|Coal,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Residential and Commercial|Residential|Solids|Coal|Index,Index (2020 = 1),2,7,1
+IAM,Price|Final Energy|Transportation|Electricity,US$2010/GJ,3,7,1
+IAM,Price|Final Energy|Transportation|Gases,US$2010/GJ,3,7,1
+IAM,Price|Final Energy|Transportation|Hydrogen,US$2010/GJ,2,7,1
+IAM,Price|Final Energy|Transportation|Liquids,US$2010/GJ,3,7,1
+IAM,Price|Final Energy|Transportation|Liquids|Fossil synfuel,US$2010/GJ,2,7,1
+IAM,Price|Primary Energy|Biomass,US$2010/GJ,4,7,1
+IAM,Price|Primary Energy|Biomass|Index,Index (2020 = 1),3,7,1
+IAM,Price|Primary Energy|Coal,US$2010/GJ,4,7,1
+IAM,Price|Primary Energy|Coal|Index,Index (2020 = 1),3,7,1
+IAM,Price|Primary Energy|Gas,US$2010/GJ,4,7,1
+IAM,Price|Primary Energy|Gas|Index,Index (2020 = 1),3,7,1
+IAM,Price|Primary Energy|Oil,US$2010/GJ,4,7,1
+IAM,Price|Primary Energy|Oil|Index,Index (2020 = 1),3,7,1
+IAM,Price|Secondary Energy|Electricity,US$2010/GJ,4,7,1
+IAM,Price|Secondary Energy|Electricity|Index,Index (2020 = 1),3,7,1
+IAM,Price|Secondary Energy|Gases|Natural Gas,US$2010/GJ,3,7,1
+IAM,Price|Secondary Energy|Gases|Natural Gas|Index,Index (2020 = 1),3,7,1
+IAM,Price|Secondary Energy|Hydrogen,US$2010/GJ,4,7,1
+IAM,Price|Secondary Energy|Hydrogen|Index,Index (2020 = 1),2,7,1
+IAM,Price|Secondary Energy|Liquids,US$2010/GJ,4,7,1
+IAM,Price|Secondary Energy|Liquids|Biomass,US$2010/GJ,4,7,1
+IAM,Price|Secondary Energy|Liquids|Biomass|Index,Index (2020 = 1),3,7,1
+IAM,Price|Secondary Energy|Liquids|Index,Index (2020 = 1),2,7,1
+IAM,Price|Secondary Energy|Liquids|Oil,US$2010/GJ,4,7,1
+IAM,Price|Secondary Energy|Liquids|Oil|Index,Index (2020 = 1),3,7,1
+IAM,Price|Secondary Energy|Solids|Coal,US$2010/GJ,3,7,1
+IAM,Price|Secondary Energy|Solids|Coal|Index,Index (2020 = 1),3,7,1
+IAM,Primary Energy,EJ/yr,4,7,1
+IAM,Primary Energy|Biomass,EJ/yr,4,7,1
+IAM,Primary Energy|Biomass|1st Generation,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Electricity,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Electricity|w/ CCS,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Electricity|w/o CCS,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Energy Crops,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Gases,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Heat,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Hydrogen,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Liquids,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Modern,EJ/yr,4,7,1
+IAM,Primary Energy|Biomass|Residues,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Solids,EJ/yr,3,7,1
+IAM,Primary Energy|Biomass|Traditional,EJ/yr,4,7,1
+IAM,Primary Energy|Coal,EJ/yr,4,7,1
+IAM,Primary Energy|Coal|Electricity,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Electricity|w/ CCS,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Electricity|w/o CCS,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Gases,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Heat,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Hydrogen,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Liquids,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|Solids,EJ/yr,3,7,1
+IAM,Primary Energy|Coal|w/ CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Coal|w/o CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Fossil,EJ/yr,4,7,1
+IAM,Primary Energy|Fossil|w/ CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Fossil|w/o CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Gas,EJ/yr,4,7,1
+IAM,Primary Energy|Gas|Electricity,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Electricity|w/ CCS,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Electricity|w/o CCS,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Gases,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Heat,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Hydrogen,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Liquids,EJ/yr,3,7,1
+IAM,Primary Energy|Gas|Solids,EJ/yr,1,7,1
+IAM,Primary Energy|Gas|w/ CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Gas|w/o CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Geothermal,EJ/yr,4,7,1
+IAM,Primary Energy|Hydro,EJ/yr,4,7,1
+IAM,Primary Energy|Non-Biomass Renewables,EJ/yr,4,7,1
+IAM,Primary Energy|Nuclear,EJ/yr,4,7,1
+IAM,Primary Energy|Ocean,EJ/yr,1,7,1
+IAM,Primary Energy|Oil,EJ/yr,4,7,1
+IAM,Primary Energy|Oil|Electricity,EJ/yr,1,7,1
+IAM,Primary Energy|Oil|Electricity|w/ CCS,EJ/yr,1,7,1
+IAM,Primary Energy|Oil|Electricity|w/o CCS,EJ/yr,1,7,1
+IAM,Primary Energy|Oil|w/ CCS,EJ/yr,1,7,1
+IAM,Primary Energy|Oil|w/o CCS,EJ/yr,4,7,1
+IAM,Primary Energy|Other,EJ/yr,1,7,1
+IAM,Primary Energy|Secondary Energy Trade,EJ/yr,1,7,1
+IAM,Primary Energy|Solar,EJ/yr,4,7,1
+IAM,Primary Energy|Wind,EJ/yr,4,7,1
+IAM,Production|Cement,Mt/yr,4,7,1
+IAM,Production|Chemicals,Mt/yr,1,7,1
+IAM,Production|Non-ferrous metals,Mt/yr,2,7,1
+IAM,Production|Steel,Mt/yr,4,7,1
+NiGEM,Quarterly consumption of coal ; MnToe,MnToe,3,1,1
+NiGEM,Quarterly consumption of coal ; MnToe(combined(no bus)),% difference,3,2,1
+NiGEM,Quarterly consumption of coal ; MnToe(combined),% difference,3,5,1
+NiGEM,Quarterly consumption of coal ; MnToe(physical),% difference,3,6,1
+NiGEM,Quarterly consumption of coal ; MnToe(transition),% difference,3,5,1
+NiGEM,Quarterly consumption of gas ; MnToe,MnToe,3,1,1
+NiGEM,Quarterly consumption of gas ; MnToe(combined(no bus)),% difference,3,2,1
+NiGEM,Quarterly consumption of gas ; MnToe(combined),% difference,3,5,1
+NiGEM,Quarterly consumption of gas ; MnToe(physical),% difference,3,6,1
+NiGEM,Quarterly consumption of gas ; MnToe(transition),% difference,3,5,1
+NiGEM,Quarterly consumption of non-carbon ; MnToe,MnToe,3,1,1
+NiGEM,Quarterly consumption of non-carbon ; MnToe(combined(no bus)),% difference,3,2,1
+NiGEM,Quarterly consumption of non-carbon ; MnToe(combined),% difference,3,5,1
+NiGEM,Quarterly consumption of non-carbon ; MnToe(physical),% difference,3,6,1
+NiGEM,Quarterly consumption of non-carbon ; MnToe(transition),% difference,3,5,1
+NiGEM,Quarterly consumption of oil ; MnToe,MnToe,3,1,1
+NiGEM,Quarterly consumption of oil ; MnToe(combined(no bus)),% difference,3,2,1
+NiGEM,Quarterly consumption of oil ; MnToe(combined),% difference,3,5,1
+NiGEM,Quarterly consumption of oil ; MnToe(physical),% difference,3,6,1
+NiGEM,Quarterly consumption of oil ; MnToe(transition),% difference,3,5,1
+IAM,Revenue|Government|Tax|Carbon,billion US$2010/yr,4,7,1
+IAM,Revenue|Government|Tax|Carbon|Demand|Industry,billion US$2010/yr,4,7,1
+IAM,Revenue|Government|Tax|Carbon|Demand|Residential and Commercial,billion US$2010/yr,4,7,1
+IAM,Revenue|Government|Tax|Carbon|Demand|Transportation,billion US$2010/yr,4,7,1
+IAM,Revenue|Government|Tax|Carbon|Supply,billion US$2010/yr,4,7,1
+IAM,Secondary Energy,EJ/yr,3,7,1
+IAM,Secondary Energy|Electricity,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Biomass,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Biomass|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Coal,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Coal|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Fossil,EJ/yr,1,7,1
+IAM,Secondary Energy|Electricity|Fossil|w/ CCS,EJ/yr,1,7,1
+IAM,Secondary Energy|Electricity|Fossil|w/o CCS,EJ/yr,1,7,1
+IAM,Secondary Energy|Electricity|Gas,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Gas|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Gas|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Geothermal,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Hydro,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Non-Biomass Renewables,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Nuclear,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Oil,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Oil|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Other,EJ/yr,3,7,1
+IAM,Secondary Energy|Electricity|Solar,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Solar|CSP,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Solar|PV,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Storage Losses,EJ/yr,1,7,1
+IAM,Secondary Energy|Electricity|Transmission Losses,EJ/yr,1,7,1
+IAM,Secondary Energy|Electricity|Wind,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Wind|Offshore,EJ/yr,4,7,1
+IAM,Secondary Energy|Electricity|Wind|Onshore,EJ/yr,4,7,1
+IAM,Secondary Energy|Gases,EJ/yr,4,7,1
+IAM,Secondary Energy|Gases|Biomass,EJ/yr,4,7,1
+IAM,Secondary Energy|Gases|Coal,EJ/yr,4,7,1
+IAM,Secondary Energy|Gases|Natural Gas,EJ/yr,4,7,1
+IAM,Secondary Energy|Gases|Other,EJ/yr,3,7,1
+IAM,Secondary Energy|Heat,EJ/yr,3,7,1
+IAM,Secondary Energy|Heat|Biomass,EJ/yr,3,7,1
+IAM,Secondary Energy|Heat|Coal,EJ/yr,3,7,1
+IAM,Secondary Energy|Heat|Gas,EJ/yr,3,7,1
+IAM,Secondary Energy|Heat|Geothermal,EJ/yr,3,7,1
+IAM,Secondary Energy|Heat|Oil,EJ/yr,1,7,1
+IAM,Secondary Energy|Heat|Other,EJ/yr,1,7,1
+IAM,Secondary Energy|Hydrogen,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Biomass,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Biomass|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Biomass|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Coal,EJ/yr,3,7,1
+IAM,Secondary Energy|Hydrogen|Coal|w/ CCS,EJ/yr,3,7,1
+IAM,Secondary Energy|Hydrogen|Coal|w/o CCS,EJ/yr,3,7,1
+IAM,Secondary Energy|Hydrogen|Electricity,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Fossil,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Fossil|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Fossil|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Gas,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Gas|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Hydrogen|Gas|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Biomass,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Biomass|w/ CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Biomass|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Coal,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Coal|w/ CCS,EJ/yr,3,7,1
+IAM,Secondary Energy|Liquids|Coal|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Fossil,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Fossil|w/ CCS,EJ/yr,3,7,1
+IAM,Secondary Energy|Liquids|Fossil|w/o CCS,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Gas,EJ/yr,4,7,1
+IAM,Secondary Energy|Liquids|Gas|w/ CCS,EJ/yr,3,7,1
+IAM,Secondary Energy|Liquids|Gas|w/o CCS,EJ/yr,3,7,1
+IAM,Secondary Energy|Liquids|Oil,EJ/yr,4,7,1
+IAM,Secondary Energy|Solids,EJ/yr,4,7,1
+IAM,Secondary Energy|Solids|Biomass,EJ/yr,4,7,1
+IAM,Secondary Energy|Solids|Coal,EJ/yr,4,7,1
+IAM,Trade|Primary Energy|Biomass|Volume,EJ/yr,3,7,1
+IAM,Trade|Primary Energy|Coal|Volume,EJ/yr,4,7,1
+IAM,Trade|Primary Energy|Gas|Volume,EJ/yr,4,7,1
+IAM,Trade|Primary Energy|Oil|Volume,EJ/yr,4,7,1
+IAM,Transport|Stock|Road|Passenger|Bus,million vehicles,2,7,1
+IAM,Transport|Stock|Road|Passenger|LDV,million vehicles,2,7,1
+IAM,Water Withdrawal|Irrigation,km3/yr,2,7,1
+IAM,Yield|Cereal,t DM/ha/yr,3,7,1
+IAM,Yield|Oilcrops,t DM/ha/yr,3,7,1
+IAM,Yield|Sugarcrops,t DM/ha/yr,3,7,1

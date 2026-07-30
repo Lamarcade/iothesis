@@ -1,0 +1,201 @@
+exiobase_sector,nace_rev2,nace_rev2_name,gics_code,gics_name
+Paddy rice,A01,Crop and animal production,30,Consumer Staples
+Wheat,A01,Crop and animal production,30,Consumer Staples
+Cereal grains nec,A01,Crop and animal production,30,Consumer Staples
+Vegetables fruit nuts,A01,Crop and animal production,30,Consumer Staples
+Oil seeds,A01,Crop and animal production,30,Consumer Staples
+Sugar cane sugar beet,A01,Crop and animal production,30,Consumer Staples
+Plant-based fibers,A01,Crop and animal production,30,Consumer Staples
+Crops nec,A01,Crop and animal production,30,Consumer Staples
+Cattle,A01,Crop and animal production,30,Consumer Staples
+Pigs,A01,Crop and animal production,30,Consumer Staples
+Poultry,A01,Crop and animal production,30,Consumer Staples
+Meat animals nec,A01,Crop and animal production,30,Consumer Staples
+Animal products nec,A01,Crop and animal production,30,Consumer Staples
+Raw milk,A01,Crop and animal production,30,Consumer Staples
+Wool silk-worm cocoons,A01,Crop and animal production,30,Consumer Staples
+Manure (conventional treatment),A01,Crop and animal production,30,Consumer Staples
+Manure (biogas treatment),A01,Crop and animal production,30,Consumer Staples
+Products of forestry logging and related services (02),A02,Forestry and logging,15,Materials
+Fish and other fishing products; services incidental of fishing (05),A03,Fishing and aquaculture,30,Consumer Staples
+Anthracite,B05,Mining of coal and lignite,10,Energy
+Coking Coal,B05,Mining of coal and lignite,10,Energy
+Other Bituminous Coal,B05,Mining of coal and lignite,10,Energy
+Sub-Bituminous Coal,B05,Mining of coal and lignite,10,Energy
+Patent Fuel,B05,Mining of coal and lignite,10,Energy
+Lignite/Brown Coal,B05,Mining of coal and lignite,10,Energy
+BKB/Peat Briquettes,B05,Mining of coal and lignite,10,Energy
+Peat,B08,Other mining and quarrying,10,Energy
+Crude petroleum and services related to crude oil extraction excluding surveying,B06,Extraction of crude petroleum and natural gas,10,Energy
+Natural gas and services related to natural gas extraction excluding surveying,B06,Extraction of crude petroleum and natural gas,10,Energy
+Natural Gas Liquids,B06,Extraction of crude petroleum and natural gas,10,Energy
+Other Hydrocarbons,B06,Extraction of crude petroleum and natural gas,10,Energy
+Uranium and thorium ores (12),B07,Mining of metal ores,15,Materials
+Iron ores,B07,Mining of metal ores,15,Materials
+Copper ores and concentrates,B07,Mining of metal ores,15,Materials
+Nickel ores and concentrates,B07,Mining of metal ores,15,Materials
+Aluminium ores and concentrates,B07,Mining of metal ores,15,Materials
+Precious metal ores and concentrates,B07,Mining of metal ores,15,Materials
+Lead zinc and tin ores and concentrates,B07,Mining of metal ores,15,Materials
+Other non-ferrous metal ores and concentrates,B07,Mining of metal ores,15,Materials
+Stone,B08,Other mining and quarrying,15,Materials
+Sand and clay,B08,Other mining and quarrying,15,Materials
+Chemical and fertilizer minerals salt and other mining and quarrying products n.e.c.,B08,Other mining and quarrying,15,Materials
+Products of meat cattle,C10,Manufacture of food products,30,Consumer Staples
+Products of meat pigs,C10,Manufacture of food products,30,Consumer Staples
+Products of meat poultry,C10,Manufacture of food products,30,Consumer Staples
+Meat products nec,C10,Manufacture of food products,30,Consumer Staples
+products of Vegetable oils and fats,C10,Manufacture of food products,30,Consumer Staples
+Dairy products,C10,Manufacture of food products,30,Consumer Staples
+Processed rice,C10,Manufacture of food products,30,Consumer Staples
+Sugar,C10,Manufacture of food products,30,Consumer Staples
+Food products nec,C10,Manufacture of food products,30,Consumer Staples
+Beverages,C11,Manufacture of beverages,30,Consumer Staples
+Fish products,C10,Manufacture of food products,30,Consumer Staples
+Tobacco products (16),C12,Manufacture of tobacco products,30,Consumer Staples
+Textiles (17),C13,Manufacture of textiles,25,Consumer Discretionary
+Wearing apparel; furs (18),C14,Manufacture of wearing apparel,25,Consumer Discretionary
+Leather and leather products (19),C15,Manufacture of leather and related products,25,Consumer Discretionary
+Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),C16,Manufacture of wood and wood products,15,Materials
+Wood material for treatment Re-processing of secondary wood material into new wood material,C16,Manufacture of wood and wood products,15,Materials
+Pulp,C17,Manufacture of paper and paper products,15,Materials
+Secondary paper for treatment Re-processing of secondary paper into new pulp,C17,Manufacture of paper and paper products,15,Materials
+Paper and paper products,C17,Manufacture of paper and paper products,15,Materials
+Printed matter and recorded media (22),C18,Printing and reproduction of recorded media,25,Consumer Discretionary
+Coke Oven Coke,C19,Manufacture of coke and refined petroleum products,10,Energy
+Gas Coke,C19,Manufacture of coke and refined petroleum products,10,Energy
+Coal Tar,C19,Manufacture of coke and refined petroleum products,10,Energy
+Motor Gasoline,C19,Manufacture of coke and refined petroleum products,10,Energy
+Aviation Gasoline,C19,Manufacture of coke and refined petroleum products,10,Energy
+Gasoline Type Jet Fuel,C19,Manufacture of coke and refined petroleum products,10,Energy
+Kerosene Type Jet Fuel,C19,Manufacture of coke and refined petroleum products,10,Energy
+Kerosene,C19,Manufacture of coke and refined petroleum products,10,Energy
+Gas/Diesel Oil,C19,Manufacture of coke and refined petroleum products,10,Energy
+Heavy Fuel Oil,C19,Manufacture of coke and refined petroleum products,10,Energy
+Refinery Gas,C19,Manufacture of coke and refined petroleum products,10,Energy
+Liquefied Petroleum Gases (LPG),C19,Manufacture of coke and refined petroleum products,10,Energy
+Refinery Feedstocks,C19,Manufacture of coke and refined petroleum products,10,Energy
+Ethane,C19,Manufacture of coke and refined petroleum products,10,Energy
+Naphtha,C19,Manufacture of coke and refined petroleum products,10,Energy
+White Spirit & SBP,C19,Manufacture of coke and refined petroleum products,10,Energy
+Lubricants,C19,Manufacture of coke and refined petroleum products,10,Energy
+Bitumen,C19,Manufacture of coke and refined petroleum products,10,Energy
+Paraffin Waxes,C19,Manufacture of coke and refined petroleum products,10,Energy
+Petroleum Coke,C19,Manufacture of coke and refined petroleum products,10,Energy
+Non-specified Petroleum Products,C19,Manufacture of coke and refined petroleum products,10,Energy
+Nuclear fuel,C24,Manufacture of basic metals,10,Energy
+Plastics basic,C20,Manufacture of chemicals and chemical products,15,Materials
+Secondary plastic for treatment Re-processing of secondary plastic into new plastic,C20,Manufacture of chemicals and chemical products,15,Materials
+N-fertiliser,C20,Manufacture of chemicals and chemical products,15,Materials
+P- and other fertiliser,C20,Manufacture of chemicals and chemical products,15,Materials
+Chemicals nec,C20,Manufacture of chemicals and chemical products,15,Materials
+Charcoal,C20,Manufacture of chemicals and chemical products,10,Energy
+Additives/Blending Components,C20,Manufacture of chemicals and chemical products,10,Energy
+Biogasoline,C20,Manufacture of chemicals and chemical products,10,Energy
+Biodiesels,C20,Manufacture of chemicals and chemical products,10,Energy
+Other Liquid Biofuels,C20,Manufacture of chemicals and chemical products,10,Energy
+Rubber and plastic products (25),C22,Manufacture of rubber and plastic products,15,Materials
+Glass and glass products,C23,Manufacture of other non-metallic mineral products,15,Materials
+Secondary glass for treatment Re-processing of secondary glass into new glass,C23,Manufacture of other non-metallic mineral products,15,Materials
+Ceramic goods,C23,Manufacture of other non-metallic mineral products,15,Materials
+Bricks tiles and construction products in baked clay,C23,Manufacture of other non-metallic mineral products,15,Materials
+Cement lime and plaster,C23,Manufacture of other non-metallic mineral products,15,Materials
+Ash for treatment Re-processing of ash into clinker,C23,Manufacture of other non-metallic mineral products,15,Materials
+Other non-metallic mineral products,C23,Manufacture of other non-metallic mineral products,15,Materials
+Basic iron and steel and of ferro-alloys and first products thereof,C24,Manufacture of basic metals,15,Materials
+Secondary steel for treatment Re-processing of secondary steel into new steel,C24,Manufacture of basic metals,15,Materials
+Precious metals,C24,Manufacture of basic metals,15,Materials
+Secondary preciuos metals for treatment Re-processing of secondary preciuos metals into new preciuos metals,C24,Manufacture of basic metals,15,Materials
+Aluminium and aluminium products,C24,Manufacture of basic metals,15,Materials
+Secondary aluminium for treatment Re-processing of secondary aluminium into new aluminium,C24,Manufacture of basic metals,15,Materials
+Lead zinc and tin and products thereof,C24,Manufacture of basic metals,15,Materials
+Secondary lead for treatment Re-processing of secondary lead into new lead,C24,Manufacture of basic metals,15,Materials
+Copper products,C24,Manufacture of basic metals,15,Materials
+Secondary copper for treatment Re-processing of secondary copper into new copper,C24,Manufacture of basic metals,15,Materials
+Other non-ferrous metal products,C24,Manufacture of basic metals,15,Materials
+Secondary other non-ferrous metals for treatment Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,C24,Manufacture of basic metals,15,Materials
+Foundry work services,C24,Manufacture of basic metals,15,Materials
+Fabricated metal products except machinery and equipment (28),C25,Manufacture of fabricated metal products,20,Industrials
+Machinery and equipment n.e.c. (29),C28,Manufacture of machinery and equipment n.e.c.,20,Industrials
+Office machinery and computers (30),C26,Manufacture of computer electronic and optical products,45,Information Technology
+Electrical machinery and apparatus n.e.c. (31),C27,Manufacture of electrical equipment,20,Industrials
+Radio television and communication equipment and apparatus (32),C26,Manufacture of computer electronic and optical products,45,Information Technology
+Medical precision and optical instruments watches and clocks (33),C26,Manufacture of computer electronic and optical products,35,Health Care
+Motor vehicles trailers and semi-trailers (34),C29,Manufacture of motor vehicles trailers and semi-trailers,25,Consumer Discretionary
+Other transport equipment (35),C30,Manufacture of other transport equipment,20,Industrials
+Furniture; other manufactured goods n.e.c. (36),C31,Manufacture of furniture,25,Consumer Discretionary
+Secondary raw materials,E38,Waste collection treatment and disposal activities,20,Industrials
+Bottles for treatment Recycling of bottles by direct reuse,E38,Waste collection treatment and disposal activities,20,Industrials
+Electricity by coal,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by gas,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by nuclear,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by hydro,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by wind,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by petroleum and other oil derivatives,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by biomass and waste,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by solar photovoltaic,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by solar thermal,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by tide wave ocean,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity by Geothermal,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Electricity nec,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Transmission services of electricity,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Distribution and trade services of electricity,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Coke oven gas,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Blast Furnace Gas,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Oxygen Steel Furnace Gas,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Gas Works Gas,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Biogas,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Distribution services of gaseous fuels through mains,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Steam and hot water supply services,D35,Electricity gas steam and air conditioning supply,55,Utilities
+Collected and purified water distribution services of water (41),E36,Water collection treatment and supply,55,Utilities
+Construction work (45),F41,Construction of buildings,20,Industrials
+Secondary construction material for treatment Re-processing of secondary construction material into aggregates,E38,Waste collection treatment and disposal activities,20,Industrials
+Sale maintenance repair of motor vehicles motor vehicles parts motorcycles motor cycles parts and accessoiries,G45,Wholesale and retail trade and repair of motor vehicles,25,Consumer Discretionary
+Retail trade services of motor fuel,G47,Retail trade except of motor vehicles and motorcycles,25,Consumer Discretionary
+Wholesale trade and commission trade services except of motor vehicles and motorcycles (51),G46,Wholesale trade except of motor vehicles and motorcycles,20,Industrials
+Retail  trade services except of motor vehicles and motorcycles; repair services of personal and household goods (52),G47,Retail trade except of motor vehicles and motorcycles,25,Consumer Discretionary
+Hotel and restaurant services (55),I56,Food and beverage service activities,25,Consumer Discretionary
+Railway transportation services,H49,Land transport and transport via pipelines,20,Industrials
+Other land transportation services,H49,Land transport and transport via pipelines,20,Industrials
+Transportation services via pipelines,H49,Land transport and transport via pipelines,20,Industrials
+Sea and coastal water transportation services,H50,Water transport,20,Industrials
+Inland water transportation services,H50,Water transport,20,Industrials
+Air transport services (62),H51,Air transport,20,Industrials
+Supporting and auxiliary transport services; travel agency services (63),H52,Warehousing and support activities for transportation,20,Industrials
+Post and telecommunication services (64),J61,Telecommunications,50,Communication Services
+Financial intermediation services except insurance and pension funding services (65),K64,Financial service activities,40,Financials
+Insurance and pension funding services except compulsory social security services (66),K65,Insurance reinsurance and pension funding,40,Financials
+Services auxiliary to financial intermediation (67),K66,Activities auxiliary to financial services,40,Financials
+Real estate services (70),L68,Real estate activities,60,Real Estate
+Renting services of machinery and equipment without operator and of personal and household goods (71),N77,Rental and leasing activities,20,Industrials
+Computer and related services (72),J62,Computer programming consultancy and related activities,45,Information Technology
+Research and development services (73),M72,Scientific research and development,45,Information Technology
+Other business services (74),M69,Legal and accounting activities,20,Industrials
+Public administration and defence services; compulsory social security services (75),O84,Public administration and defence,20,Industrials
+Education services (80),P85,Education,20,Industrials
+Health and social work services (85),Q86,Human health activities,35,Health Care
+Food waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Paper waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Plastic waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Intert/metal waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Textiles waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Wood waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Oil/hazardous waste for treatment: incineration,E38,Waste collection treatment and disposal activities,20,Industrials
+Food waste for treatment: biogasification and land application,E38,Waste collection treatment and disposal activities,20,Industrials
+Paper waste for treatment: biogasification and land application,E38,Waste collection treatment and disposal activities,20,Industrials
+Sewage sludge for treatment: biogasification and land application,E37,Sewerage,20,Industrials
+Food waste for treatment: composting and land application,E38,Waste collection treatment and disposal activities,20,Industrials
+Paper and wood waste for treatment: composting and land application,E38,Waste collection treatment and disposal activities,20,Industrials
+Food waste for treatment: waste water treatment,E37,Sewerage,20,Industrials
+Other waste for treatment: waste water treatment,E37,Sewerage,20,Industrials
+Food waste for treatment: landfill,E38,Waste collection treatment and disposal activities,20,Industrials
+Paper for treatment: landfill,E38,Waste collection treatment and disposal activities,20,Industrials
+Plastic waste for treatment: landfill,E38,Waste collection treatment and disposal activities,20,Industrials
+Inert/metal/hazardous waste for treatment: landfill,E38,Waste collection treatment and disposal activities,20,Industrials
+Textiles waste for treatment: landfill,E38,Waste collection treatment and disposal activities,20,Industrials
+Wood waste for treatment: landfill,E38,Waste collection treatment and disposal activities,20,Industrials
+Membership organisation services n.e.c. (91),S94,Activities of membership organisations,25,Consumer Discretionary
+Recreational cultural and sporting services (92),R90,Creative arts and entertainment activities,25,Consumer Discretionary
+Other services (93),S96,Other personal service activities,25,Consumer Discretionary
+Private households with employed persons (95),T97,Activities of households as employers,20,Industrials
+Extra-territorial organizations and bodies,U99,Activities of extraterritorial organisations,20,Industrials

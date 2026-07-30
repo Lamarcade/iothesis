@@ -1,0 +1,291 @@
+year_from,year_to,supplier_region,supplier_sector,buyer_region,buyer_sector,value_from,value_to,delta,abs_delta
+1995,1996,IT,Private households with employed persons (95),IT,Plant-based fibers,0.8782906528252978,0.0,-0.8782906528252978,0.8782906528252978
+1995,1996,IE,Cattle,IE,Plastic waste for treatment: landfill,0.8373115712645692,4.7872503415647766e-09,-0.8373115664773189,0.8373115664773189
+1995,1996,IE,Cattle,IE,Inert/metal/hazardous waste for treatment: landfill,0.8373044739636953,4.566409300256665e-09,-0.8373044693972861,0.8373044693972861
+1995,1996,IE,Cattle,IE,Food waste for treatment: waste water treatment,0.8372812471906333,4.791046215025793e-09,-0.8372812423995871,0.8372812423995871
+1995,1996,IE,Cattle,IE,Intert/metal waste for treatment: incineration,0.837270757286833,8.618380325085743e-09,-0.8372707486684526,0.8372707486684526
+1995,1996,IE,Cattle,IE,Wood waste for treatment: landfill,0.837270001674898,4.524254455178095e-09,-0.8372699971506435,0.8372699971506435
+1995,1996,IE,Cattle,IE,Textiles waste for treatment: landfill,0.8372682051072733,4.461225171488993e-09,-0.8372682006460481,0.8372682006460481
+1995,1996,IE,Cattle,IE,Food waste for treatment: landfill,0.8372655828849639,4.078972041644241e-09,-0.8372655788059918,0.8372655788059918
+1995,1996,IE,Cattle,IE,Oil/hazardous waste for treatment: incineration,0.8372653708037461,6.170503013934668e-09,-0.8372653646332431,0.8372653646332431
+1995,1996,IE,Cattle,IE,Paper for treatment: landfill,0.8372511760223986,4.629107771455889e-09,-0.8372511713932909,0.8372511713932909
+1996,1997,MT,Distribution and trade services of electricity,MT,"Wool, silk-worm cocoons",0.0,0.99208591703437,0.99208591703437,0.99208591703437
+1996,1997,EE,Education services (80),EE,Computer and related services (72),0.003323111888810701,0.8185295083069966,0.8152063964181858,0.8152063964181858
+1996,1997,EE,Education services (80),EE,Real estate services (70),0.019278323261102723,0.8124557537892801,0.7931774305281775,0.7931774305281775
+1996,1997,IE,Education services (80),IE,Machinery and equipment n.e.c. (29),0.7778027823755164,0.0002636004448745945,-0.7775391819306418,0.7775391819306418
+1996,1997,FR,Nuclear fuel,LU,Transportation services via pipelines,0.7708159546504135,5.283184750265068e-15,-0.7708159546504082,0.7708159546504082
+1996,1997,EE,Education services (80),EE,"Recreational, cultural and sporting services (92)",0.7494934079158843,0.0002441811732101677,-0.7492492267426741,0.7492492267426741
+1996,1997,EE,Education services (80),EE,Machinery and equipment n.e.c. (29),0.749479574081897,0.0008802074968571804,-0.7485993665850399,0.7485993665850399
+1996,1997,EE,Education services (80),EE,Stone,0.7487794866817064,0.0002462220319191119,-0.7485332646497872,0.7485332646497872
+1996,1997,EE,Education services (80),EE,"Financial intermediation services, except insurance and pension funding services (65)",0.7488548753435498,0.000436095333885588,-0.7484187800096642,0.7484187800096642
+1996,1997,EE,Education services (80),EE,Food waste for treatment: composting and land application,0.7493447189158084,0.0009610981111312974,-0.7483836208046771,0.7483836208046771
+1997,1998,MT,Distribution and trade services of electricity,MT,"Wool, silk-worm cocoons",0.99208591703437,0.0,-0.99208591703437,0.99208591703437
+1997,1998,PL,Inland water transportation services,PL,Other Hydrocarbons,0.0,0.890771010061725,0.890771010061725,0.890771010061725
+1997,1998,PL,Sea and coastal water transportation services,PL,Sea and coastal water transportation services,0.03964949321857729,0.8588110335285991,0.8191615403100219,0.8191615403100219
+1997,1998,EE,Education services (80),EE,"Recreational, cultural and sporting services (92)",0.0002441811732101677,0.8004223744139983,0.8001781932407882,0.8001781932407882
+1997,1998,EE,Food products nec,EE,Plastic waste for treatment: landfill,1.4823976274243279e-06,0.7926239970867323,0.7926225146891048,0.7926225146891048
+1997,1998,EE,Food products nec,EE,Food waste for treatment: waste water treatment,1.6723608231855448e-05,0.792623838327582,0.7926071147193501,0.7926071147193501
+1997,1998,EE,Food products nec,EE,Wood waste for treatment: landfill,1.839865957825102e-05,0.792623853432925,0.7926054547733468,0.7926054547733468
+1997,1998,EE,Food products nec,EE,Wood waste for treatment: incineration,0.0008085163080009124,0.7926244271160013,0.7918159108080004,0.7918159108080004
+1997,1998,EE,Food products nec,EE,Textiles waste for treatment: landfill,0.0008094747565166695,0.7926236782287239,0.7918142034722072,0.7918142034722072
+1997,1998,FR,Nuclear fuel,LU,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),3.123772294162875e-16,0.7817896373561203,0.78178963735612,0.78178963735612
+1998,1999,MT,Distribution and trade services of electricity,MT,"Wool, silk-worm cocoons",0.0,0.9827760468549636,0.9827760468549636,0.9827760468549636
+1998,1999,PL,Inland water transportation services,PL,Other Hydrocarbons,0.890771010061725,0.00012315098207649975,-0.8906478590796485,0.8906478590796485
+1998,1999,BG,Education services (80),BG,Other business services (74),6.1326861203091605e-06,0.8126285362183711,0.8126224035322508,0.8126224035322508
+1998,1999,BG,Education services (80),BG,"Financial intermediation services, except insurance and pension funding services (65)",7.548363854748152e-07,0.8118886287777215,0.811887873941336,0.811887873941336
+1998,1999,FR,Public administration and defence services; compulsory social security services (75),FR,"Medical, precision and optical instruments, watches and clocks (33)",0.10572745812338012,0.9086950103659631,0.802967552242583,0.802967552242583
+1998,1999,SE,Electricity by nuclear,DK,Other non-ferrous metal ores and concentrates,0.0,0.7931892051589481,0.7931892051589481,0.7931892051589481
+1998,1999,EE,Food products nec,EE,Wood waste for treatment: landfill,0.792623853432925,1.8755384355603543e-05,-0.7926050980485694,0.7926050980485694
+1998,1999,EE,Food products nec,EE,Food waste for treatment: waste water treatment,0.792623838327582,0.0003858253426218681,-0.7922380129849601,0.7922380129849601
+1998,1999,EE,Food products nec,EE,Plastic waste for treatment: landfill,0.7926239970867323,0.0077384260519942245,-0.784885571034738,0.784885571034738
+1998,1999,EE,Food products nec,EE,Textiles waste for treatment: landfill,0.7926236782287239,0.007738355563862481,-0.7848853226648614,0.7848853226648614
+1999,2000,MT,Distribution and trade services of electricity,MT,"Wool, silk-worm cocoons",0.9827760468549636,0.0,-0.9827760468549636,0.9827760468549636
+1999,2000,ES,Private households with employed persons (95),ES,"Natural gas and services related to natural gas extraction, excluding surveying",0.0,0.8277719192846352,0.8277719192846352,0.8277719192846352
+1999,2000,BG,Education services (80),BG,Other business services (74),0.8126285362183711,7.728765975333692e-07,-0.8126277633417736,0.8126277633417736
+1999,2000,BG,Education services (80),BG,"Recreational, cultural and sporting services (92)",0.8125792429323295,2.26715191200629e-07,-0.8125790162171384,0.8125790162171384
+1999,2000,BG,Education services (80),BG,"Financial intermediation services, except insurance and pension funding services (65)",0.8118886287777215,4.7689573202899917e-05,-0.8118409392045186,0.8118409392045186
+1999,2000,SI,Education services (80),SI,"Recreational, cultural and sporting services (92)",1.0281506307444873e-06,0.7926255406748801,0.7926245125242494,0.7926245125242494
+1999,2000,SI,Education services (80),SI,Other business services (74),9.153944988772111e-07,0.7925577038295988,0.7925567884350999,0.7925567884350999
+1999,2000,SI,Education services (80),SI,Meat products nec,0.00033061037473364056,0.7885698006729503,0.7882391902982168,0.7882391902982168
+1999,2000,SI,Education services (80),SI,Renting services of machinery and equipment without operator and of personal and household goods (71),1.2080890279491544e-06,0.7842432195499737,0.7842420114609457,0.7842420114609457
+1999,2000,RO,Education services (80),RO,"Medical, precision and optical instruments, watches and clocks (33)",0.0,0.7734656821132772,0.7734656821132772,0.7734656821132772
+2000,2001,LT,Education services (80),LT,Raw milk,2.2846219226674585e-05,0.8355705186953983,0.8355476724761717,0.8355476724761717
+2000,2001,RO,Education services (80),RO,"Medical, precision and optical instruments, watches and clocks (33)",0.7734656821132772,0.0,-0.7734656821132772,0.7734656821132772
+2000,2001,BE,Pulp,BE,Food waste for treatment: landfill,0.00013661641964014102,0.7721497825711418,0.7720131661515016,0.7720131661515016
+2000,2001,BE,Pulp,BE,Paper for treatment: landfill,0.00029716515090649493,0.7701145737770166,0.7698174086261101,0.7698174086261101
+2000,2001,BE,Pulp,BE,Plastic waste for treatment: landfill,5.099625727999725e-05,0.7676216363343012,0.7675706400770212,0.7675706400770212
+2000,2001,BE,Pulp,BE,Food waste for treatment: biogasification and land application,9.293027936175495e-06,0.7673762945983909,0.7673670015704547,0.7673670015704547
+2000,2001,BE,Pulp,BE,Food waste for treatment: waste water treatment,0.0011028743540572308,0.7673175341406515,0.7662146597865943,0.7662146597865943
+2000,2001,BE,Pulp,BE,Textiles waste for treatment: incineration,0.00036933835859350014,0.7651752054555915,0.7648058670969979,0.7648058670969979
+2000,2001,SI,Education services (80),SI,Other services (93),0.763791674731429,0.01310283512809458,-0.7506888396033343,0.7506888396033343
+2000,2001,HU,Pigs,HU,Plastic waste for treatment: incineration,9.603843805806027e-08,0.7385292785670184,0.7385291825285804,0.7385291825285804
+2001,2002,LT,Education services (80),LT,Services auxiliary to financial intermediation (67),0.8383491463981078,0.004711515981441938,-0.8336376304166658,0.8336376304166658
+2001,2002,LT,Education services (80),LT,Raw milk,0.8355705186953983,0.0028055941718389816,-0.8327649245235593,0.8327649245235593
+2001,2002,LT,Education services (80),LT,Membership organisation services n.e.c. (91),0.8266098282939446,1.706099142032967e-05,-0.8265927673025243,0.8265927673025243
+2001,2002,LT,Education services (80),LT,"Radio, television and communication equipment and apparatus (32)",0.8216384666777815,0.001337961968107006,-0.8203005047096745,0.8203005047096745
+2001,2002,LT,Education services (80),LT,"Financial intermediation services, except insurance and pension funding services (65)",0.8160089849837853,0.007334922363169345,-0.8086740626206159,0.8086740626206159
+2001,2002,LT,Education services (80),LT,Machinery and equipment n.e.c. (29),0.8515379967819863,0.060883037426206474,-0.7906549593557798,0.7906549593557798
+2001,2002,LT,Education services (80),LT,Other transport equipment (35),0.7948793663475163,0.015450842338308483,-0.7794285240092078,0.7794285240092078
+2001,2002,BE,Pulp,BE,Food waste for treatment: landfill,0.7721497825711418,0.00015371962455343682,-0.7719960629465883,0.7719960629465883
+2001,2002,BE,Pulp,BE,Food waste for treatment: waste water treatment,0.7673175341406515,0.001233141722804412,-0.7660843924178471,0.7660843924178471
+2001,2002,DK,"Vegetables, fruit, nuts",DK,P- and other fertiliser,2.5939168346537804e-05,0.7643259304526137,0.7642999912842671,0.7642999912842671
+2002,2003,FR,Public administration and defence services; compulsory social security services (75),FR,"Medical, precision and optical instruments, watches and clocks (33)",0.935881353193913,0.15820889544697986,-0.7776724577469332,0.7776724577469332
+2002,2003,DK,"Vegetables, fruit, nuts",DK,P- and other fertiliser,0.7643259304526137,1.6285965247543262e-05,-0.7643096444873662,0.7643096444873662
+2002,2003,SI,Education services (80),SI,Distribution services of gaseous fuels through mains,0.7562019992127406,0.0003973331978315104,-0.755804666014909,0.755804666014909
+2002,2003,RO,Education services (80),RO,Wheat,0.7500552343141799,8.730786365878164e-05,-0.7499679264505211,0.7499679264505211
+2002,2003,EE,Education services (80),EE,Furniture; other manufactured goods n.e.c. (36),0.7356168530245903,0.00047048057368962977,-0.7351463724509008,0.7351463724509008
+2002,2003,EE,Education services (80),EE,"Recreational, cultural and sporting services (92)",0.0006042178919730874,0.7332457522373762,0.7326415343454031,0.7326415343454031
+2002,2003,DE,Electricity by nuclear,DK,Other non-ferrous metal ores and concentrates,0.0,0.7314623145447565,0.7314623145447565,0.7314623145447565
+2002,2003,EE,Education services (80),EE,Meat products nec,0.7321938948313343,0.0007551014608187973,-0.7314387933705155,0.7314387933705155
+2002,2003,RO,Education services (80),RO,Crops nec,0.726715042643894,0.00020314913932074297,-0.7265118935045732,0.7265118935045732
+2002,2003,EE,Education services (80),EE,Other services (93),0.7196325292031163,0.0038427221795455644,-0.7157898070235708,0.7157898070235708
+2003,2004,MT,Transmission services of electricity,MT,"Radio, television and communication equipment and apparatus (32)",0.0,0.9999767686038985,0.9999767686038985,0.9999767686038985
+2003,2004,EE,Wheat,EE,Electricity by biomass and waste,0.0,0.9994328658706534,0.9994328658706534,0.9994328658706534
+2003,2004,EE,Cereal grains nec,EE,Textiles waste for treatment: landfill,1.8483349553570692e-05,0.997720206076264,0.9977017227267104,0.9977017227267104
+2003,2004,EE,Cereal grains nec,EE,Sewage sludge for treatment: biogasification and land application,2.2534348139127605e-07,0.9810800626970643,0.9810798373535828,0.9810798373535828
+2003,2004,EE,Cereal grains nec,EE,Paper for treatment: landfill,0.00032232436115482694,0.9809547887561618,0.980632464395007,0.980632464395007
+2003,2004,EE,Wheat,EE,Wood waste for treatment: incineration,1.4242480757387529e-05,0.979914231229874,0.9798999887491165,0.9798999887491165
+2003,2004,EE,Cereal grains nec,EE,Food waste for treatment: landfill,0.00021434824350655376,0.9789130374052428,0.9786986891617363,0.9786986891617363
+2003,2004,EE,Wheat,EE,Wood waste for treatment: landfill,1.3260620168210624e-07,0.9639189962915402,0.9639188636853385,0.9639188636853385
+2003,2004,EE,Other transport equipment (35),EE,Membership organisation services n.e.c. (91),0.00010909857182836984,0.9510857607765638,0.9509766622047354,0.9509766622047354
+2003,2004,EE,Hotel and restaurant services (55),EE,"Financial intermediation services, except insurance and pension funding services (65)",0.0024174540795963186,0.9286559020462944,0.9262384479666981,0.9262384479666981
+2004,2005,MT,Transmission services of electricity,MT,"Radio, television and communication equipment and apparatus (32)",0.9999767686038985,0.0,-0.9999767686038985,0.9999767686038985
+2004,2005,EE,Wheat,EE,Electricity by biomass and waste,0.9994328658706534,0.0,-0.9994328658706534,0.9994328658706534
+2004,2005,EE,Cereal grains nec,EE,Textiles waste for treatment: landfill,0.997720206076264,1.269030423769564e-07,-0.9977200791732216,0.9977200791732216
+2004,2005,EE,Cereal grains nec,EE,Sewage sludge for treatment: biogasification and land application,0.9810800626970643,1.4161384512765119e-05,-0.9810659013125516,0.9810659013125516
+2004,2005,EE,Cereal grains nec,EE,Paper for treatment: landfill,0.9809547887561618,5.278264144177281e-05,-0.98090200611472,0.98090200611472
+2004,2005,EE,Wheat,EE,Wood waste for treatment: incineration,0.979914231229874,4.424887493922758e-07,-0.9799137887411246,0.9799137887411246
+2004,2005,EE,Cereal grains nec,EE,Food waste for treatment: landfill,0.9789130374052428,4.741476790603924e-05,-0.9788656226373368,0.9788656226373368
+2004,2005,EE,Wheat,EE,Wood waste for treatment: landfill,0.9639189962915402,9.262788421143373e-08,-0.963918903663656,0.963918903663656
+2004,2005,FR,Office machinery and computers (30),FR,"Medical, precision and optical instruments, watches and clocks (33)",0.0,0.9626126129811416,0.9626126129811416,0.9626126129811416
+2004,2005,EE,Other transport equipment (35),EE,Membership organisation services n.e.c. (91),0.9510857607765638,6.350975698105109e-05,-0.9510222510195827,0.9510222510195827
+2005,2006,LT,N-fertiliser,LT,"Radio, television and communication equipment and apparatus (32)",0.0,0.93724336009243,0.93724336009243,0.93724336009243
+2005,2006,IT,Private households with employed persons (95),IT,Aluminium ores and concentrates,0.0,0.8714999349159309,0.8714999349159309,0.8714999349159309
+2005,2006,LT,Meat products nec,LT,N-fertiliser,0.0,0.833334840009277,0.833334840009277,0.833334840009277
+2005,2006,AT,Biodiesels,AT,Research and development services (73),0.06137699315509512,0.8679143272106904,0.8065373340555952,0.8065373340555952
+2005,2006,BG,Education services (80),BG,Other business services (74),7.095108271774788e-06,0.7375782321397418,0.73757113703147,0.73757113703147
+2005,2006,BG,Education services (80),BG,"Recreational, cultural and sporting services (92)",4.540176130215908e-06,0.7373327624588176,0.7373282222826875,0.7373282222826875
+2005,2006,IT,Private households with employed persons (95),IT,Other non-ferrous metal ores and concentrates,0.005050031365560112,0.733128429131829,0.7280783977662688,0.7280783977662688
+2005,2006,RO,Education services (80),RO,Iron ores,0.0,0.7274676658171517,0.7274676658171517,0.7274676658171517
+2005,2006,BG,Education services (80),BG,"Insurance and pension funding services, except compulsory social security services (66)",4.92309356540327e-05,0.7054090694759361,0.7053598385402821,0.7053598385402821
+2005,2006,BG,Education services (80),BG,Health and social work services (85),0.0009177430138135385,0.7024628519605072,0.7015451089466936,0.7015451089466936
+2006,2007,MT,Transmission services of electricity,MT,Tobacco products (16),0.0,0.9794770612169313,0.9794770612169313,0.9794770612169313
+2006,2007,FR,Public administration and defence services; compulsory social security services (75),FR,Electricity nec,0.0,0.9690565760214168,0.9690565760214168,0.9690565760214168
+2006,2007,PL,Coking Coal,IE,Plastic waste for treatment: incineration,0.0,0.9513589155359996,0.9513589155359996,0.9513589155359996
+2006,2007,LT,N-fertiliser,LT,"Radio, television and communication equipment and apparatus (32)",0.93724336009243,0.0,-0.93724336009243,0.93724336009243
+2006,2007,RO,Education services (80),RO,Additives/Blending Components,0.8630816853930856,0.0,-0.8630816853930856,0.8630816853930856
+2006,2007,RO,Education services (80),RO,"Medical, precision and optical instruments, watches and clocks (33)",0.8621676173609812,0.0005551512550644877,-0.8616124661059168,0.8616124661059168
+2006,2007,RO,Education services (80),RO,Other business services (74),0.8600688827657952,0.0006894013973543641,-0.8593794813684408,0.8593794813684408
+2006,2007,RO,Education services (80),RO,Chemicals nec,0.8630731631745867,0.00884412463981429,-0.8542290385347724,0.8542290385347724
+2006,2007,RO,Education services (80),RO,"Recreational, cultural and sporting services (92)",0.8548941227025393,0.0006836608299403881,-0.8542104618725989,0.8542104618725989
+2006,2007,LT,Meat products nec,LT,N-fertiliser,0.833334840009277,2.32348019552364e-06,-0.8333325165290815,0.8333325165290815
+2007,2008,MT,Transmission services of electricity,MT,Tobacco products (16),0.9794770612169313,0.0,-0.9794770612169313,0.9794770612169313
+2007,2008,MT,Wheat,MT,"Radio, television and communication equipment and apparatus (32)",5.3543623799103825e-06,0.9595324742169503,0.9595271198545704,0.9595271198545704
+2007,2008,PL,Coking Coal,IE,Paper waste for treatment: incineration,0.0,0.957153818060646,0.957153818060646,0.957153818060646
+2007,2008,PL,Coking Coal,IE,Plastic waste for treatment: incineration,0.9513589155359996,0.0,-0.9513589155359996,0.9513589155359996
+2007,2008,RO,Heavy Fuel Oil,RO,Electricity by petroleum and other oil derivatives,0.10834103444723202,0.9669504985068738,0.8586094640596418,0.8586094640596418
+2007,2008,EE,Education services (80),EE,"Recreational, cultural and sporting services (92)",0.8498222019378023,0.04385480786724096,-0.8059673940705614,0.8059673940705614
+2007,2008,EE,Education services (80),EE,Services auxiliary to financial intermediation (67),0.7646381010993542,0.0009075538818992537,-0.7637305472174549,0.7637305472174549
+2007,2008,SI,Education services (80),SI,"Medical, precision and optical instruments, watches and clocks (33)",4.1655577900117184e-08,0.756392974739189,0.7563929330836111,0.7563929330836111
+2007,2008,BG,Motor Gasoline,BG,Other non-ferrous metal ores and concentrates,1.616129427507691e-05,0.7470790897179038,0.7470629284236288,0.7470629284236288
+2007,2008,BG,Motor Gasoline,BG,Food waste for treatment: waste water treatment,0.0021635373105540626,0.7460178737479606,0.7438543364374065,0.7438543364374065
+2008,2009,IE,Paper waste for treatment: incineration,IE,Nuclear fuel,1.0991034408886923e-09,0.9912822469068652,0.9912822458077617,0.9912822458077617
+2008,2009,LV,Wheat,LV,"Financial intermediation services, except insurance and pension funding services (65)",6.023310108055463e-05,0.9697920949323542,0.9697318618312736,0.9697318618312736
+2008,2009,MT,Wheat,MT,"Radio, television and communication equipment and apparatus (32)",0.9595324742169503,0.0,-0.9595324742169503,0.9595324742169503
+2008,2009,IE,Wood waste for treatment: incineration,IE,Paper waste for treatment: incineration,1.1548928544818494e-09,0.9441185937844585,0.9441185926295657,0.9441185926295657
+2008,2009,PL,Coking Coal,IE,Paper waste for treatment: incineration,0.957153818060646,0.05299674636882839,-0.9041570716918177,0.9041570716918177
+2008,2009,IT,Private households with employed persons (95),IT,Aluminium ores and concentrates,0.8655761235555138,0.0023084478868115547,-0.8632676756687023,0.8632676756687023
+2008,2009,RO,Heavy Fuel Oil,RO,Electricity by petroleum and other oil derivatives,0.9669504985068738,0.11183228669131286,-0.8551182118155609,0.8551182118155609
+2008,2009,MT,Education services (80),MT,Paper and paper products,0.0,0.8456198758199306,0.8456198758199306,0.8456198758199306
+2008,2009,SI,Education services (80),SI,"Medical, precision and optical instruments, watches and clocks (33)",0.756392974739189,1.1610882101555368e-07,-0.756392858630368,0.756392858630368
+2008,2009,SI,Education services (80),SI,"Recreational, cultural and sporting services (92)",0.7563574850775682,7.92328136317686e-07,-0.7563566927494318,0.7563566927494318
+2009,2010,MT,Wheat,MT,"Radio, television and communication equipment and apparatus (32)",0.0,0.9999885277268592,0.9999885277268592,0.9999885277268592
+2009,2010,IE,Paper waste for treatment: incineration,IE,Nuclear fuel,0.9912822469068652,1.226851026293733e-07,-0.9912821242217625,0.9912821242217625
+2009,2010,LV,Wheat,LV,"Financial intermediation services, except insurance and pension funding services (65)",0.9697920949323542,4.32232705318565e-05,-0.9697488716618223,0.9697488716618223
+2009,2010,IE,Wood waste for treatment: incineration,IE,Paper waste for treatment: incineration,0.9441185937844585,0.0,-0.9441185937844585,0.9441185937844585
+2009,2010,FR,Public administration and defence services; compulsory social security services (75),FR,Electricity nec,0.9651441945066299,0.028156335373846472,-0.9369878591327835,0.9369878591327835
+2009,2010,MT,Education services (80),MT,Renting services of machinery and equipment without operator and of personal and household goods (71),0.8456389863171802,1.768353058322702e-05,-0.845621302786597,0.845621302786597
+2009,2010,MT,Education services (80),MT,Paper and paper products,0.8456198758199306,1.4184517720403972e-07,-0.8456197339747534,0.8456197339747534
+2009,2010,MT,Education services (80),MT,Health and social work services (85),0.835383133340943,0.0005471826991051256,-0.8348359506418379,0.8348359506418379
+2009,2010,MT,Education services (80),MT,Real estate services (70),0.8329042032992223,2.5530632250766327e-05,-0.8328786726669716,0.8328786726669716
+2009,2010,MT,Education services (80),MT,Public administration and defence services; compulsory social security services (75),0.8335921928062009,0.0022316576293352954,-0.8313605351768656,0.8313605351768656
+2010,2011,MT,Wheat,MT,"Radio, television and communication equipment and apparatus (32)",0.9999885277268592,2.9044002943300904e-08,-0.9999884986828562,0.9999884986828562
+2010,2011,GR,Public administration and defence services; compulsory social security services (75),GR,Nuclear fuel,5.185907159152055e-07,0.9998853623045035,0.9998848437137876,0.9998848437137876
+2010,2011,CY,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",CY,Biogas,0.0,0.9995838051835477,0.9995838051835477,0.9995838051835477
+2010,2011,LT,Crops nec,LT,Plant-based fibers,0.0003955222738148956,0.9962573806450875,0.9958618583712726,0.9958618583712726
+2010,2011,RO,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RO,Iron ores,0.0,0.9670559756475284,0.9670559756475284,0.9670559756475284
+2010,2011,IT,Private households with employed persons (95),IT,"Lead, zinc and tin ores and concentrates",0.8962184879987279,6.197941966548297e-10,-0.8962184873789337,0.8962184873789337
+2010,2011,IT,Private households with employed persons (95),IT,Other non-ferrous metal ores and concentrates,0.8863924012800122,1.1088852622129171e-13,-0.8863924012799013,0.8863924012799013
+2010,2011,DK,Pulp,DK,Paper and paper products,0.8891405908157607,0.03246279161055839,-0.8566777992052023,0.8566777992052023
+2010,2011,CZ,Coking Coal,CZ,Coke Oven Coke,0.8465801616024812,0.0,-0.8465801616024812,0.8465801616024812
+2010,2011,PL,Sea and coastal water transportation services,PL,Sea and coastal water transportation services,0.8757530799696838,0.052767741470323995,-0.8229853384993597,0.8229853384993597
+2011,2012,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Plant-based fibers,2.5287834045145027e-10,0.9979808822713819,0.9979808820185035,0.9979808820185035
+2011,2012,LT,Crops nec,LT,Plant-based fibers,0.9962573806450875,9.813048025580972e-10,-0.9962573796637827,0.9962573796637827
+2011,2012,IE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",IE,Wood waste for treatment: incineration,0.0,0.9912172531678685,0.9912172531678685,0.9912172531678685
+2011,2012,RO,Membership organisation services n.e.c. (91),RO,Wood waste for treatment: incineration,0.0,0.9725690299811244,0.9725690299811244,0.9725690299811244
+2011,2012,RO,Membership organisation services n.e.c. (91),RO,Paper waste for treatment: incineration,0.0,0.9654164232991654,0.9654164232991654,0.9654164232991654
+2011,2012,RO,Membership organisation services n.e.c. (91),RO,Food waste for treatment: incineration,0.0,0.9644733522697775,0.9644733522697775,0.9644733522697775
+2011,2012,RO,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RO,Iron ores,0.9670559756475284,0.0069444351558447205,-0.9601115404916837,0.9601115404916837
+2011,2012,RO,Membership organisation services n.e.c. (91),RO,Plant-based fibers,0.0,0.9202105695453031,0.9202105695453031,0.9202105695453031
+2011,2012,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,Iron ores,2.2456989596701096e-05,0.82769154071051,0.8276690837209133,0.8276690837209133
+2011,2012,SI,Nuclear fuel,SI,Nuclear fuel,0.7965546246778429,0.0,-0.7965546246778429,0.7965546246778429
+2012,2013,IE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",IE,Wood waste for treatment: incineration,0.9912172531678685,4.9218508132229434e-08,-0.9912172039493603,0.9912172039493603
+2012,2013,RO,Membership organisation services n.e.c. (91),RO,Wood waste for treatment: incineration,0.9725690299811244,0.0,-0.9725690299811244,0.9725690299811244
+2012,2013,RO,Membership organisation services n.e.c. (91),RO,Paper waste for treatment: incineration,0.9654164232991654,0.0,-0.9654164232991654,0.9654164232991654
+2012,2013,RO,Membership organisation services n.e.c. (91),RO,Food waste for treatment: incineration,0.9644733522697775,0.0,-0.9644733522697775,0.9644733522697775
+2012,2013,RO,Membership organisation services n.e.c. (91),RO,Plant-based fibers,0.9202105695453031,0.0,-0.9202105695453031,0.9202105695453031
+2012,2013,SI,Processed rice,SI,Kerosene Type Jet Fuel,0.0,0.8509840966016435,0.8509840966016435,0.8509840966016435
+2012,2013,DK,"Natural gas and services related to natural gas extraction, excluding surveying",DK,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",0.007217907394932037,0.8564446025349177,0.8492266951399857,0.8492266951399857
+2012,2013,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,Iron ores,0.82769154071051,0.014329263556318817,-0.8133622771541912,0.8133622771541912
+2012,2013,MT,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",MT,Inert/metal/hazardous waste for treatment: landfill,0.0027754828162508873,0.7965791400220011,0.7938036572057503,0.7938036572057503
+2012,2013,FR,Distribution services of gaseous fuels through mains,FR,Electricity by gas,4.231137736304414e-06,0.7754958359788838,0.7754916048411475,0.7754916048411475
+2013,2014,CY,Office machinery and computers (30),CY,Nuclear fuel,0.00246403674690859,0.9958356027332965,0.993371565986388,0.993371565986388
+2013,2014,RO,Membership organisation services n.e.c. (91),RO,Food waste for treatment: incineration,0.0,0.9140141673185671,0.9140141673185671,0.9140141673185671
+2013,2014,RO,Membership organisation services n.e.c. (91),RO,Paper waste for treatment: incineration,0.0,0.9126653292492989,0.9126653292492989,0.9126653292492989
+2013,2014,SI,Processed rice,SI,Kerosene Type Jet Fuel,0.8509840966016435,0.0,-0.8509840966016435,0.8509840966016435
+2013,2014,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,"Wool, silk-worm cocoons",0.005547553553862186,0.8502570878580415,0.8447095343041794,0.8447095343041794
+2013,2014,MT,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",MT,Paper for treatment: landfill,9.769063333437848e-06,0.8330859189570897,0.8330761498937563,0.8330761498937563
+2013,2014,MT,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",MT,Food waste for treatment: landfill,6.71447378244026e-06,0.8300222882025857,0.8300155737288033,0.8300155737288033
+2013,2014,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0029876222601063016,0.8148990653437633,0.811911443083657,0.811911443083657
+2013,2014,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,"Natural gas and services related to natural gas extraction, excluding surveying",0.0040136485929960245,0.8114662342076921,0.8074525856146961,0.8074525856146961
+2013,2014,RO,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RO,Other non-ferrous metal ores and concentrates,0.7865622440749069,2.7627262299248154e-10,-0.7865622437986343,0.7865622437986343
+2014,2015,CY,Office machinery and computers (30),CY,Nuclear fuel,0.9958356027332965,0.005852030803638735,-0.9899835719296578,0.9899835719296578
+2014,2015,RO,Public administration and defence services; compulsory social security services (75),RO,Food waste for treatment: incineration,0.0,0.9767767542842288,0.9767767542842288,0.9767767542842288
+2014,2015,RO,Membership organisation services n.e.c. (91),RO,Food waste for treatment: incineration,0.9140141673185671,1.4938537042983564e-08,-0.91401415238003,0.91401415238003
+2014,2015,RO,Membership organisation services n.e.c. (91),RO,Paper waste for treatment: incineration,0.9126653292492989,0.0,-0.9126653292492989,0.9126653292492989
+2014,2015,CY,Biodiesels,CY,Heavy Fuel Oil,0.0,0.854345937491207,0.854345937491207,0.854345937491207
+2014,2015,CY,Biodiesels,CY,Gas/Diesel Oil,0.0,0.8543459374848874,0.8543459374848874,0.8543459374848874
+2014,2015,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,"Wool, silk-worm cocoons",0.8502570878580415,9.311353408203511e-05,-0.8501639743239595,0.8501639743239595
+2014,2015,IT,Electricity by gas,MT,Biogas,0.0,0.8475611734815739,0.8475611734815739,0.8475611734815739
+2014,2015,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Processed rice,0.12836037208350795,0.9747348332554499,0.8463744611719419,0.8463744611719419
+2014,2015,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,Iron ores,1.6959784450999622e-05,0.8219395881948108,0.8219226284103598,0.8219226284103598
+2015,2016,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Plant-based fibers,0.9908006652384836,0.0,-0.9908006652384836,0.9908006652384836
+2015,2016,RO,Public administration and defence services; compulsory social security services (75),RO,Paper waste for treatment: incineration,0.0,0.9799056148790597,0.9799056148790597,0.9799056148790597
+2015,2016,CY,Nuclear fuel,CY,Heavy Fuel Oil,8.95586278795837e-10,0.86643069895069,0.8664306980551038,0.8664306980551038
+2015,2016,CY,Nuclear fuel,CY,Gas/Diesel Oil,8.955862787891049e-10,0.8664306989504723,0.866430698054886,0.866430698054886
+2015,2016,CY,Biodiesels,CY,Heavy Fuel Oil,0.854345937491207,0.0,-0.854345937491207,0.854345937491207
+2015,2016,CY,Biodiesels,CY,Gas/Diesel Oil,0.8543459374848874,0.0,-0.8543459374848874,0.8543459374848874
+2015,2016,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Processed rice,0.9747348332554499,0.14064531187157928,-0.8340895213838706,0.8340895213838706
+2015,2016,SI,Biogas,SI,Kerosene Type Jet Fuel,0.8178770775624731,0.0,-0.8178770775624731,0.8178770775624731
+2015,2016,SI,Biogas,SI,Kerosene,0.8178770775620186,0.0,-0.8178770775620186,0.8178770775620186
+2015,2016,SK,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SK,Iron ores,0.8219395881948108,0.007462335420064822,-0.814477252774746,0.814477252774746
+2016,2017,FR,Electricity by Geothermal,FR,BKB/Peat Briquettes,0.0,0.9999997890741004,0.9999997890741004,0.9999997890741004
+2016,2017,LT,Paper and paper products,LT,Plant-based fibers,0.0,0.9914610502551915,0.9914610502551915,0.9914610502551915
+2016,2017,DK,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",DK,P- and other fertiliser,0.0010319980053940941,0.9223564630391334,0.9213244650337393,0.9213244650337393
+2016,2017,CY,Secondary raw materials,CY,Food waste for treatment: landfill,0.0001410962159381547,0.904407768497551,0.9042666722816128,0.9042666722816128
+2016,2017,CY,"Insurance and pension funding services, except compulsory social security services (66)",CY,Heavy Fuel Oil,1.8018457878116823e-05,0.8713829307827733,0.8713649123248952,0.8713649123248952
+2016,2017,CY,"Insurance and pension funding services, except compulsory social security services (66)",CY,Gas/Diesel Oil,1.8018457878109288e-05,0.8713829307786063,0.8713649123207282,0.8713649123207282
+2016,2017,CY,Nuclear fuel,CY,Heavy Fuel Oil,0.86643069895069,0.0,-0.86643069895069,0.86643069895069
+2016,2017,CY,Nuclear fuel,CY,Gas/Diesel Oil,0.8664306989504723,0.0,-0.8664306989504723,0.8664306989504723
+2016,2017,MT,Other business services (74),MT,Railway transportation services,0.7664959701173936,0.008434048041488547,-0.7580619220759051,0.7580619220759051
+2016,2017,MT,Other business services (74),MT,Other land transportation services,0.7697489645774708,0.01741545741259434,-0.7523335071648765,0.7523335071648765
+2017,2018,FR,Electricity by Geothermal,FR,BKB/Peat Briquettes,0.9999997890741004,0.0,-0.9999997890741004,0.9999997890741004
+2017,2018,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Plant-based fibers,0.0,0.9966417910214344,0.9966417910214344,0.9966417910214344
+2017,2018,LT,Paper and paper products,LT,Plant-based fibers,0.9914610502551915,0.0,-0.9914610502551915,0.9914610502551915
+2017,2018,ES,"Crude petroleum and services related to crude oil extraction, excluding surveying",SI,Kerosene Type Jet Fuel,0.0,0.9696779474070085,0.9696779474070085,0.9696779474070085
+2017,2018,NL,Nuclear fuel,SI,Nuclear fuel,0.0,0.9503562875970273,0.9503562875970273,0.9503562875970273
+2017,2018,DK,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",DK,P- and other fertiliser,0.9223564630391334,0.0003978942342146214,-0.9219585688049188,0.9219585688049188
+2017,2018,CZ,BKB/Peat Briquettes,CZ,"Lead, zinc and tin ores and concentrates",9.99746232577857e-06,0.9190066331123459,0.9189966356500201,0.9189966356500201
+2017,2018,CY,Secondary raw materials,CY,Food waste for treatment: landfill,0.904407768497551,4.740891446776115e-06,-0.9044030276061042,0.9044030276061042
+2017,2018,CY,"Insurance and pension funding services, except compulsory social security services (66)",CY,Heavy Fuel Oil,0.8713829307827733,7.4293167396534664e-06,-0.8713755014660336,0.8713755014660336
+2017,2018,CY,"Insurance and pension funding services, except compulsory social security services (66)",CY,Gas/Diesel Oil,0.8713829307786063,7.429316739637935e-06,-0.8713755014618666,0.8713755014618666
+2018,2019,RO,Public administration and defence services; compulsory social security services (75),RO,Food waste for treatment: incineration,0.9863226908820311,0.0,-0.9863226908820311,0.9863226908820311
+2018,2019,RO,Public administration and defence services; compulsory social security services (75),RO,Paper waste for treatment: incineration,0.9830941246214802,0.0,-0.9830941246214802,0.9830941246214802
+2018,2019,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Processed rice,7.008598022988843e-07,0.9727627685925152,0.9727620677327129,0.9727620677327129
+2018,2019,ES,"Crude petroleum and services related to crude oil extraction, excluding surveying",SI,Kerosene Type Jet Fuel,0.9696779474070085,0.0,-0.9696779474070085,0.9696779474070085
+2018,2019,NL,Nuclear fuel,SI,Nuclear fuel,0.9503562875970273,0.0,-0.9503562875970273,0.9503562875970273
+2018,2019,CY,Food waste for treatment: landfill,CY,Paper for treatment: landfill,0.8223408651691764,0.0001442001636245144,-0.8221966650055519,0.8221966650055519
+2018,2019,IE,Air transport services (62),IE,Nuclear fuel,0.9428724430689182,0.1336514012808673,-0.8092210417880509,0.8092210417880509
+2018,2019,GR,"Crude petroleum and services related to crude oil extraction, excluding surveying",SI,Heavy Fuel Oil,0.0,0.8059100576676124,0.8059100576676124,0.8059100576676124
+2018,2019,GR,Lubricants,GR,Biogas,0.08521625238307672,0.8826722924411674,0.7974560400580907,0.7974560400580907
+2018,2019,IT,Electricity by gas,MT,Biogas,0.8494503084248103,0.06044718123536873,-0.7890031271894415,0.7890031271894415
+2019,2020,CZ,Electricity by wind,CZ,"Lead, zinc and tin ores and concentrates",4.718503706878596e-09,0.9933601182510091,0.9933601135325054,0.9933601135325054
+2019,2020,CY,Paper for treatment: landfill,CY,Textiles waste for treatment: landfill,4.138507401338657e-05,0.8988048937803156,0.8987635087063022,0.8987635087063022
+2019,2020,GR,"Crude petroleum and services related to crude oil extraction, excluding surveying",SI,Heavy Fuel Oil,0.8059100576676124,0.0,-0.8059100576676124,0.8059100576676124
+2019,2020,LV,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",LV,Kerosene Type Jet Fuel,0.8002916519160844,0.0,-0.8002916519160844,0.8002916519160844
+2019,2020,BG,Supporting and auxiliary transport services; travel agency services (63),BG,Steam and hot water supply services,0.7894214212597958,0.0010669182464097676,-0.7883545030133859,0.7883545030133859
+2019,2020,GR,Railway transportation services,GR,Plant-based fibers,3.3508612065714306e-05,0.7734120309359821,0.7733785223239164,0.7733785223239164
+2019,2020,GR,Railway transportation services,GR,Distribution services of gaseous fuels through mains,4.0277266337705404e-05,0.7734119484064497,0.773371671140112,0.773371671140112
+2019,2020,RO,Public administration and defence services; compulsory social security services (75),RO,Stone,0.0,0.742349975509827,0.742349975509827,0.742349975509827
+2019,2020,GR,Electricity by biomass and waste,GR,"Natural gas and services related to natural gas extraction, excluding surveying",0.7392649316108852,1.0834953795006877e-06,-0.7392638481155057,0.7392638481155057
+2019,2020,MT,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",MT,Steam and hot water supply services,0.7359672262451197,0.0,-0.7359672262451197,0.7359672262451197
+2020,2021,CZ,Electricity by wind,CZ,"Lead, zinc and tin ores and concentrates",0.9933601182510091,2.131590028018893e-05,-0.9933388023507289,0.9933388023507289
+2020,2021,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Plant-based fibers,0.9892666194918968,1.2868202042661646e-07,-0.9892664908098764,0.9892664908098764
+2020,2021,MT,Oil seeds,MT,Wearing apparel; furs (18),5.605256567322022e-06,0.9856411053568521,0.9856355001002848,0.9856355001002848
+2020,2021,CY,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",CY,Biogas,0.9722691945521438,0.0,-0.9722691945521438,0.9722691945521438
+2020,2021,CY,Paper for treatment: landfill,CY,Textiles waste for treatment: landfill,0.8988048937803156,4.310109012533394e-05,-0.8987617926901903,0.8987617926901903
+2020,2021,DE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",DE,Tobacco products (16),0.893903907659977,4.542412644753416e-13,-0.8939039076595228,0.8939039076595228
+2020,2021,LT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",LT,Processed rice,0.886983032206691,1.7784768605712277e-05,-0.8869652474380852,0.8869652474380852
+2020,2021,CY,"Financial intermediation services, except insurance and pension funding services (65)",CY,Nuclear fuel,0.0009151084745097473,0.8640001667392151,0.8630850582647054,0.8630850582647054
+2020,2021,CY,"Financial intermediation services, except insurance and pension funding services (65)",CY,Other waste for treatment: waste water treatment,0.0014762334045835034,0.8639996172972074,0.862523383892624,0.862523383892624
+2020,2021,DK,Pulp,DK,Paper and paper products,0.007885851382095854,0.8523087751449344,0.8444229237628386,0.8444229237628386
+2021,2022,MT,Oil seeds,MT,Leather and leather products (19),0.0005084747054239486,0.9999856897964474,0.9994772150910235,0.9994772150910235
+2021,2022,MT,Oil seeds,MT,Wearing apparel; furs (18),0.9856411053568521,0.0030399718578522092,-0.9826011334989999,0.9826011334989999
+2021,2022,CY,"Financial intermediation services, except insurance and pension funding services (65)",CY,Other waste for treatment: waste water treatment,0.8639996172972074,9.833712552533693e-06,-0.8639897835846548,0.8639897835846548
+2021,2022,CY,"Financial intermediation services, except insurance and pension funding services (65)",CY,Nuclear fuel,0.8640001667392151,5.371981127909846e-05,-0.863946446927936,0.863946446927936
+2021,2022,IT,Private households with employed persons (95),IT,"Lead, zinc and tin ores and concentrates",0.0,0.8629392894891711,0.8629392894891711,0.8629392894891711
+2021,2022,MT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",MT,Electricity by petroleum and other oil derivatives,0.08932453422012007,0.9363856743093715,0.8470611400892514,0.8470611400892514
+2021,2022,CY,Post and telecommunication services (64),CY,Other waste for treatment: waste water treatment,7.001313837051159e-08,0.8080722237395515,0.8080721537264131,0.8080721537264131
+2021,2022,CY,"Financial intermediation services, except insurance and pension funding services (65)",CY,Other non-ferrous metal products,0.8083434416472225,0.008012181684302138,-0.8003312599629203,0.8003312599629203
+2021,2022,HU,"Crude petroleum and services related to crude oil extraction, excluding surveying",HU,Other non-metallic mineral products,0.00023650829385140994,0.7802732400034896,0.7800367317096383,0.7800367317096383
+2021,2022,MT,Education services (80),MT,Real estate services (70),0.7587406091580123,0.015702300595802143,-0.7430383085622102,0.7430383085622102
+2022,2023,MT,Oil seeds,MT,Leather and leather products (19),0.9999856897964474,7.728945735079072e-08,-0.99998561250699,0.99998561250699
+2022,2023,FR,Public administration and defence services; compulsory social security services (75),FR,"Radio, television and communication equipment and apparatus (32)",0.005437552468200565,0.9134368287616833,0.9079992762934828,0.9079992762934828
+2022,2023,FR,Public administration and defence services; compulsory social security services (75),FR,Electricity nec,0.010855992138940179,0.8959302811913646,0.8850742890524245,0.8850742890524245
+2022,2023,FR,Public administration and defence services; compulsory social security services (75),FR,Electrical machinery and apparatus n.e.c. (31),2.1725724951280884e-07,0.8505469617004068,0.8505467444431573,0.8505467444431573
+2022,2023,FR,Distribution services of gaseous fuels through mains,FR,Electricity nec,0.8550950898299164,0.00848578430386384,-0.8466093055260526,0.8466093055260526
+2022,2023,DK,Processed rice,DK,N-fertiliser,1.342502508301358e-07,0.8281741096819851,0.8281739754317343,0.8281739754317343
+2022,2023,FR,Public administration and defence services; compulsory social security services (75),FR,Electricity by biomass and waste,0.04303088308643677,0.8558483844191395,0.8128175013327027,0.8128175013327027
+2022,2023,MT,Education services (80),MT,Chemicals nec,0.7615231985210353,0.00028764147474139945,-0.761235557046294,0.761235557046294
+2022,2023,LU,Distribution services of gaseous fuels through mains,LU,"Radio, television and communication equipment and apparatus (32)",9.76669672354669e-06,0.7530424184669298,0.7530326517702062,0.7530326517702062
+2022,2023,LU,Distribution services of gaseous fuels through mains,LU,Food waste for treatment: waste water treatment,6.832808287476685e-05,0.7523712772362271,0.7523029491533524,0.7523029491533524
+2023,2024,AT,Distribution services of gaseous fuels through mains,AT,Steam and hot water supply services,0.881596254157129,0.14325164778124047,-0.7383446063758885,0.7383446063758885
+2023,2024,SE,Construction work (45),SE,Real estate services (70),0.69571305768062,0.0007855558083419374,-0.694927501872278,0.694927501872278
+2023,2024,DK,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",DK,"Bricks, tiles and construction products, in baked clay",0.0052493351330795785,0.6747253641577283,0.6694760290246488,0.6694760290246488
+2023,2024,DK,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",DK,"Cement, lime and plaster",0.005935552848437686,0.6745459074187431,0.6686103545703054,0.6686103545703054
+2023,2024,MT,Aluminium and aluminium products,MT,Other transport equipment (35),0.6470081253676836,0.0060937105889674464,-0.6409144147787161,0.6409144147787161
+2023,2024,BG,Education services (80),BG,Distribution services of gaseous fuels through mains,0.6372122848895844,9.933891851376643e-05,-0.6371129459710706,0.6371129459710706
+2023,2024,BG,Education services (80),BG,Furniture; other manufactured goods n.e.c. (36),0.6371415117916717,4.250441248143726e-05,-0.6370990073791902,0.6370990073791902
+2023,2024,BG,Education services (80),BG,Other transport equipment (35),0.6344740446861117,4.3687043751793004e-05,-0.6344303576423599,0.6344303576423599
+2023,2024,BG,Education services (80),BG,Steam and hot water supply services,0.6232270503496192,4.01635345627076e-05,-0.6231868868150565,0.6231868868150565
+2023,2024,HU,Pulp,HU,Foundry work services,9.871795987363686e-05,0.6107011894726685,0.6106024715127949,0.6106024715127949
