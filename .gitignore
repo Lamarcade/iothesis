@@ -1,0 +1,26 @@
+.venv/
+.venv/*
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.swp
+*.tmp
+
+# Large/generated assets
+Data/
+Figs/
+EXIOBASE_data/
+*.xlsx
+*.zip
+*.parquet
+*.html
+*.png
