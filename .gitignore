@@ -24,17 +24,3 @@ EXIOBASE_data/
 *.html
 #*.png
 Data/NGFS5/_cache/
-# Projections x regenerables via shortterm/project_production.py (~76 Mo)
-Data/production_evol/
-# Resultats KRAS scope 3 : quelques secondes a recalculer depuis scope3_cache/
-Data/processed/scope3_kras/
-# Idem pour v1 : les runs se recalculent en secondes depuis v1_cache/
-Data/processed/v1_runs/
-# NB : Data/processed/scope3_cache/ et Data/processed/v1_cache/ sont
-# volontairement SUIVIS (quelques dizaines de Ko). Les reconstruire demande de
-# reparser Z.txt (~700 Mo) depuis EXIOBASE_data.zip, lui-meme ignore par la
-# regle *.zip -- un clone frais ne pourrait pas le refaire.
-# EXCEPTION : region_ngfs (n=1764) pese 13 Mo, hors de proportion avec les
-# autres caches (world 0,26 Mo, eu_macro 0,28 Mo). Non suivi ; le rebatir avec
-#   python v1/system.py --resolution region_ngfs
-Data/processed/v1_cache/region_ngfs_*.npz

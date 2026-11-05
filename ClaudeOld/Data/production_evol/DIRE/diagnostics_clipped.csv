@@ -1,0 +1,690 @@
+scenario,ngfs_region,ngfs_sector,year,raw_growth,clipped_growth,affects_exiobase
+DIRE,Africa,Biofuels,2024,32428.84529250455,100.0,True
+DIRE,Africa,Biofuels,2025,101.0156410846833,100.0,True
+DIRE,Africa,Biomass,2025,796.2950344195627,100.0,True
+DIRE,Africa,Biomass,2030,809.3527502957968,100.0,True
+DIRE,Africa,CO2 Capture,2024,-99.84114166317343,-99.0,False
+DIRE,Africa,Clean Gas,2024,-99.8418333655816,-99.0,False
+DIRE,Africa,Equipment for PV panels,2025,-99.79039758114237,-99.0,False
+DIRE,Africa,Equipment for PV panels,2028,-99.99990131989229,-99.0,False
+DIRE,Africa,Gas Fired,2024,1716108.204822357,100.0,True
+DIRE,Africa,Hydro electric,2026,172.5233229176031,100.0,True
+DIRE,Africa,Wind,2024,110.7718400046421,100.0,True
+DIRE,Argentina - ARG,Biomass,2030,409.3397285093289,100.0,True
+DIRE,Argentina - ARG,CO2 Capture,2024,-99.90388160826771,-99.0,False
+DIRE,Argentina - ARG,Clean Gas,2024,-99.90345388528368,-99.0,False
+DIRE,Argentina - ARG,EV Transport Equipment,2023,316.3500361959884,100.0,False
+DIRE,Argentina - ARG,Equipment for PV panels,2024,218.5307247952989,100.0,False
+DIRE,Argentina - ARG,Equipment for PV panels,2025,-99.99984639258918,-99.0,False
+DIRE,Argentina - ARG,Equipment for wind power technology,2025,-99.99965614061516,-99.0,False
+DIRE,Asia,CO2 Capture,2024,-99.80401936854896,-99.0,False
+DIRE,Asia,Clean Gas,2024,-99.80342655579003,-99.0,False
+DIRE,Asia (R5),Biomass,2030,123.3413627491688,100.0,True
+DIRE,Asia (R5),CO2 Capture,2024,-99.79468258200916,-99.0,False
+DIRE,Asia (R5),Clean Gas,2024,-99.79476486058792,-99.0,False
+DIRE,Austria - AUT,CO2 Capture,2024,-99.66641813597839,-99.0,False
+DIRE,Austria - AUT,CO2 Capture,2029,506998304767.6919,100.0,False
+DIRE,Austria - AUT,CO2 Capture,2030,123.8104039430544,100.0,False
+DIRE,Austria - AUT,Clean Gas,2024,-99.6658364677909,-99.0,False
+DIRE,Austria - AUT,Clean Gas,2029,507591748570.5399,100.0,False
+DIRE,Austria - AUT,Clean Gas,2030,124.165378675676,100.0,False
+DIRE,Austria - AUT,Coal fired,2025,-99.57994921508457,-99.0,True
+DIRE,Austria - AUT,Coal fired,2028,19035.2325598453,100.0,True
+DIRE,Austria - AUT,Equipment for wind power technology,2024,261.7315250887723,100.0,False
+DIRE,Austria - AUT,Equipment for wind power technology,2025,-99.96074669974281,-99.0,False
+DIRE,Austria - AUT,Equipment for wind power technology,2026,111.8888378056239,100.0,False
+DIRE,Austria - AUT,Hydrogen,2029,74795.23472632682,100.0,False
+DIRE,Austria - AUT,Hydrogen,2030,122.6626455341674,100.0,False
+DIRE,Belgium - BEL,Batteries,2025,-99.52405209900832,-99.0,False
+DIRE,Belgium - BEL,Batteries,2026,200.2840664170494,100.0,False
+DIRE,Belgium - BEL,Batteries,2027,182.4512591359073,100.0,False
+DIRE,Belgium - BEL,Biomass,2026,118.789416636246,100.0,True
+DIRE,Belgium - BEL,CO2 Capture,2024,-99.66421916894856,-99.0,False
+DIRE,Belgium - BEL,CO2 Capture,2029,757887456526.1644,100.0,False
+DIRE,Belgium - BEL,CO2 Capture,2030,126.9467453911583,100.0,False
+DIRE,Belgium - BEL,Clean Gas,2024,-99.66358024272681,-99.0,False
+DIRE,Belgium - BEL,Clean Gas,2029,758795220248.6831,100.0,False
+DIRE,Belgium - BEL,Clean Gas,2030,127.3385219248216,100.0,False
+DIRE,Belgium - BEL,Coal fired,2025,-99.6601386941613,-99.0,True
+DIRE,Belgium - BEL,Coal fired,2026,27198.80433219723,100.0,True
+DIRE,Belgium - BEL,EV Transport Equipment,2025,-99.44139823207578,-99.0,False
+DIRE,Belgium - BEL,Hydrogen,2029,903584.9322875274,100.0,False
+DIRE,Belgium - BEL,Hydrogen,2030,124.9405834828033,100.0,False
+DIRE,Brazil - BRA,CO2 Capture,2024,-99.85792370881613,-99.0,False
+DIRE,Brazil - BRA,Clean Gas,2024,-99.85787720793743,-99.0,False
+DIRE,Brazil - BRA,Equipment for PV panels,2025,-99.99972172289255,-99.0,False
+DIRE,Brazil - BRA,Equipment for wind power technology,2025,-99.99987709662524,-99.0,False
+DIRE,Bulgaria - BGR,Batteries,2025,-99.79067228870329,-99.0,False
+DIRE,Bulgaria - BGR,Batteries,2026,159.0389276958564,100.0,False
+DIRE,Bulgaria - BGR,Batteries,2027,148.6069527159027,100.0,False
+DIRE,Bulgaria - BGR,CO2 Capture,2024,-99.60009866575595,-99.0,False
+DIRE,Bulgaria - BGR,CO2 Capture,2029,99650874073.34341,100.0,False
+DIRE,Bulgaria - BGR,CO2 Capture,2030,124.0667196284039,100.0,False
+DIRE,Bulgaria - BGR,Clean Gas,2024,-99.5993294124419,-99.0,False
+DIRE,Bulgaria - BGR,Clean Gas,2029,99635867989.53017,100.0,False
+DIRE,Bulgaria - BGR,Clean Gas,2030,124.3403717045562,100.0,False
+DIRE,Bulgaria - BGR,EV Transport Equipment,2025,-99.50086094002553,-99.0,False
+DIRE,Bulgaria - BGR,Equipment for PV panels,2025,155.9216654637512,100.0,False
+DIRE,Bulgaria - BGR,Equipment for wind power technology,2025,244.6391165760672,100.0,False
+DIRE,Bulgaria - BGR,Hydrogen,2029,14218495318.47966,100.0,False
+DIRE,Bulgaria - BGR,Hydrogen,2030,126.4177913905733,100.0,False
+DIRE,Bulgaria - BGR,PV,2024,105.947382557579,100.0,True
+DIRE,Bulgaria - BGR,Wind,2024,108.2928599005948,100.0,True
+DIRE,Canada - CAN,Batteries,2025,346.6454287903987,100.0,False
+DIRE,Canada - CAN,Batteries,2026,101.5584987856119,100.0,False
+DIRE,Canada - CAN,Biomass,2029,496.234138518489,100.0,True
+DIRE,Canada - CAN,CO2 Capture,2024,-99.78159031223707,-99.0,False
+DIRE,Canada - CAN,Clean Gas,2024,-99.78125204285422,-99.0,False
+DIRE,Canada - CAN,Coal fired,2030,-99.8556861759084,-99.0,True
+DIRE,Canada - CAN,Equipment for PV panels,2024,365.7898276533086,100.0,False
+DIRE,Canada - CAN,Equipment for wind power technology,2025,167.6470000406254,100.0,False
+DIRE,Canada - CAN,PV,2024,261.6848346325175,100.0,True
+DIRE,Canada - CAN,PV,2025,100.2786558826087,100.0,True
+DIRE,China - CHN,Biomass,2030,850.8302763917628,100.0,True
+DIRE,China - CHN,CO2 Capture,2024,-99.80246210675253,-99.0,False
+DIRE,China - CHN,Clean Gas,2024,-99.80289236565875,-99.0,False
+DIRE,China - CHN,Equipment for CCS power technology,2024,-99.34468368954235,-99.0,False
+DIRE,China - CHN,Equipment for PV panels,2028,-99.99999842025623,-99.0,False
+DIRE,China - CHN,Equipment for wind power technology,2028,-99.99999508802637,-99.0,False
+DIRE,Croatia - HRV,Batteries,2025,-99.97735186394019,-99.0,False
+DIRE,Croatia - HRV,Batteries,2026,153.4373764734039,100.0,False
+DIRE,Croatia - HRV,Batteries,2027,146.7925421622345,100.0,False
+DIRE,Croatia - HRV,Biofuels,2024,272.2653129283462,100.0,True
+DIRE,Croatia - HRV,CO2 Capture,2024,-99.76446683429978,-99.0,False
+DIRE,Croatia - HRV,CO2 Capture,2029,198958887969.0207,100.0,False
+DIRE,Croatia - HRV,CO2 Capture,2030,126.9012979856797,100.0,False
+DIRE,Croatia - HRV,Clean Gas,2024,-99.76395328216184,-99.0,False
+DIRE,Croatia - HRV,Clean Gas,2029,199077700144.4878,100.0,False
+DIRE,Croatia - HRV,Clean Gas,2030,126.9951025624079,100.0,False
+DIRE,Croatia - HRV,Equipment for wind power technology,2025,824.360489929238,100.0,False
+DIRE,Croatia - HRV,Hydrogen,2029,43511935408.37562,100.0,False
+DIRE,Croatia - HRV,Hydrogen,2030,126.3205742019068,100.0,False
+DIRE,Croatia - HRV,PV,2024,373.8483558241679,100.0,True
+DIRE,Cyprus - CYP,Batteries,2026,112.9673547396236,100.0,False
+DIRE,Cyprus - CYP,Batteries,2027,114.2025429342286,100.0,False
+DIRE,Cyprus - CYP,Biofuels,2024,346.9619355601571,100.0,True
+DIRE,Cyprus - CYP,CO2 Capture,2024,-99.6336834264385,-99.0,False
+DIRE,Cyprus - CYP,CO2 Capture,2029,16153860262.76167,100.0,False
+DIRE,Cyprus - CYP,CO2 Capture,2030,123.1764205037812,100.0,False
+DIRE,Cyprus - CYP,Clean Gas,2024,-99.62984498423519,-99.0,False
+DIRE,Cyprus - CYP,Clean Gas,2029,16220034973.98815,100.0,False
+DIRE,Cyprus - CYP,Clean Gas,2030,124.0991779224958,100.0,False
+DIRE,Cyprus - CYP,Coal fired,2024,7540.152272324685,100.0,True
+DIRE,Cyprus - CYP,"Computer, electronic and optical products",2024,104.5626544700437,100.0,True
+DIRE,Cyprus - CYP,EV Transport Equipment,2023,117.6646383158394,100.0,False
+DIRE,Cyprus - CYP,EV Transport Equipment,2025,1225.894708872343,100.0,False
+DIRE,Cyprus - CYP,Equipment for PV panels,2025,-99.13547991217561,-99.0,False
+DIRE,Cyprus - CYP,Equipment for wind power technology,2025,183.2713263152787,100.0,False
+DIRE,Cyprus - CYP,Gas,2024,330.3386755029599,100.0,True
+DIRE,Cyprus - CYP,Gas Fired,2024,20100.7120551244,100.0,True
+DIRE,Cyprus - CYP,Gas Fired,2025,103.0748068376594,100.0,True
+DIRE,Cyprus - CYP,Geothermal,2024,14059.03229760359,100.0,True
+DIRE,Cyprus - CYP,Hydrogen,2029,2452571498.061602,100.0,False
+DIRE,Cyprus - CYP,Hydrogen,2030,127.1751804473766,100.0,False
+DIRE,Czechia - CZE,Batteries,2025,-99.99948579633346,-99.0,False
+DIRE,Czechia - CZE,Batteries,2026,199.7855116072025,100.0,False
+DIRE,Czechia - CZE,Batteries,2027,180.6865254457659,100.0,False
+DIRE,Czechia - CZE,CO2 Capture,2024,-99.28443483389967,-99.0,False
+DIRE,Czechia - CZE,CO2 Capture,2029,318246685159.7545,100.0,False
+DIRE,Czechia - CZE,CO2 Capture,2030,125.8309839415837,100.0,False
+DIRE,Czechia - CZE,Clean Gas,2024,-99.28301955996803,-99.0,False
+DIRE,Czechia - CZE,Clean Gas,2029,318863308073.781,100.0,False
+DIRE,Czechia - CZE,Clean Gas,2030,126.551720331895,100.0,False
+DIRE,Czechia - CZE,EV Transport Equipment,2025,-99.99206697087651,-99.0,False
+DIRE,Czechia - CZE,EV Transport Equipment,2026,130.5939362548454,100.0,False
+DIRE,Czechia - CZE,EV Transport Equipment,2027,109.5842941399864,100.0,False
+DIRE,Czechia - CZE,Hydrogen,2029,100092950840.0029,100.0,False
+DIRE,Czechia - CZE,Hydrogen,2030,126.413451925053,100.0,False
+DIRE,Czechia - CZE,PV,2024,161.8744392692204,100.0,True
+DIRE,Czechia - CZE,Wind,2024,588.8912467313202,100.0,True
+DIRE,Denmark - DNK,Batteries,2025,-99.98852288654457,-99.0,False
+DIRE,Denmark - DNK,Batteries,2026,161.2775728033693,100.0,False
+DIRE,Denmark - DNK,Batteries,2027,152.4977265053804,100.0,False
+DIRE,Denmark - DNK,CO2 Capture,2024,-99.7878339006541,-99.0,False
+DIRE,Denmark - DNK,CO2 Capture,2029,430308803744.5974,100.0,False
+DIRE,Denmark - DNK,CO2 Capture,2030,123.3089272456519,100.0,False
+DIRE,Denmark - DNK,Clean Gas,2024,-99.7878171090724,-99.0,False
+DIRE,Denmark - DNK,Clean Gas,2029,430393566535.8304,100.0,False
+DIRE,Denmark - DNK,Clean Gas,2030,123.5064171858235,100.0,False
+DIRE,Denmark - DNK,Hydrogen,2029,5128.261646170127,100.0,False
+DIRE,Denmark - DNK,Hydrogen,2030,120.8135420857731,100.0,False
+DIRE,Denmark - DNK,PV,2024,107.2656861288329,100.0,True
+DIRE,EU27,CO2 Capture,2024,-99.62261503376492,-99.0,False
+DIRE,EU27,CO2 Capture,2029,676388091124.1559,100.0,False
+DIRE,EU27,CO2 Capture,2030,126.0924635245322,100.0,False
+DIRE,EU27,Clean Gas,2024,-99.62242409648636,-99.0,False
+DIRE,EU27,Clean Gas,2029,682448220790.0042,100.0,False
+DIRE,EU27,Clean Gas,2030,126.3317853278878,100.0,False
+DIRE,EU27,Hydrogen,2029,11240.69177386105,100.0,False
+DIRE,EU27,Hydrogen,2030,123.5799891971024,100.0,False
+DIRE,EU28,CO2 Capture,2024,-99.62852517589063,-99.0,False
+DIRE,EU28,CO2 Capture,2027,223075214276.4777,100.0,False
+DIRE,EU28,CO2 Capture,2028,133.9537416415454,100.0,False
+DIRE,EU28,CO2 Capture,2029,190.7933011358775,100.0,False
+DIRE,EU28,Clean Gas,2024,-99.6283670510379,-99.0,False
+DIRE,EU28,Clean Gas,2027,225379805457.4055,100.0,False
+DIRE,EU28,Clean Gas,2028,134.3051143769232,100.0,False
+DIRE,EU28,Clean Gas,2029,190.75708357069,100.0,False
+DIRE,EU28,Hydrogen,2027,3243.176788427747,100.0,False
+DIRE,EU28,Hydrogen,2028,126.5196529770235,100.0,False
+DIRE,EU28,Hydrogen,2029,195.4424814555252,100.0,False
+DIRE,Estonia - EST,Batteries,2026,121.867217814671,100.0,False
+DIRE,Estonia - EST,Batteries,2027,122.6119935446411,100.0,False
+DIRE,Estonia - EST,Biofuels,2024,1077.467978135451,100.0,True
+DIRE,Estonia - EST,CO2 Capture,2024,-99.68661759744614,-99.0,False
+DIRE,Estonia - EST,CO2 Capture,2029,43107798873.83779,100.0,False
+DIRE,Estonia - EST,CO2 Capture,2030,123.2023086816843,100.0,False
+DIRE,Estonia - EST,Clean Gas,2024,-99.6851656111058,-99.0,False
+DIRE,Estonia - EST,Clean Gas,2029,43202578211.437,100.0,False
+DIRE,Estonia - EST,Clean Gas,2030,123.806804573479,100.0,False
+DIRE,Estonia - EST,Equipment for PV panels,2025,101.1455556984517,100.0,False
+DIRE,Estonia - EST,Equipment for wind power technology,2025,173.7824252985725,100.0,False
+DIRE,Estonia - EST,Hydrogen,2024,-99.99827091963549,-99.0,False
+DIRE,Estonia - EST,Hydrogen,2029,4203297846.4104,100.0,False
+DIRE,Estonia - EST,Hydrogen,2030,126.1468168441128,100.0,False
+DIRE,Estonia - EST,PV,2024,104.0818790175948,100.0,True
+DIRE,Euro Area,CO2 Capture,2024,-99.63151173729099,-99.0,False
+DIRE,Euro Area,CO2 Capture,2029,747116146696.3899,100.0,False
+DIRE,Euro Area,CO2 Capture,2030,126.0787305892538,100.0,False
+DIRE,Euro Area,Clean Gas,2024,-99.63099154351104,-99.0,False
+DIRE,Euro Area,Clean Gas,2029,756418061937.0322,100.0,False
+DIRE,Euro Area,Clean Gas,2030,126.3737176413313,100.0,False
+DIRE,Euro Area,Hydrogen,2029,14030.55476706079,100.0,False
+DIRE,Euro Area,Hydrogen,2030,123.5322270966596,100.0,False
+DIRE,Finland - FIN,Batteries,2026,160.7967774682372,100.0,False
+DIRE,Finland - FIN,Batteries,2027,149.5447477419639,100.0,False
+DIRE,Finland - FIN,CO2 Capture,2024,-99.6885504386035,-99.0,False
+DIRE,Finland - FIN,CO2 Capture,2029,345419998804.6987,100.0,False
+DIRE,Finland - FIN,CO2 Capture,2030,120.1919628214443,100.0,False
+DIRE,Finland - FIN,Clean Gas,2024,-99.68802022313808,-99.0,False
+DIRE,Finland - FIN,Clean Gas,2029,345839123920.9073,100.0,False
+DIRE,Finland - FIN,Clean Gas,2030,120.5647787707585,100.0,False
+DIRE,Finland - FIN,EV Transport Equipment,2026,100.3427572213873,100.0,False
+DIRE,Finland - FIN,Equipment for PV panels,2024,362.0275943888097,100.0,False
+DIRE,Finland - FIN,Equipment for PV panels,2025,400.0869946310559,100.0,False
+DIRE,Finland - FIN,Equipment for wind power technology,2026,208.609527289304,100.0,False
+DIRE,Finland - FIN,Hydrogen,2029,17963.31551318314,100.0,False
+DIRE,Finland - FIN,Hydrogen,2030,120.8406302980019,100.0,False
+DIRE,Finland - FIN,PV,2024,1062.650878215796,100.0,True
+DIRE,France - FRA,CO2 Capture,2024,-99.71850563133339,-99.0,False
+DIRE,France - FRA,CO2 Capture,2029,3936015709676.044,100.0,False
+DIRE,France - FRA,CO2 Capture,2030,124.8511265101273,100.0,False
+DIRE,France - FRA,Clean Gas,2024,-99.71825411055949,-99.0,False
+DIRE,France - FRA,Clean Gas,2029,3939484897137.779,100.0,False
+DIRE,France - FRA,Clean Gas,2030,124.795429892879,100.0,False
+DIRE,France - FRA,Equipment for PV panels,2030,-99.99999039755782,-99.0,False
+DIRE,France - FRA,Equipment for wind power technology,2026,181.803042897939,100.0,False
+DIRE,France - FRA,Equipment for wind power technology,2030,-99.99996396537017,-99.0,False
+DIRE,France - FRA,Hydrogen,2029,20099.56488965457,100.0,False
+DIRE,France - FRA,Hydrogen,2030,122.3026471033265,100.0,False
+DIRE,Germany - DEU,CO2 Capture,2024,-99.47755759733856,-99.0,False
+DIRE,Germany - DEU,CO2 Capture,2029,3247226844057.114,100.0,False
+DIRE,Germany - DEU,CO2 Capture,2030,124.8879909584665,100.0,False
+DIRE,Germany - DEU,Clean Gas,2024,-99.47671448210697,-99.0,False
+DIRE,Germany - DEU,Clean Gas,2029,3251588729324.76,100.0,False
+DIRE,Germany - DEU,Clean Gas,2030,125.125445481915,100.0,False
+DIRE,Germany - DEU,Hydrogen,2029,36878.22721768405,100.0,False
+DIRE,Germany - DEU,Hydrogen,2030,122.8844936520507,100.0,False
+DIRE,Greece - GRC,Biofuels,2024,322.3744777667929,100.0,True
+DIRE,Greece - GRC,CO2 Capture,2024,-99.47338364806878,-99.0,False
+DIRE,Greece - GRC,CO2 Capture,2029,217757996887.8409,100.0,False
+DIRE,Greece - GRC,CO2 Capture,2030,123.9379372712708,100.0,False
+DIRE,Greece - GRC,Clean Gas,2024,-99.47123957068162,-99.0,False
+DIRE,Greece - GRC,Clean Gas,2029,218026797516.6423,100.0,False
+DIRE,Greece - GRC,Clean Gas,2030,124.3792769939852,100.0,False
+DIRE,Greece - GRC,"Computer, electronic and optical products",2024,642.212728237925,100.0,True
+DIRE,Greece - GRC,EV Transport Equipment,2025,516.7351797447869,100.0,False
+DIRE,Greece - GRC,Equipment for wind power technology,2025,274.8583302185049,100.0,False
+DIRE,Greece - GRC,Hydrogen,2029,1069109.103786443,100.0,False
+DIRE,Greece - GRC,Hydrogen,2030,123.9510758809325,100.0,False
+DIRE,Hungary - HUN,Batteries,2025,-99.99996758165553,-99.0,False
+DIRE,Hungary - HUN,Batteries,2026,193.6656231097143,100.0,False
+DIRE,Hungary - HUN,Batteries,2027,182.2614211267597,100.0,False
+DIRE,Hungary - HUN,CO2 Capture,2024,-99.63678293973004,-99.0,False
+DIRE,Hungary - HUN,CO2 Capture,2029,457386083914.1104,100.0,False
+DIRE,Hungary - HUN,CO2 Capture,2030,127.5774239968745,100.0,False
+DIRE,Hungary - HUN,Clean Gas,2024,-99.63566952603156,-99.0,False
+DIRE,Hungary - HUN,Clean Gas,2029,458306663207.3697,100.0,False
+DIRE,Hungary - HUN,Clean Gas,2030,128.1678342693856,100.0,False
+DIRE,Hungary - HUN,EV Transport Equipment,2025,-99.98262359534691,-99.0,False
+DIRE,Hungary - HUN,EV Transport Equipment,2026,122.9463143027077,100.0,False
+DIRE,Hungary - HUN,EV Transport Equipment,2027,108.8582449599146,100.0,False
+DIRE,Hungary - HUN,Equipment for wind power technology,2024,154.6002260899319,100.0,False
+DIRE,Hungary - HUN,Equipment for wind power technology,2025,999.557035444374,100.0,False
+DIRE,Hungary - HUN,Hydrogen,2029,1106868.655446813,100.0,False
+DIRE,Hungary - HUN,Hydrogen,2030,127.0299884399255,100.0,False
+DIRE,Hungary - HUN,Wind,2025,193.2352124169301,100.0,True
+DIRE,India - IND,Batteries,2025,-99.99948302809196,-99.0,False
+DIRE,India - IND,CO2 Capture,2024,-99.86453424717385,-99.0,False
+DIRE,India - IND,Clean Gas,2024,-99.86485721591012,-99.0,False
+DIRE,India - IND,EV Transport Equipment,2022,293.2641428496363,100.0,False
+DIRE,Indonesia - IDN,CO2 Capture,2024,-99.813285254718,-99.0,False
+DIRE,Indonesia - IDN,Clean Gas,2024,-99.81337018318828,-99.0,False
+DIRE,Indonesia - IDN,Equipment for PV panels,2024,184.5384594493239,100.0,False
+DIRE,Indonesia - IDN,Equipment for wind power technology,2024,1041.716391831572,100.0,False
+DIRE,Indonesia - IDN,Equipment for wind power technology,2027,-99.99896495296484,-99.0,False
+DIRE,Indonesia - IDN,PV,2024,2589.251040919075,100.0,True
+DIRE,Indonesia - IDN,Wind,2024,291.8299564619815,100.0,True
+DIRE,Ireland - IRL,Batteries,2026,189.7430250076598,100.0,False
+DIRE,Ireland - IRL,Batteries,2027,176.2647275523183,100.0,False
+DIRE,Ireland - IRL,Biofuels,2024,2332.291588113467,100.0,True
+DIRE,Ireland - IRL,CO2 Capture,2024,-99.58307360910437,-99.0,False
+DIRE,Ireland - IRL,CO2 Capture,2029,140141235329.0413,100.0,False
+DIRE,Ireland - IRL,CO2 Capture,2030,130.5302300682226,100.0,False
+DIRE,Ireland - IRL,Clean Gas,2024,-99.58290408432082,-99.0,False
+DIRE,Ireland - IRL,Clean Gas,2029,140175079158.4284,100.0,False
+DIRE,Ireland - IRL,Clean Gas,2030,130.7347008783982,100.0,False
+DIRE,Ireland - IRL,EV Transport Equipment,2023,115.6617724377393,100.0,False
+DIRE,Ireland - IRL,EV Transport Equipment,2026,116.603539613783,100.0,False
+DIRE,Ireland - IRL,EV Transport Equipment,2027,100.9203270897619,100.0,False
+DIRE,Ireland - IRL,Equipment for CCS power technology,2025,143.8319541334401,100.0,False
+DIRE,Ireland - IRL,Equipment for PV panels,2024,226.2175001531103,100.0,False
+DIRE,Ireland - IRL,Equipment for PV panels,2025,264.5220909697146,100.0,False
+DIRE,Ireland - IRL,Equipment for wind power technology,2026,129.6272169485236,100.0,False
+DIRE,Ireland - IRL,Hydrogen,2029,48743801636.66463,100.0,False
+DIRE,Ireland - IRL,Hydrogen,2030,130.8984453213284,100.0,False
+DIRE,Ireland - IRL,PV,2024,1116.534402126108,100.0,True
+DIRE,Italy - ITA,Batteries,2025,-99.34252104079579,-99.0,False
+DIRE,Italy - ITA,CO2 Capture,2024,-99.71696964597113,-99.0,False
+DIRE,Italy - ITA,CO2 Capture,2029,5052070931914.208,100.0,False
+DIRE,Italy - ITA,CO2 Capture,2030,128.1896575538629,100.0,False
+DIRE,Italy - ITA,Clean Gas,2024,-99.71619846824876,-99.0,False
+DIRE,Italy - ITA,Clean Gas,2029,5059465265222.553,100.0,False
+DIRE,Italy - ITA,Clean Gas,2030,128.6257096243807,100.0,False
+DIRE,Italy - ITA,Equipment for PV panels,2025,103.068475435027,100.0,False
+DIRE,Italy - ITA,Equipment for wind power technology,2026,107.4469480096108,100.0,False
+DIRE,Italy - ITA,Hydrogen,2029,628363.1373437477,100.0,False
+DIRE,Italy - ITA,Hydrogen,2030,125.7978065253885,100.0,False
+DIRE,Japan - JPN,Biofuels,2024,-99.80430315138355,-99.0,True
+DIRE,Japan - JPN,Biofuels,2025,502111.7217882113,100.0,True
+DIRE,Japan - JPN,Biofuels,2026,219.6879824831162,100.0,True
+DIRE,Japan - JPN,Biomass,2027,943.6319068078021,100.0,True
+DIRE,Japan - JPN,Biomass,2028,276.3859754728753,100.0,True
+DIRE,Japan - JPN,Biomass Solid,2027,208.3222964272537,100.0,True
+DIRE,Japan - JPN,Biomass Solid,2028,196.306491681326,100.0,True
+DIRE,Japan - JPN,CO2 Capture,2024,-99.77302608602253,-99.0,False
+DIRE,Japan - JPN,Clean Gas,2024,-99.77253182590279,-99.0,False
+DIRE,Japan - JPN,Equipment for PV panels,2028,227.4789563919771,100.0,False
+DIRE,Japan - JPN,Equipment for wind power technology,2025,257.5058239956336,100.0,False
+DIRE,Japan - JPN,Equipment for wind power technology,2028,207.4165985808972,100.0,False
+DIRE,Latin America (R5),CO2 Capture,2024,-99.8728011218784,-99.0,False
+DIRE,Latin America (R5),Clean Gas,2024,-99.87221291157734,-99.0,False
+DIRE,Latin America (R5),Equipment for wind power technology,2025,-99.44828708301364,-99.0,False
+DIRE,Latin America (R5),Equipment for wind power technology,2026,141.9550625639312,100.0,False
+DIRE,Latvia - LVA,Batteries,2026,111.8259121077688,100.0,False
+DIRE,Latvia - LVA,Batteries,2027,111.7554086261743,100.0,False
+DIRE,Latvia - LVA,CO2 Capture,2024,-99.74292164105889,-99.0,False
+DIRE,Latvia - LVA,CO2 Capture,2029,103964459455.5449,100.0,False
+DIRE,Latvia - LVA,CO2 Capture,2030,124.0375290798034,100.0,False
+DIRE,Latvia - LVA,Clean Gas,2024,-99.7421604603644,-99.0,False
+DIRE,Latvia - LVA,Clean Gas,2029,104092712739.3515,100.0,False
+DIRE,Latvia - LVA,Clean Gas,2030,124.4544449688858,100.0,False
+DIRE,Latvia - LVA,Coal fired,2030,5064.629636412426,100.0,True
+DIRE,Latvia - LVA,Equipment for PV panels,2024,3504.726255900964,100.0,False
+DIRE,Latvia - LVA,Equipment for PV panels,2025,246.3654493518592,100.0,False
+DIRE,Latvia - LVA,Equipment for wind power technology,2024,187.8407635639345,100.0,False
+DIRE,Latvia - LVA,Equipment for wind power technology,2025,971.7649394373022,100.0,False
+DIRE,Latvia - LVA,Hydrogen,2029,11296128705.44798,100.0,False
+DIRE,Latvia - LVA,Hydrogen,2030,124.7776899088671,100.0,False
+DIRE,Latvia - LVA,PV,2024,2058.984195454028,100.0,True
+DIRE,Latvia - LVA,Wind,2025,231.762486635784,100.0,True
+DIRE,Lithuania - LTU,Batteries,2025,-99.69704050543011,-99.0,False
+DIRE,Lithuania - LTU,Batteries,2026,157.5750808920749,100.0,False
+DIRE,Lithuania - LTU,Batteries,2027,150.9331794423488,100.0,False
+DIRE,Lithuania - LTU,CO2 Capture,2024,-99.77186142318499,-99.0,False
+DIRE,Lithuania - LTU,CO2 Capture,2029,125490138904.7444,100.0,False
+DIRE,Lithuania - LTU,CO2 Capture,2030,123.2435374002399,100.0,False
+DIRE,Lithuania - LTU,Clean Gas,2024,-99.77137286575847,-99.0,False
+DIRE,Lithuania - LTU,Clean Gas,2029,125508667878.6721,100.0,False
+DIRE,Lithuania - LTU,Clean Gas,2030,123.3168213336642,100.0,False
+DIRE,Lithuania - LTU,Coal fired,2025,-99.59472914591376,-99.0,True
+DIRE,Lithuania - LTU,Coal fired,2027,20617.75330016749,100.0,True
+DIRE,Lithuania - LTU,EV Transport Equipment,2026,102.3192252131648,100.0,False
+DIRE,Lithuania - LTU,Equipment for wind power technology,2027,139.0715081912881,100.0,False
+DIRE,Lithuania - LTU,Hydrogen,2029,24035354698.46683,100.0,False
+DIRE,Lithuania - LTU,Hydrogen,2030,124.2078723935219,100.0,False
+DIRE,Lithuania - LTU,PV,2024,132.5973466917414,100.0,True
+DIRE,Luxembourg - LUX,Batteries,2025,-99.98385159639469,-99.0,False
+DIRE,Luxembourg - LUX,Batteries,2026,330.3456344174743,100.0,False
+DIRE,Luxembourg - LUX,Batteries,2027,255.2453611368042,100.0,False
+DIRE,Luxembourg - LUX,Batteries,2028,100.5407223838311,100.0,False
+DIRE,Luxembourg - LUX,Biofuels,2024,1081.154492971361,100.0,True
+DIRE,Luxembourg - LUX,CO2 Capture,2024,-99.52378419372988,-99.0,False
+DIRE,Luxembourg - LUX,CO2 Capture,2029,28974634638.42406,100.0,False
+DIRE,Luxembourg - LUX,CO2 Capture,2030,131.2716247424731,100.0,False
+DIRE,Luxembourg - LUX,Clean Gas,2024,-99.52257055638985,-99.0,False
+DIRE,Luxembourg - LUX,Clean Gas,2029,29076368531.89555,100.0,False
+DIRE,Luxembourg - LUX,Clean Gas,2030,131.9331224928855,100.0,False
+DIRE,Luxembourg - LUX,Coal fired,2026,934.8819567833405,100.0,True
+DIRE,Luxembourg - LUX,EV Transport Equipment,2025,-99.9593879597776,-99.0,False
+DIRE,Luxembourg - LUX,EV Transport Equipment,2026,239.225185455693,100.0,False
+DIRE,Luxembourg - LUX,EV Transport Equipment,2027,170.5548402509198,100.0,False
+DIRE,Luxembourg - LUX,Equipment for wind power technology,2025,282.7553749326649,100.0,False
+DIRE,Luxembourg - LUX,Hydrogen,2029,13140239832.68373,100.0,False
+DIRE,Luxembourg - LUX,Hydrogen,2030,129.3928086173295,100.0,False
+DIRE,Malta - MLT,Batteries,2025,-99.92400634871844,-99.0,False
+DIRE,Malta - MLT,Batteries,2026,172.2563308261979,100.0,False
+DIRE,Malta - MLT,Batteries,2027,159.7638818228443,100.0,False
+DIRE,Malta - MLT,Biofuels,2024,5500.572016099383,100.0,True
+DIRE,Malta - MLT,Biomass,2026,840.0529395957184,100.0,True
+DIRE,Malta - MLT,CO2 Capture,2024,-99.44191900403622,-99.0,False
+DIRE,Malta - MLT,CO2 Capture,2029,7070175077.939396,100.0,False
+DIRE,Malta - MLT,CO2 Capture,2030,127.6627632643752,100.0,False
+DIRE,Malta - MLT,Clean Gas,2024,-99.4398984020955,-99.0,False
+DIRE,Malta - MLT,Clean Gas,2029,7073192502.561666,100.0,False
+DIRE,Malta - MLT,Clean Gas,2030,127.5662983234289,100.0,False
+DIRE,Malta - MLT,EV Transport Equipment,2025,728.5226505560429,100.0,False
+DIRE,Malta - MLT,EV Transport Equipment,2026,111.4637652239924,100.0,False
+DIRE,Malta - MLT,Equipment for wind power technology,2024,143354.3390712058,100.0,False
+DIRE,Malta - MLT,Equipment for wind power technology,2025,323.3690177467505,100.0,False
+DIRE,Malta - MLT,Geothermal,2027,12421.33943659459,100.0,True
+DIRE,Malta - MLT,Geothermal,2028,114.4726591869163,100.0,True
+DIRE,Malta - MLT,Hydrogen,2029,4631003938.781865,100.0,False
+DIRE,Malta - MLT,Hydrogen,2030,129.7095849478702,100.0,False
+DIRE,Malta - MLT,Wind,2024,6639.028393060905,100.0,True
+DIRE,Mexico - MEX,Biofuels,2024,7429.614617006604,100.0,True
+DIRE,Mexico - MEX,Biofuels,2025,9435.83886081271,100.0,True
+DIRE,Mexico - MEX,Biofuels,2026,218.1140996661199,100.0,True
+DIRE,Mexico - MEX,Biomass,2030,872.2623013450786,100.0,True
+DIRE,Mexico - MEX,CO2 Capture,2024,-99.85223846016187,-99.0,False
+DIRE,Mexico - MEX,Clean Gas,2024,-99.85168878470192,-99.0,False
+DIRE,Mexico - MEX,Coal fired,2030,211.7918452825415,100.0,True
+DIRE,Mexico - MEX,Equipment for wind power technology,2026,141.9805146099181,100.0,False
+DIRE,Mexico - MEX,PV,2025,125.426147700539,100.0,True
+DIRE,Middle East & Africa (R5),Biomass,2025,602.0072758617721,100.0,True
+DIRE,Middle East & Africa (R5),Biomass,2030,826.0432566896175,100.0,True
+DIRE,Middle East & Africa (R5),CO2 Capture,2024,-99.84862429524443,-99.0,False
+DIRE,Middle East & Africa (R5),Clean Gas,2024,-99.84731674781109,-99.0,False
+DIRE,Middle East & Africa (R5),Equipment for PV panels,2024,2668.73005738795,100.0,False
+DIRE,Middle East & Africa (R5),Equipment for wind power technology,2024,576.521366016166,100.0,False
+DIRE,Middle East & Africa (R5),PV,2024,188.6726977794471,100.0,True
+DIRE,Middle East & Africa (R5),Wind,2024,166.4717127074017,100.0,True
+DIRE,Netherlands - NLD,Batteries,2025,-99.90258024119926,-99.0,False
+DIRE,Netherlands - NLD,Batteries,2026,215.3148448802087,100.0,False
+DIRE,Netherlands - NLD,Batteries,2027,193.8804349040784,100.0,False
+DIRE,Netherlands - NLD,CO2 Capture,2024,-99.62386057872604,-99.0,False
+DIRE,Netherlands - NLD,CO2 Capture,2029,1343356696286.941,100.0,False
+DIRE,Netherlands - NLD,CO2 Capture,2030,130.7495976415626,100.0,False
+DIRE,Netherlands - NLD,Clean Gas,2024,-99.62293551936509,-99.0,False
+DIRE,Netherlands - NLD,Clean Gas,2029,1346289572932.234,100.0,False
+DIRE,Netherlands - NLD,Clean Gas,2030,131.4867913072047,100.0,False
+DIRE,Netherlands - NLD,Equipment for wind power technology,2025,-99.35176292579195,-99.0,False
+DIRE,Netherlands - NLD,Hydrogen,2029,1701.134269264699,100.0,False
+DIRE,Netherlands - NLD,Hydrogen,2030,122.4081943485551,100.0,False
+DIRE,North America,Biomass,2027,754.6956199562982,100.0,True
+DIRE,North America,CO2 Capture,2024,-99.77740067980031,-99.0,False
+DIRE,North America,Clean Gas,2024,-99.77725464907476,-99.0,False
+DIRE,North America,Equipment for PV panels,2024,101.7241126631533,100.0,False
+DIRE,North America,Equipment for PV panels,2025,222.5878364157975,100.0,False
+DIRE,North America,Equipment for wind power technology,2025,412.5625473154827,100.0,False
+DIRE,OECD & EU (R5),CO2 Capture,2024,-99.66950234489495,-99.0,False
+DIRE,OECD & EU (R5),CO2 Capture,2027,164338981092.5524,100.0,False
+DIRE,OECD & EU (R5),CO2 Capture,2028,133.9537416195276,100.0,False
+DIRE,OECD & EU (R5),CO2 Capture,2029,190.7933011214512,100.0,False
+DIRE,OECD & EU (R5),Clean Gas,2024,-99.66965984556583,-99.0,False
+DIRE,OECD & EU (R5),Clean Gas,2027,165984363598.8191,100.0,False
+DIRE,OECD & EU (R5),Clean Gas,2028,134.3051143550794,100.0,False
+DIRE,OECD & EU (R5),Clean Gas,2029,190.757083556508,100.0,False
+DIRE,OECD & EU (R5),Equipment for PV panels,2025,110.1817235934883,100.0,False
+DIRE,OECD & EU (R5),Hydrogen,2027,1665.195768107238,100.0,False
+DIRE,OECD & EU (R5),Hydrogen,2028,123.0977673409332,100.0,False
+DIRE,OECD & EU (R5),Hydrogen,2029,193.1353875163918,100.0,False
+DIRE,Oceania,Batteries,2025,2194.189249767649,100.0,False
+DIRE,Oceania,Batteries,2026,115.9916184301567,100.0,False
+DIRE,Oceania,Batteries,2027,138.3285573415256,100.0,False
+DIRE,Oceania,Batteries,2028,111.078811310619,100.0,False
+DIRE,Oceania,Biofuels,2025,180.9998755988903,100.0,True
+DIRE,Oceania,Biofuels,2026,179.5790244050073,100.0,True
+DIRE,Oceania,Biomass,2027,817.6056523086916,100.0,True
+DIRE,Oceania,CO2 Capture,2024,-99.58244791658332,-99.0,False
+DIRE,Oceania,CO2 Capture,2030,472992179646.4079,100.0,False
+DIRE,Oceania,Clean Gas,2024,-99.5824356075888,-99.0,False
+DIRE,Oceania,Clean Gas,2030,473455009130.8364,100.0,False
+DIRE,Oceania,EV Transport Equipment,2025,935.2063048425322,100.0,False
+DIRE,Oceania,EV Transport Equipment,2027,114.7171178047225,100.0,False
+DIRE,Oceania,EV Transport Equipment,2028,102.4614679597074,100.0,False
+DIRE,Oceania,Equipment for PV panels,2026,111.0473047465968,100.0,False
+DIRE,Oceania,Equipment for wind power technology,2025,902.7140336505903,100.0,False
+DIRE,Oceania,Hydrogen,2030,33852.98130689935,100.0,False
+DIRE,Other (R5),Batteries,2025,6415274.043328582,100.0,False
+DIRE,Other (R5),Biomass,2029,122.9982104412116,100.0,True
+DIRE,Other (R5),Biomass,2030,329.3472296096153,100.0,True
+DIRE,Other (R5),CO2 Capture,2024,-99.80473058336268,-99.0,False
+DIRE,Other (R5),Clean Gas,2024,-99.80430426767471,-99.0,False
+DIRE,Other (R5),EV Transport Equipment,2025,27837.1641460947,100.0,False
+DIRE,Other (R5),Equipment for CCS power technology,2025,188.837585703742,100.0,False
+DIRE,Other (R5),Equipment for wind power technology,2025,15142.10153105062,100.0,False
+DIRE,Poland - POL,Batteries,2025,-99.99835447074011,-99.0,False
+DIRE,Poland - POL,Batteries,2026,188.6129738104125,100.0,False
+DIRE,Poland - POL,Batteries,2027,183.8894143375561,100.0,False
+DIRE,Poland - POL,CO2 Capture,2024,-99.57518898812461,-99.0,False
+DIRE,Poland - POL,CO2 Capture,2029,1081531498071.545,100.0,False
+DIRE,Poland - POL,CO2 Capture,2030,127.6537114303061,100.0,False
+DIRE,Poland - POL,Clean Gas,2024,-99.57532351707461,-99.0,False
+DIRE,Poland - POL,Clean Gas,2029,1077595418859.555,100.0,False
+DIRE,Poland - POL,Clean Gas,2030,127.3734104223894,100.0,False
+DIRE,Poland - POL,EV Transport Equipment,2025,-99.26735030590669,-99.0,False
+DIRE,Poland - POL,EV Transport Equipment,2026,132.4845487750507,100.0,False
+DIRE,Poland - POL,EV Transport Equipment,2027,121.3891161041336,100.0,False
+DIRE,Poland - POL,Equipment for wind power technology,2026,115.1063269828006,100.0,False
+DIRE,Poland - POL,Hydrogen,2029,1648640.015824778,100.0,False
+DIRE,Poland - POL,Hydrogen,2030,126.71643209678,100.0,False
+DIRE,Poland - POL,PV,2024,194.6389042727213,100.0,True
+DIRE,Poland - POL,R&D,2024,119.3469631558952,100.0,True
+DIRE,Portugal - PRT,Batteries,2025,-99.93752043501377,-99.0,False
+DIRE,Portugal - PRT,Batteries,2026,210.7266931396131,100.0,False
+DIRE,Portugal - PRT,Batteries,2027,191.301078782593,100.0,False
+DIRE,Portugal - PRT,Biomass,2026,105.6166014316411,100.0,True
+DIRE,Portugal - PRT,CO2 Capture,2024,-99.67777734988873,-99.0,False
+DIRE,Portugal - PRT,CO2 Capture,2029,252304368239.2917,100.0,False
+DIRE,Portugal - PRT,CO2 Capture,2030,120.8735650133101,100.0,False
+DIRE,Portugal - PRT,Clean Gas,2024,-99.67679682544173,-99.0,False
+DIRE,Portugal - PRT,Clean Gas,2029,252643007261.0625,100.0,False
+DIRE,Portugal - PRT,Clean Gas,2030,121.2883274515806,100.0,False
+DIRE,Portugal - PRT,EV Transport Equipment,2025,516.0435414769518,100.0,False
+DIRE,Portugal - PRT,Equipment for PV panels,2025,-99.02319773812245,-99.0,False
+DIRE,Portugal - PRT,Hydrogen,2029,8424.225705110302,100.0,False
+DIRE,Portugal - PRT,Hydrogen,2030,119.818976212197,100.0,False
+DIRE,Reforming Economies (R5),Biofuels,2024,-99.85599253864427,-99.0,True
+DIRE,Reforming Economies (R5),CO2 Capture,2024,-99.6797046824115,-99.0,False
+DIRE,Reforming Economies (R5),Clean Gas,2024,-99.67974101977325,-99.0,False
+DIRE,Reforming Economies (R5),EV Transport Equipment,2023,138.3013512373959,100.0,False
+DIRE,Reforming Economies (R5),Equipment for PV panels,2025,-99.99987159171383,-99.0,False
+DIRE,Reforming Economies (R5),Equipment for wind power technology,2024,-99.92695257972683,-99.0,False
+DIRE,Reforming Economies (R5),Equipment for wind power technology,2025,-99.72563464630714,-99.0,False
+DIRE,Rest of Energy Producing Countries,Biomass,2026,909.2731001483381,100.0,True
+DIRE,Rest of Energy Producing Countries,Biomass,2030,888.3854099426745,100.0,True
+DIRE,Rest of Energy Producing Countries,CO2 Capture,2024,-99.85295676301324,-99.0,False
+DIRE,Rest of Energy Producing Countries,Clean Gas,2024,-99.85165963064482,-99.0,False
+DIRE,Rest of Energy Producing Countries,Coal fired,2025,652.0211820764684,100.0,True
+DIRE,Rest of Energy Producing Countries,Coal fired,2030,839.6874786239891,100.0,True
+DIRE,Rest of Energy Producing Countries,Equipment for PV panels,2024,1473.360788518009,100.0,False
+DIRE,Rest of Energy Producing Countries,Equipment for PV panels,2026,-99.99991761898141,-99.0,False
+DIRE,Rest of Energy Producing Countries,Equipment for wind power technology,2025,-99.95029127670027,-99.0,False
+DIRE,Rest of Energy Producing Countries,Equipment for wind power technology,2026,-99.9997461812977,-99.0,False
+DIRE,Rest of Energy Producing Countries,PV,2024,123.3273465818927,100.0,True
+DIRE,Rest of Energy Producing Countries,Wind,2024,354.5403223643529,100.0,True
+DIRE,Rest of Europe,Batteries,2025,3174.624858494413,100.0,False
+DIRE,Rest of Europe,Biomass,2029,259.7973496227251,100.0,True
+DIRE,Rest of Europe,Biomass,2030,177.7865106567429,100.0,True
+DIRE,Rest of Europe,CO2 Capture,2024,-99.8046266380689,-99.0,False
+DIRE,Rest of Europe,Clean Gas,2024,-99.80474281738333,-99.0,False
+DIRE,Rest of Europe,EV Transport Equipment,2025,517.447922039858,100.0,False
+DIRE,Rest of Europe,Equipment for PV panels,2025,6454.023452812744,100.0,False
+DIRE,Rest of Europe,Equipment for wind power technology,2025,13276.68970953955,100.0,False
+DIRE,Rest of Europe,PV,2025,246.9711803187805,100.0,True
+DIRE,Rest of World,Batteries,2025,6415274.043328582,100.0,False
+DIRE,Rest of World,Biomass,2029,122.9982104412116,100.0,True
+DIRE,Rest of World,Biomass,2030,329.3472296096153,100.0,True
+DIRE,Rest of World,CO2 Capture,2024,-99.80473058336268,-99.0,False
+DIRE,Rest of World,Clean Gas,2024,-99.80430426767471,-99.0,False
+DIRE,Rest of World,EV Transport Equipment,2025,27837.1641460947,100.0,False
+DIRE,Rest of World,Equipment for CCS power technology,2025,188.837585703742,100.0,False
+DIRE,Rest of World,Equipment for wind power technology,2025,15142.10153105062,100.0,False
+DIRE,Romania - ROU,Batteries,2025,-99.79131345268868,-99.0,False
+DIRE,Romania - ROU,Batteries,2026,189.8989897494563,100.0,False
+DIRE,Romania - ROU,Batteries,2027,187.107126237653,100.0,False
+DIRE,Romania - ROU,CO2 Capture,2024,-99.58389155479817,-99.0,False
+DIRE,Romania - ROU,CO2 Capture,2029,346481713880.0521,100.0,False
+DIRE,Romania - ROU,CO2 Capture,2030,126.2676447053224,100.0,False
+DIRE,Romania - ROU,Clean Gas,2024,-99.58333104433613,-99.0,False
+DIRE,Romania - ROU,Clean Gas,2029,346426171930.5156,100.0,False
+DIRE,Romania - ROU,Clean Gas,2030,126.3393376542534,100.0,False
+DIRE,Romania - ROU,EV Transport Equipment,2025,364.8580361144684,100.0,False
+DIRE,Romania - ROU,Equipment for PV panels,2026,103.2883408032636,100.0,False
+DIRE,Romania - ROU,Equipment for wind power technology,2026,116.3086282453398,100.0,False
+DIRE,Romania - ROU,Hydrogen,2029,182846722416.7268,100.0,False
+DIRE,Romania - ROU,Hydrogen,2030,127.1037950539545,100.0,False
+DIRE,Romania - ROU,PV,2024,139.8217380538395,100.0,True
+DIRE,Russia - RUS,Biofuels,2024,-99.85599253864427,-99.0,True
+DIRE,Russia - RUS,CO2 Capture,2024,-99.6797046824115,-99.0,False
+DIRE,Russia - RUS,Clean Gas,2024,-99.67974101977325,-99.0,False
+DIRE,Russia - RUS,EV Transport Equipment,2023,138.3013512373959,100.0,False
+DIRE,Russia - RUS,Equipment for PV panels,2025,-99.99987159171383,-99.0,False
+DIRE,Russia - RUS,Equipment for wind power technology,2024,-99.92695257972683,-99.0,False
+DIRE,Russia - RUS,Equipment for wind power technology,2025,-99.72563464630714,-99.0,False
+DIRE,Saudi Arabia - SAU,Biofuels,2024,-99.78355675592111,-99.0,True
+DIRE,Saudi Arabia - SAU,CO2 Capture,2024,-99.7913003555952,-99.0,False
+DIRE,Saudi Arabia - SAU,Clean Gas,2024,-99.78738381865392,-99.0,False
+DIRE,Saudi Arabia - SAU,EV Transport Equipment,2023,516.7643254120075,100.0,False
+DIRE,Saudi Arabia - SAU,EV Transport Equipment,2025,102.7875278533238,100.0,False
+DIRE,Saudi Arabia - SAU,Equipment for PV panels,2024,20247.93273793181,100.0,False
+DIRE,Saudi Arabia - SAU,Equipment for wind power technology,2024,4483259.570902254,100.0,False
+DIRE,Saudi Arabia - SAU,PV,2024,3334.275323629244,100.0,True
+DIRE,Saudi Arabia - SAU,Wind,2024,2166.766672290478,100.0,True
+DIRE,Slovakia - SVK,Batteries,2026,174.4003369836995,100.0,False
+DIRE,Slovakia - SVK,Batteries,2027,168.6088147549579,100.0,False
+DIRE,Slovakia - SVK,CO2 Capture,2024,-99.42792121659909,-99.0,False
+DIRE,Slovakia - SVK,CO2 Capture,2029,191258363801.3527,100.0,False
+DIRE,Slovakia - SVK,CO2 Capture,2030,128.0793262544744,100.0,False
+DIRE,Slovakia - SVK,Clean Gas,2024,-99.4269885265777,-99.0,False
+DIRE,Slovakia - SVK,Clean Gas,2029,191404094985.8404,100.0,False
+DIRE,Slovakia - SVK,Clean Gas,2030,128.4512958116426,100.0,False
+DIRE,Slovakia - SVK,Equipment for CCS power technology,2025,127.755837223864,100.0,False
+DIRE,Slovakia - SVK,Equipment for PV panels,2025,2677.273445476316,100.0,False
+DIRE,Slovakia - SVK,Equipment for wind power technology,2025,36182.18411572613,100.0,False
+DIRE,Slovakia - SVK,Equipment for wind power technology,2027,210.6373642109051,100.0,False
+DIRE,Slovakia - SVK,Hydrogen,2029,80513423708.97057,100.0,False
+DIRE,Slovakia - SVK,Hydrogen,2030,127.78806845134,100.0,False
+DIRE,Slovakia - SVK,PV,2025,305.3059751825737,100.0,True
+DIRE,Slovakia - SVK,Wind,2025,9733.945479551354,100.0,True
+DIRE,Slovakia - SVK,Wind,2027,125.3920280265092,100.0,True
+DIRE,Slovenia - SVN,Batteries,2026,161.4619131408649,100.0,False
+DIRE,Slovenia - SVN,Batteries,2027,151.5008346443492,100.0,False
+DIRE,Slovenia - SVN,Biofuels,2024,146.9324672954468,100.0,True
+DIRE,Slovenia - SVN,CO2 Capture,2024,-99.69483094598111,-99.0,False
+DIRE,Slovenia - SVN,CO2 Capture,2029,108132487205.6262,100.0,False
+DIRE,Slovenia - SVN,CO2 Capture,2030,124.2590515281978,100.0,False
+DIRE,Slovenia - SVN,Clean Gas,2024,-99.69413083316574,-99.0,False
+DIRE,Slovenia - SVN,Clean Gas,2029,108333193200.3227,100.0,False
+DIRE,Slovenia - SVN,Clean Gas,2030,124.370032482948,100.0,False
+DIRE,Slovenia - SVN,Equipment for PV panels,2025,-99.69939330340895,-99.0,False
+DIRE,Slovenia - SVN,Equipment for wind power technology,2024,4356.41061263215,100.0,False
+DIRE,Slovenia - SVN,Equipment for wind power technology,2025,527.8680149304452,100.0,False
+DIRE,Slovenia - SVN,Hydrogen,2024,-99.9990757538834,-99.0,False
+DIRE,Slovenia - SVN,Hydrogen,2029,33106460229.67918,100.0,False
+DIRE,Slovenia - SVN,Hydrogen,2030,124.08501344293,100.0,False
+DIRE,Slovenia - SVN,PV,2025,116.1256112806722,100.0,True
+DIRE,Slovenia - SVN,Wind,2024,1776.366481273481,100.0,True
+DIRE,Slovenia - SVN,Wind,2025,271.8299766835369,100.0,True
+DIRE,South Africa - ZAF,Biofuels,2024,32428.84529250455,100.0,True
+DIRE,South Africa - ZAF,Biofuels,2025,101.0156410846833,100.0,True
+DIRE,South Africa - ZAF,Biomass,2025,796.2950344195627,100.0,True
+DIRE,South Africa - ZAF,Biomass,2030,809.3527502957968,100.0,True
+DIRE,South Africa - ZAF,CO2 Capture,2024,-99.84114166317343,-99.0,False
+DIRE,South Africa - ZAF,Clean Gas,2024,-99.8418333655816,-99.0,False
+DIRE,South Africa - ZAF,Equipment for PV panels,2025,-99.79039758114237,-99.0,False
+DIRE,South Africa - ZAF,Equipment for PV panels,2028,-99.99990131989229,-99.0,False
+DIRE,South Africa - ZAF,Gas Fired,2024,1716108.204822357,100.0,True
+DIRE,South Africa - ZAF,Hydro electric,2026,172.5233229176031,100.0,True
+DIRE,South Africa - ZAF,Wind,2024,110.7718400046421,100.0,True
+DIRE,South America,CO2 Capture,2024,-99.882467782972,-99.0,False
+DIRE,South America,Clean Gas,2024,-99.88194316310026,-99.0,False
+DIRE,South America,Equipment for PV panels,2025,-99.99978118751893,-99.0,False
+DIRE,South America,Equipment for wind power technology,2025,-99.99987647079845,-99.0,False
+DIRE,South Korea - KOR,Biofuels,2026,157.2619046858504,100.0,True
+DIRE,South Korea - KOR,Biomass,2027,895.6071154401952,100.0,True
+DIRE,South Korea - KOR,Biomass Solid,2027,286.5097634958331,100.0,True
+DIRE,South Korea - KOR,CO2 Capture,2024,-99.69228385451608,-99.0,False
+DIRE,South Korea - KOR,Clean Gas,2024,-99.69174501715284,-99.0,False
+DIRE,South Korea - KOR,Wind,2024,192.2408684472269,100.0,True
+DIRE,South Korea - KOR,Wind,2025,330.6387417143064,100.0,True
+DIRE,Spain - ESP,Batteries,2025,-99.62343476331141,-99.0,False
+DIRE,Spain - ESP,Batteries,2026,132.7704526958603,100.0,False
+DIRE,Spain - ESP,Batteries,2027,132.0548368856875,100.0,False
+DIRE,Spain - ESP,Biomass,2026,667.5164088340688,100.0,True
+DIRE,Spain - ESP,CO2 Capture,2024,-99.71477328030069,-99.0,False
+DIRE,Spain - ESP,CO2 Capture,2029,1624038466307.142,100.0,False
+DIRE,Spain - ESP,CO2 Capture,2030,122.8889473124942,100.0,False
+DIRE,Spain - ESP,Clean Gas,2024,-99.71388557473617,-99.0,False
+DIRE,Spain - ESP,Clean Gas,2029,1626496943755.636,100.0,False
+DIRE,Spain - ESP,Clean Gas,2030,123.2704426483042,100.0,False
+DIRE,Spain - ESP,Equipment for wind power technology,2026,210.2686667569372,100.0,False
+DIRE,Spain - ESP,Hydrogen,2029,39593.20504374156,100.0,False
+DIRE,Spain - ESP,Hydrogen,2030,121.5315607455834,100.0,False
+DIRE,Sweden - SWE,Batteries,2025,-99.99583979768968,-99.0,False
+DIRE,Sweden - SWE,Batteries,2026,166.0827534930314,100.0,False
+DIRE,Sweden - SWE,Batteries,2027,154.589380725007,100.0,False
+DIRE,Sweden - SWE,CO2 Capture,2024,-99.6613050035921,-99.0,False
+DIRE,Sweden - SWE,CO2 Capture,2029,565859314743.6503,100.0,False
+DIRE,Sweden - SWE,CO2 Capture,2030,122.1145117051868,100.0,False
+DIRE,Sweden - SWE,Clean Gas,2024,-99.66121393142483,-99.0,False
+DIRE,Sweden - SWE,Clean Gas,2029,565655563309.9309,100.0,False
+DIRE,Sweden - SWE,Clean Gas,2030,122.0854121042545,100.0,False
+DIRE,Sweden - SWE,Coal fired,2025,-99.56401651526043,-99.0,True
+DIRE,Sweden - SWE,Coal fired,2027,18989.17045893733,100.0,True
+DIRE,Sweden - SWE,EV Transport Equipment,2025,-99.31788661340141,-99.0,False
+DIRE,Sweden - SWE,Equipment for PV panels,2025,119.9648899262577,100.0,False
+DIRE,Sweden - SWE,Equipment for wind power technology,2026,137.5119813374099,100.0,False
+DIRE,Sweden - SWE,Gas Fired,2026,-99.98079358447515,-99.0,True
+DIRE,Sweden - SWE,Gas Fired,2027,127173.4523913452,100.0,True
+DIRE,Sweden - SWE,Gas Fired,2028,118.3126789690319,100.0,True
+DIRE,Sweden - SWE,Gas Fired,2029,116.2950437243813,100.0,True
+DIRE,Sweden - SWE,Hydrogen,2029,995.0573158954974,100.0,False
+DIRE,Sweden - SWE,Hydrogen,2030,111.2427956681882,100.0,False
+DIRE,Sweden - SWE,PV,2024,199.0710255209256,100.0,True
+DIRE,Sweden - SWE,PV,2025,204.5749308764267,100.0,True
+DIRE,Turkey - TUR,Batteries,2025,881.2542118034015,100.0,False
+DIRE,Turkey - TUR,Biofuels,2024,-99.91020981085865,-99.0,True
+DIRE,Turkey - TUR,Biofuels,2025,342694.695636751,100.0,True
+DIRE,Turkey - TUR,Biofuels,2026,209.1398871247936,100.0,True
+DIRE,Turkey - TUR,Biomass,2030,863.6080976045502,100.0,True
+DIRE,Turkey - TUR,CO2 Capture,2024,-99.88567661889192,-99.0,False
+DIRE,Turkey - TUR,Clean Gas,2024,-99.88549490270726,-99.0,False
+DIRE,Turkey - TUR,EV Transport Equipment,2025,288.849775078955,100.0,False
+DIRE,Turkey - TUR,Equipment for PV panels,2025,782.0436954237085,100.0,False
+DIRE,Turkey - TUR,Equipment for PV panels,2030,-99.99998319041781,-99.0,False
+DIRE,Turkey - TUR,Equipment for wind power technology,2025,-99.93044838953857,-99.0,False
+DIRE,Turkey - TUR,Equipment for wind power technology,2026,112.0437628983812,100.0,False
+DIRE,Turkey - TUR,Equipment for wind power technology,2030,-99.99993627809224,-99.0,False
+DIRE,Turkey - TUR,PV,2025,139.6625792329486,100.0,True
+DIRE,USA - USA,Biomass,2027,869.893897522122,100.0,True
+DIRE,USA - USA,CO2 Capture,2024,-99.70604633028192,-99.0,False
+DIRE,USA - USA,Clean Gas,2024,-99.70594688177279,-99.0,False
+DIRE,USA - USA,Equipment for PV panels,2025,369.5418498405437,100.0,False
+DIRE,USA - USA,Equipment for wind power technology,2025,435.6481305377341,100.0,False
+DIRE,United Kingdom - GBR,Batteries,2025,923.5760940122034,100.0,False
+DIRE,United Kingdom - GBR,CO2 Capture,2024,-99.79780839318647,-99.0,False
+DIRE,United Kingdom - GBR,CO2 Capture,2027,12095731391504.81,100.0,False
+DIRE,United Kingdom - GBR,CO2 Capture,2028,133.9537417008734,100.0,False
+DIRE,United Kingdom - GBR,Clean Gas,2024,-99.79737364759535,-99.0,False
+DIRE,United Kingdom - GBR,Clean Gas,2027,12105553335977.66,100.0,False
+DIRE,United Kingdom - GBR,Clean Gas,2028,134.3051144357803,100.0,False
+DIRE,United Kingdom - GBR,Coal fired,2026,142.1601976391681,100.0,True
+DIRE,United Kingdom - GBR,EV Transport Equipment,2025,146.504331439348,100.0,False
+DIRE,United Kingdom - GBR,Equipment for PV panels,2025,384.5476168258438,100.0,False
+DIRE,United Kingdom - GBR,Equipment for wind power technology,2025,-99.80218888938892,-99.0,False
+DIRE,United Kingdom - GBR,Equipment for wind power technology,2026,146.4608154386903,100.0,False
+DIRE,United Kingdom - GBR,Hydrogen,2027,1829035.058391072,100.0,False
+DIRE,United Kingdom - GBR,Hydrogen,2028,130.3623448898858,100.0,False
+DIRE,World,CO2 Capture,2024,-99.77528751856175,-99.0,False
+DIRE,World,CO2 Capture,2027,63885223424.21523,100.0,False
+DIRE,World,CO2 Capture,2028,133.9537414915706,100.0,False
+DIRE,World,CO2 Capture,2029,190.7933010435339,100.0,False
+DIRE,World,Clean Gas,2024,-99.77508283814367,-99.0,False
+DIRE,World,Clean Gas,2027,63803362435.4287,100.0,False
+DIRE,World,Clean Gas,2028,134.3051142260773,100.0,False
+DIRE,World,Clean Gas,2029,190.7570834779086,100.0,False
+DIRE,World,Hydrogen,2027,935.8386142440638,100.0,False
+DIRE,World,Hydrogen,2028,117.8510086375021,100.0,False
+DIRE,World,Hydrogen,2029,189.3492257495888,100.0,False
