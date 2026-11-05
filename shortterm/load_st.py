@@ -11,6 +11,7 @@ By default it keeps production-related rows only.
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 import pandas as pd
@@ -53,13 +54,32 @@ def _split_variable(series: pd.Series) -> pd.DataFrame:
     parts = series.astype(str).str.split("|", n=1, expand=True)
     if 0 not in parts.columns:
         parts = parts.rename(columns={parts.columns[0]: 0})
+    # Flat variables (GDP, Population, Investment...) contain no "|", so
+    # str.split(expand=True) returns a single column and parts[1] would raise.
+    if 1 not in parts.columns:
+        parts[1] = pd.NA
+    # Some GEM-E3 labels carry a stray space after the pipe
+    # ("Gross Emissions| CO2 energy" vs "Gross Emissions|GHG").
+    secteur = parts[1].astype("string").str.strip()
     return pd.DataFrame(
         {
-            "Variable": parts[0],
-            "Secteur": parts[1].where(parts[1].notna() & (parts[1] != ""), pd.NA),
+            "Variable": parts[0].astype("string").str.strip(),
+            "Secteur": secteur.where(secteur.notna() & (secteur != ""), pd.NA),
         },
         index=series.index,
     )
+
+
+def _is_monetary_unit(unit: pd.Series) -> pd.Series:
+    text = unit.astype(str).str.lower()
+    return text.str.contains(r"\$|usd|us\$|eur|euro|dollar", regex=True, na=False)
+
+
+def _has_growth_label(frame: pd.DataFrame) -> pd.Series:
+    variable = frame["Variable"].astype(str).str.lower()
+    secteur = frame["Secteur"].astype(str).str.lower()
+    unit = frame["Unit"].astype(str).str.lower()
+    return variable.str.contains("growth", na=False) | secteur.str.contains("growth", na=False) | unit.str.contains("growth", na=False)
 
 
 def _load_raw(source: str) -> pd.DataFrame:
@@ -185,6 +205,15 @@ def _compute_yoy_growth(frame: pd.DataFrame) -> pd.DataFrame:
     return growth[["Scenario", "Region", "Variable", "Secteur", "Unit", *year_cols]]
 
 
+def _production_growth_source(frame: pd.DataFrame) -> pd.DataFrame:
+    if frame.empty:
+        return frame.copy()
+
+    mask = _is_monetary_unit(frame["Unit"])
+    mask &= ~_has_growth_label(frame)
+    return frame.loc[mask].reset_index(drop=True)
+
+
 def export_production_growth_excel(
     output_path: Path | str | None = None,
     sources: list[str] | str | None = None,
@@ -197,9 +226,13 @@ def export_production_growth_excel(
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     data = load_st(sources=sources, variable="Production")
-    growth_data = {source: _compute_yoy_growth(frame) for source, frame in data.items()}
+    growth_data = {
+        source: _compute_yoy_growth(_production_growth_source(frame))
+        for source, frame in data.items()
+    }
 
-    with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
+    temp_path = output_path.with_name(f"{output_path.stem}.__tmp{output_path.suffix}")
+    with pd.ExcelWriter(temp_path, engine="openpyxl") as writer:
         for source, frame in growth_data.items():
             sheet_name = source[:31]
             frame.to_excel(writer, sheet_name=sheet_name, index=False)
@@ -214,6 +247,13 @@ def export_production_growth_excel(
         else:
             combined = pd.DataFrame(columns=["Scenario", "Region", "Variable", "Secteur", "Unit", "Source"])
         combined.to_excel(writer, sheet_name="combined"[:31], index=False)
+
+    try:
+        os.replace(temp_path, output_path)
+    except PermissionError:
+        fallback = output_path.with_name(f"{output_path.stem}_new{output_path.suffix}")
+        os.replace(temp_path, fallback)
+        return fallback
 
     return output_path
 

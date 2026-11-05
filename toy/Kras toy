@@ -1,0 +1,233 @@
+"""
+Toy example: KRAS projection of an IO table under emission targets.
+
+Compares
+  A) current version : balance Z only, final demand y = x - Z1 is a residual,
+                       heuristic row caps (y_i = 0) added when y_i < 0, then re-solve
+  B) augmented       : balance T = [Z | Y] (Y with final-demand categories),
+                       row sums of T = x (soft, small sigma), column totals of Y soft,
+                       v recomputed afterwards as v = x' - 1'Z'.
+
+4 sectors: Coal power (C), Wind power (W), Steel (S), Services (V)
+2 final-demand categories: Households (H), Investment (I)
+"""
+import sys
+import numpy as np
+import pandas as pd
+
+pd.set_option("display.float_format", lambda v: f"{v:8.2f}")
+pd.set_option("display.width", 140)
+
+SECT = ["C", "W", "S", "V"]
+FD = ["H", "I"]
+n, f = len(SECT), len(FD)
+
+# --------------------------------------------------------------------------
+# Base year (balanced)
+# --------------------------------------------------------------------------
+Z = np.array([
+    #  C    W    S    V      (buyers)
+    [ 5.,  0., 20., 25.],   # C sells
+    [ 0.,  1.,  5.,  4.],   # W
+    [10.,  8., 30., 12.],   # S
+    [10.,  5., 25., 60.],   # V
+])
+Y = np.array([
+    #  H     I
+    [ 30.,   0.],   # C
+    [ 10.,   0.],   # W
+    [  5.,  35.],   # S
+    [150.,  50.],   # V
+])
+x = Z.sum(1) + Y.sum(1)            # 80, 20, 100, 300
+v = x - Z.sum(0)
+A = Z / x                          # column-normalised technical coefficients
+assert np.all(v > 0)
+
+s0 = np.array([5.0, 0.05, 2.0, 0.10])     # tCO2 per unit of output, base year
+
+# --------------------------------------------------------------------------
+# Scenario (horizon T)
+# --------------------------------------------------------------------------
+xT = np.array([60., 40., 105., 330.])     # coal -25 %, wind x2, steel +5 %, services +10 %
+sT = np.array([4.8, 0.05, 1.8, 0.09])
+_b = float(sys.argv[1]) if len(sys.argv) > 1 else 0.40
+beta = {2: _b, 3: _b}                     # ambition on embodied emissions of S and V purchases
+ELEC = [0, 1]                             # electricity product group (C, W)
+
+ET = sT @ xT                              # total footprint, fixed by the scenario
+Z0 = A * xT                               # unchanged-technology starting point
+w0 = Z0.sum(0)                            # column sums (base intermediate budget per unit of output)
+y0_resid = xT - Z0.sum(1)                 # residual final demand at the starting point
+# starting final demand for the augmented version: base composition, totals scaled so that
+# sum(Y0) = sum(xT) - sum(w0), i.e. GDP(expenditure) = GDP(income) at the starting point
+fd_growth = (xT.sum() - w0.sum()) / Y.sum()
+Y0 = Y * fd_growth
+
+# emission targets b_j = beta_j * sum_i s0_i Z_ij  (eq. 7 of the paper)
+b_target = {j: beta[j] * (s0 @ Z[:, j]) for j in beta}
+
+# --------------------------------------------------------------------------
+# Generic KRAS (positive cells, positive coefficients)
+# --------------------------------------------------------------------------
+class Constraint:
+    def __init__(self, name, idx, coef, target, sigma):
+        self.name, self.idx = name, np.asarray(idx)
+        self.coef = np.asarray(coef, float)
+        self.target0 = float(target)      # original target (reported)
+        self.target = float(target)       # current (possibly relaxed) target
+        self.sigma = float(sigma)
+
+    def value(self, z):
+        return self.coef @ z[self.idx]
+
+
+def solve_r(zc, g, c):
+    """Find t = log r such that sum g z exp(g t) = c (monotone in t)."""
+    lo, hi = -50.0, 50.0
+    for _ in range(200):
+        t = 0.5 * (lo + hi)
+        if np.sum(g * zc * np.exp(g * t)) > c:
+            hi = t
+        else:
+            lo = t
+    return 0.5 * (lo + hi)
+
+
+def kras(z0, cons, alpha=0.05, tol=1e-6, max_sweeps=20000, stall=200):
+    z = z0.copy()
+    relax, best, since = False, np.inf, 0
+    for sweep in range(max_sweeps):
+        for k in cons:
+            cur = k.value(z)
+            if relax and k.sigma > 0:      # eq. (11): move target towards realised value
+                gap = cur - k.target
+                k.target += np.sign(gap) * min(abs(gap), alpha * k.sigma)
+            zc = z[k.idx]
+            if k.target <= 0 or np.all(zc == 0):
+                continue
+            t = solve_r(zc, k.coef, k.target)
+            z[k.idx] = zc * np.exp(k.coef * t)
+        err = max(abs(k.value(z) - k.target) / max(abs(k.target), 1e-9) for k in cons)
+        if err < tol:
+            return z, sweep, relax
+        if err < best * (1 - 1e-4):
+            best, since = err, 0
+        else:
+            since += 1
+        if since > stall and not relax:   # no progress -> conflicting constraints
+            relax, since, best = True, 0, np.inf
+    raise RuntimeError(f"no convergence, err={err:.2e}")
+
+
+# cell indexing helpers ------------------------------------------------------
+def cell(i, j, ncols):
+    return i * ncols + j
+
+
+def common_constraints(ncols, sig_col, sig_beta, sig_grp):
+    """Constraints on Z columns, shared by both versions (cells of Z sit in
+    the first n columns of the balanced matrix, which has `ncols` columns)."""
+    cons = []
+    for j in range(n):                    # intermediate budget of each buyer
+        cons.append(Constraint(f"col {SECT[j]}", [cell(i, j, ncols) for i in range(n)],
+                               np.ones(n), w0[j], sig_col))
+    for j in range(n):                    # electricity budget per buyer (substitution C<->W only)
+        if Z0[ELEC, j].sum() > 0:
+            cons.append(Constraint(f"elec {SECT[j]}", [cell(i, j, ncols) for i in ELEC],
+                                   np.ones(len(ELEC)), Z0[ELEC, j].sum(), sig_grp))
+    for j, bt in b_target.items():        # emission target, eq. (7)
+        cons.append(Constraint(f"beta {SECT[j]}", [cell(i, j, ncols) for i in range(n)],
+                               sT, bt, sig_beta))
+    return cons
+
+
+SIG_COL, SIG_GRP, SIG_BETA, SIG_ROW, SIG_Y = 1.0, 0.5, 5.0, 0.2, 3.0
+
+# --------------------------------------------------------------------------
+# Version A : Z only, y residual, row-cap heuristic
+# --------------------------------------------------------------------------
+def version_A():
+    caps = []
+    for it in range(10):
+        cons = common_constraints(n, SIG_COL, SIG_BETA, SIG_GRP)
+        for i in caps:                    # eq. (12): y_i = 0  <=>  sum_j Z_ij = x_i
+            cons.append(Constraint(f"cap {SECT[i]}", [cell(i, j, n) for j in range(n)],
+                                   np.ones(n), xT[i], SIG_COL))
+        z, sweeps, relaxed = kras(Z0.flatten(), cons)
+        Zp = z.reshape(n, n)
+        y = xT - Zp.sum(1)
+        neg = [i for i in range(n) if y[i] < -1e-6 and i not in caps]
+        print(f"  solve {it+1}: {sweeps} sweeps, relaxation={'on' if relaxed else 'off'}, "
+              f"y = {np.round(y, 2)}")
+        if not neg:
+            return Zp, y, cons
+        caps += neg
+
+
+# --------------------------------------------------------------------------
+# Version B : T = [Z | Y] balanced together
+# --------------------------------------------------------------------------
+def version_B(Y0=Y0):
+    nc = n + f
+    T0 = np.hstack([Z0, Y0])
+    cons = common_constraints(nc, SIG_COL, SIG_BETA, SIG_GRP)
+    for i in range(n):                    # x = Z1 + Y1, target = scenario output
+        cons.append(Constraint(f"row {SECT[i]}", [cell(i, j, nc) for j in range(nc)],
+                               np.ones(nc), xT[i], SIG_ROW))
+    for k in range(f):                    # final-demand totals by category
+        cons.append(Constraint(f"FD {FD[k]}", [cell(i, n + k, nc) for i in range(n)],
+                               np.ones(n), Y0[:, k].sum(), SIG_Y))
+    z, sweeps, relaxed = kras(T0.flatten(), cons)
+    T = z.reshape(n, nc)
+    print(f"  single solve: {sweeps} sweeps, relaxation={'on' if relaxed else 'off'}")
+    return T[:, :n], T[:, n:], cons
+
+
+def report(name, Zp, Yp, cons):
+    ysum = Yp.sum(1) if Yp.ndim == 2 else Yp
+    xr = Zp.sum(1) + ysum                 # output implied by rows
+    vp = xr - Zp.sum(0)                   # value added closes the columns
+    print(f"\n=== {name} ===")
+    cols = SECT + (FD if Yp.ndim == 2 else ["y"])
+    tab = np.hstack([Zp, Yp if Yp.ndim == 2 else Yp[:, None]])
+    df = pd.DataFrame(tab, index=SECT, columns=cols)
+    df["x' (rows)"] = xr
+    df["x target"] = xT
+    print(df)
+    print(pd.DataFrame([vp, Zp.sum(0) + vp], index=["v'", "x' (cols)"], columns=SECT))
+    b = sT @ Zp
+    print("\n  constraint            target   realised  dev%")
+    for k in cons:
+        val = k.value(np.hstack([Zp, Yp if Yp.ndim == 2 else np.zeros((n, 0))]).flatten())
+        if k.name.startswith("cap"):
+            val = Zp[SECT.index(k.name[-1])].sum()
+        print(f"  {k.name:<18} {k.target0:9.2f} {val:9.2f} {100*(val/k.target0-1):6.1f}")
+    print("\n  checks")
+    print(f"   x = Z1 + Y1 (rows)        : {np.allclose(xr, Zp.sum(1) + ysum)}")
+    print(f"   x = 1'Z + v (cols)        : {np.allclose(xr, Zp.sum(0) + vp)}")
+    print(f"   sum Y = sum v (GDP)       : {np.isclose((Yp.sum()), vp.sum())}  ({Yp.sum():.2f} vs {vp.sum():.2f})")
+    print(f"   min final demand          : {Yp.min():.3f}")
+    print(f"   min value added           : {vp.min():.3f}")
+    print(f"   footprint s'x'            : {sT @ xr:.2f}  (scenario {ET:.2f})")
+    print(f"   sum_j b_j + s'y           : {b.sum() + sT @ ysum:.2f}")
+    print(f"   emissions bought by FD    : {sT @ ysum:.2f}")
+
+
+if __name__ == "__main__":
+    print("Base year x =", x, " v =", v)
+    print("Starting point Z0 = A diag(xT); residual y0 =", np.round(y0_resid, 2))
+    print("Emission targets b_j:", {SECT[j]: round(t, 2) for j, t in b_target.items()},
+          " starting values:", {SECT[j]: round(sT @ Z0[:, j], 2) for j in b_target})
+
+    print("\n--- Version A (Z only, residual y, row caps) ---")
+    ZA, yA, consA = version_A()
+    report("Version A", ZA, yA, consA)
+
+    print(f"\n--- Version B (augmented [Z | Y]), FD totals x{fd_growth:.3f}, consistent with GDP ---")
+    ZB, YB, consB = version_B()
+    report("Version B", ZB, YB, consB)
+
+    print("\n--- Version B' : same, but FD totals x1.08 (inconsistent with income-side GDP) ---")
+    ZB2, YB2, consB2 = version_B(Y * 1.08)
+    report("Version B'", ZB2, YB2, consB2)

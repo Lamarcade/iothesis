@@ -64,6 +64,26 @@ def load_io_system(
     return {"Z": Z, "x": x, "Y": Y}
 
 
+def load_x(
+    year: int,
+    table_type: str = "pxp",
+    zip_path: Path = ZIP_PATH,
+) -> pd.Series:
+    """
+    Charge uniquement x.txt (production totale par secteur).
+
+    Raccourci de `load_io_system` quand seul x est nécessaire : évite la
+    lecture de Z.txt (9800×9800, ~700 Mo de texte) et de Y.txt.
+
+    Returns
+    -------
+    pd.Series (n,) — MultiIndex (region, sector), en M.EUR
+    """
+    inner = _open_inner(year, table_type, zip_path)
+    with inner.open("x.txt") as fh:
+        return pd.read_csv(fh, sep="\t", header=0, index_col=[0, 1]).squeeze("columns")
+
+
 def load_extension(
     year: int,
     extension: str,
